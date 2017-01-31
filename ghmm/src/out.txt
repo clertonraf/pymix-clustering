@@ -1,0 +1,4 @@
+../cpgs/contig1.fasta
+../cpgs/contig2.fasta
+../cpgs/contig3.fasta
+../cpgs/contig3_test.txt

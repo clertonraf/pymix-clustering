@@ -1,0 +1,108 @@
+import mixture
+import copy
+
+class TabDataSet(mixture.DataSet):
+	"""
+	Class TabDataSet
+	"""
+
+	def __init__(self, *argv):
+		mixture.DataSet.__init__(self, *argv)
+		self.sampleNotes = [] # Annotations
+
+	def setNotes(self, notes):
+		self.sampleNotes = notes		
+
+	def __copy__(self):
+		"""
+		Interface to copy.copy function.
+		@return: deep copy of 'self'
+		"""
+		cop = TabDataSet()
+
+		cop.N = self.N    
+		cop.p = self.p
+		cop.sampleIDs = copy.copy(self.sampleIDs)
+		cop.sampleNotes = copy.copy(self.sampleNotes)
+		cop.headers = copy.copy(self.headers)
+		cop.dataMatrix = copy.deepcopy(self.dataMatrix)
+		cop.internalData = copy.deepcopy(self.internalData)
+
+		cop._internalData_views = copy.deepcopy(self._internalData_views) # XXX
+
+		cop.suff_dataRange = copy.copy(self.suff_dataRange)
+		cop.suff_p = self.suff_p
+		cop.suff_p_list = copy.deepcopy(self.suff_p_list)
+		return cop
+
+	def fromArray(self, array, IDs = None, col_header = None, notes = None):
+		super(TabDataSet,self).fromArray(array,IDs,col_header)
+		if notes:
+			self.sampleNotes = notes
+		else:
+			self.sampleNotes = ['-'] * self.N
+
+	def fromList(self,List, IDs = None, col_header = None):
+		super(TabDataSet,self).fromList(List,IDs,col_header)
+		if notes:
+			self.sampleNotes = notes
+		else:
+			self.sampleNotes = ['-'] * self.N
+
+	def fromFile(self, fileName):
+		self.complex = 0
+		self.seq_p = 0
+
+		f = open(fileName,"r")
+
+		self.headers = f.next().rstrip().split("\t")[2:]    
+    		self.classes = f.next().rstrip().split("\t")[2:]
+        print self.classes
+
+		for line in f:
+			
+			row = line.rstrip().split('\t')
+			
+			self.sampleIDs.append(row[0])
+			self.sampleNotes.append(row[1])
+
+			data_lin = [float(item) for item in row[2:]]
+
+			self.dataMatrix.append(data_lin)
+
+		self.N = len(self.dataMatrix)
+
+		# checking data-label consistency
+		for i in range(self.N):
+			assert len(self.dataMatrix[i]) == len(self.headers), "Different numbers of headers and data columns in files " + str(fileNames) + ", sample " + str(self.sampleIDs[i]) + " ," + str(len(self.dataMatrix[i])) + " != " + str( len(self.headers))
+
+		self.p = len(self.dataMatrix[0])
+
+	def __str__(self):
+		"""
+		String representation of the TabDataSet
+
+		@return: string representation
+		"""
+		strout = "Data set overview:\n"
+		strout += "N = "+ str(self.N) + "\n"
+		strout += "p = "+str(self.p) + "\n\n"       
+		strout +=  "sampleIDs = " + str(self.sampleIDs)+ "\n\n"
+		strout +=  "sampleNotes = " + str(self.sampleNotes)+ "\n\n"
+		strout += "headers = "+ str(self.headers)+ "\n\n"
+
+		return strout
+		
+	def writeFile(self, filename):
+		f = open(filename, 'w')
+		f.write("ID\tNT\t")
+		f.write(strTabList(self.headers) + "\n")
+		for i in range(self.N):
+			f.write(str(self.sampleIDs[i]) + "\t" + str(self.sampleNotes[i]) + "\t" + strTabList(self.dataMatrix[i]) + "\n")
+		f.close() 
+
+def strTabList(List):
+	stres = str(List[0])
+	for elem in List[1:]:
+		stres += "\t" + str(elem)
+	return stres

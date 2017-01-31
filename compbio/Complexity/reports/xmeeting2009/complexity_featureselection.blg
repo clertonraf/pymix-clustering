@@ -1,0 +1,104 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: complexity_featureselection.aux
+The style file: bmc_article.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: complexity_featureselection.bib
+Database file #2: complexity.bib
+Repeated entry---line 447 of file complexity.bib
+ : @book{Hastie2001
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 639 of file complexity.bib
+ : @article{Dudoit2002
+ :                    ,
+I'm skipping whatever remains of this entry
+Database file #3: cancerclustering.bib
+Repeated entry---line 683 of file cancerclustering.bib
+ : @article{Spang2003
+ :                   ,
+I'm skipping whatever remains of this entry
+Database file #4: bases.bib
+Database file #5: methodology.bib
+Repeated entry---line 4 of file methodology.bib
+ : @inproceedings{Costa2009b
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 63 of file methodology.bib
+ : @article{Dudoit2002
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 87 of file methodology.bib
+ : @book{Ripley1996
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 94 of file methodology.bib
+ : @article{Souto2008
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 142 of file methodology.bib
+ : @book{Vapnik1995
+ :                 ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "Costa2009b"
+refers to entry "conf/wob/2009", which doesn't exist
+Warning--I didn't find a database entry for "conf/wob/2009"
+Name 1 in "Yanxiong Peng, Wenyuan Li, and Ying Liu" has a comma at the end for entry Peng2006
+while executing---line 3737 of file bmc_article.bst
+Name 2 in "H. Friedman and L. C. Rafsky," has a comma at the end for entry Friedman1979
+while executing---line 3737 of file bmc_article.bst
+Name 2 in "H. Friedman and L. C. Rafsky," has a comma at the end for entry Friedman1979
+while executing---line 3737 of file bmc_article.bst
+Name 1 in "Yanxiong Peng, Wenyuan Li, and Ying Liu" has a comma at the end for entry Peng2006
+while executing---line 3751 of file bmc_article.bst
+Name 1 in "Yanxiong Peng, Wenyuan Li, and Ying Liu" has a comma at the end for entry Peng2006
+while executing---line 3751 of file bmc_article.bst
+Name 1 in "Yanxiong Peng, Wenyuan Li, and Ying Liu" has a comma at the end for entry Peng2006
+while executing---line 3751 of file bmc_article.bst
+Name 2 in "H. Friedman and L. C. Rafsky," has a comma at the end for entry Friedman1979
+while executing---line 3751 of file bmc_article.bst
+Name 2 in "H. Friedman and L. C. Rafsky," has a comma at the end for entry Friedman1979
+while executing---line 3751 of file bmc_article.bst
+Name 2 in "H. Friedman and L. C. Rafsky," has a comma at the end for entry Friedman1979
+while executing---line 3751 of file bmc_article.bst
+You've used 44 entries,
+            3603 wiz_defined-function locations,
+            1043 strings with 20371 characters,
+and the built_in function-call counts, 145338 in all, are:
+= -- 13014
+> -- 1386
+< -- 490
++ -- 1467
+- -- 447
+* -- 18334
+:= -- 23756
+add.period$ -- 88
+call.type$ -- 44
+change.case$ -- 449
+chr.to.int$ -- 1
+cite$ -- 44
+duplicate$ -- 10185
+empty$ -- 11232
+format.name$ -- 1820
+if$ -- 28096
+int.to.chr$ -- 0
+int.to.str$ -- 88
+missing$ -- 2948
+newline$ -- 1129
+num.names$ -- 89
+pop$ -- 1714
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 88
+skip$ -- 720
+stack$ -- 0
+substring$ -- 21912
+swap$ -- 2184
+text.length$ -- 83
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 773
+width$ -- 46
+write$ -- 2702
+(There were 18 error messages)

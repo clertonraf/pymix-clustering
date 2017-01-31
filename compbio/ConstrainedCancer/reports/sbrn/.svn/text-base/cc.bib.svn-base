@@ -1,0 +1,527 @@
+% This file was created with JabRef 2.3.1.
+% Encoding: UTF-8
+
+@ARTICLE{Braga-Neto2004,
+  author = {Ulisses M Braga-Neto and Edward R Dougherty},
+  title = {Is cross-validation valid for small-sample microarray classification?},
+  journal = {Bioinformatics},
+  year = {2004},
+  volume = {20},
+  pages = {374--380},
+  number = {3},
+  month = {Feb},
+  abstract = {MOTIVATION: Microarray classification typically possesses two striking
+	attributes: (1) classifier design and error estimation are based
+	on remarkably small samples and (2) cross-validation error estimation
+	is employed in the majority of the papers. Thus, it is necessary
+	to have a quantifiable understanding of the behavior of cross-validation
+	in the context of very small samples. RESULTS: An extensive simulation
+	study has been performed comparing cross-validation, resubstitution
+	and bootstrap estimation for three popular classification rules-linear
+	discriminant analysis, 3-nearest-neighbor and decision trees (CART)-using
+	both synthetic and real breast-cancer patient data. Comparison is
+	via the distribution of differences between the estimated and true
+	errors. Various statistics for the deviation distribution have been
+	computed: mean (for estimator bias), variance (for estimator precision),
+	root-mean square error (for composition of bias and variance) and
+	quartile ranges, including outlier behavior. In general, while cross-validation
+	error estimation is much less biased than resubstitution, it displays
+	excessive variance, which makes individual estimates unreliable for
+	small samples. Bootstrap methods provide improved performance relative
+	to variance, but at a high computational cost and often with increased
+	bias (albeit, much less than with resubstitution).},
+  doi = {10.1093/bioinformatics/btg419},
+  institution = {Section of Clinical Cancer Genetics, University of Texas MD Anderson
+	Cancer Center, Houston, TX, USA.},
+  keywords = {Algorithms; Benchmarking; Breast Neoplasms; Computer Simulation; Gene
+	Expression Profiling; Genetic Predisposition to Disease; Genetic
+	Testing; Humans; Models, Genetic; Models, Statistical; Oligonucleotide
+	Array Sequence Analysis; Pattern Recognition, Automated; Reproducibility
+	of Results; Sample Size; Sensitivity and Specificity},
+  owner = {igcf},
+  pii = {20/3/374},
+  pmid = {14960464},
+  timestamp = {2010.03.30},
+  url = {http://dx.doi.org/10.1093/bioinformatics/btg419}
+}
+
+@ARTICLE{Brunet2004,
+  author = {Jean-Philippe Brunet and Pablo Tamayo and Todd R Golub and Jill P
+	
+	Mesirov},
+  title = {Metagenes and molecular pattern discovery using matrix factorization.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2004},
+  volume = {101},
+  pages = {4164--4169},
+  number = {12},
+  month = {Mar},
+  abstract = {We describe here the use of nonnegative matrix factorization (NMF),
+	
+	an algorithm based on decomposition by parts that can reduce the
+	
+	dimension of expression data from thousands of genes to a handful
+	
+	of metagenes. Coupled with a model selection mechanism, adapted to
+	
+	work for any stochastic clustering algorithm, NMF is an efficient
+	
+	method for identification of distinct molecular patterns and provides
+	
+	a powerful method for class discovery. We demonstrate the ability
+	
+	of NMF to recover meaningful biological information from cancer-related
+	
+	microarray data. NMF appears to have advantages over other methods
+	
+	such as hierarchical clustering or self-organizing maps. We found
+	
+	it less sensitive to a priori selection of genes or initial conditions
+	
+	and able to detect alternative or context-dependent patterns of gene
+	
+	expression in complex biological systems. This ability, similar to
+	
+	semantic polysemy in text, provides a general method for robust molecular
+	
+	pattern discovery.},
+  doi = {10.1073/pnas.0308531101},
+  institution = {The Eli and Edythe L. Broad Institute, Massachusetts Institute of
+	
+	Technology and Harvard University, 320 Charles Street, Cambridge,
+	
+	MA 02141, USA.},
+  keywords = {Algorithms; Central Nervous System Neoplasms; Computational Biology;
+	
+	Data Interpretation, Statistical; Leukemia; Medulloblastoma; Models,
+	
+	Genetic; Neoplasms},
+  owner = {ivan},
+  pii = {0308531101},
+  pmid = {15016911},
+  timestamp = {2008.12.17},
+  url = {http://dx.doi.org/10.1073/pnas.0308531101}
+}
+
+@ARTICLE{Costa2009a,
+  author = {Ivan G Costa and Alexander Schönhuth and Christoph Hafemeister and
+	Alexander Schliep},
+  title = {Constrained mixture estimation for analysis and robust classification
+	of clinical time series.},
+  journal = {Bioinformatics},
+  year = {2009},
+  volume = {25},
+  pages = {i6--14},
+  number = {12},
+  month = {Jun},
+  abstract = {MOTIVATION: Personalized medicine based on molecular aspects of diseases,
+	such as gene expression profiling, has become increasingly popular.
+	However, one faces multiple challenges when analyzing clinical gene
+	expression data; most of the well-known theoretical issues such as
+	high dimension of feature spaces versus few examples, noise and missing
+	data apply. Special care is needed when designing classification
+	procedures that support personalized diagnosis and choice of treatment.
+	Here, we particularly focus on classification of interferon-beta
+	(IFNbeta) treatment response in Multiple Sclerosis (MS) patients
+	which has attracted substantial attention in the recent past. Half
+	of the patients remain unaffected by IFNbeta treatment, which is
+	still the standard. For them the treatment should be timely ceased
+	to mitigate the side effects. RESULTS: We propose constrained estimation
+	of mixtures of hidden Markov models as a methodology to classify
+	patient response to IFNbeta treatment. The advantages of our approach
+	are that it takes the temporal nature of the data into account and
+	its robustness with respect to noise, missing data and mislabeled
+	samples. Moreover, mixture estimation enables to explore the presence
+	of response sub-groups of patients on the transcriptional level.
+	We clearly outperformed all prior approaches in terms of prediction
+	accuracy, raising it, for the first time, >90\%. Additionally, we
+	were able to identify potentially mislabeled samples and to sub-divide
+	the good responders into two sub-groups that exhibited different
+	transcriptional response programs. This is supported by recent findings
+	on MS pathology and therefore may raise interesting clinical follow-up
+	questions. AVAILABILITY: The method is implemented in the GQL framework
+	and is available at http://www.ghmm.org/gql. Datasets are available
+	at http://www.cin.ufpe.br/ approximately igcf/MSConst. SUPPLEMENTARY
+	INFORMATION: Supplementary data are available at Bioinformatics online.},
+  doi = {10.1093/bioinformatics/btp222},
+  institution = {Center of Informatics, Federal University of Pernambuco, Recife,
+	Brazil. igcf@cin.ufpe.br},
+  keywords = {Classification; Computational Biology; Gene Expression Profiling;
+	Humans; Interferon-beta; Markov Chains; Multiple Sclerosis},
+  owner = {ivan},
+  pii = {btp222},
+  pmid = {19478017},
+  timestamp = {2009.07.23},
+  url = {http://dx.doi.org/10.1093/bioinformatics/btp222}
+}
+
+@ARTICLE{Dem2006,
+  author = {Dem\v{s}ar, Janez},
+  title = {Statistical Comparisons of Classifiers over Multiple Data Sets},
+  journal = {J. Mach. Learn. Res.},
+  year = {2006},
+  volume = {7},
+  pages = {1--30},
+  issn = {1532-4435},
+  publisher = {JMLR.org}
+}
+
+@ARTICLE{Dudoit2002,
+  author = {Dudoit, Sandrine and Fridlyand, Jane and Speed, Terence P. },
+  title = {Comparison of Discrimination Methods for the Classification of Tumors
+	Using Gene Expression Data},
+  journal = {Journal of the American Statistical Association},
+  year = {2002},
+  volume = {97},
+  pages = {77--87},
+  number = {457},
+  abstract = {A reliable and precise classification of tumors is essential for successful
+	treatment of cancer. cDNA microarrays and high-density oligonucleotide
+	chips are novel biotechnologies which are being used increasingly
+	in cancer research. By allowing the monitoring of expression levels
+	for thousands of genes simultaneously, such techniques may lead to
+	a more complete understanding of the molecular variations among tumors
+	and hence to a finer and more informative classification. The ability
+	to...},
+  citeulike-article-id = {694289},
+  keywords = {fs, microarray},
+  owner = {igcf},
+  posted-at = {2006-06-13 06:05:24},
+  priority = {0},
+  timestamp = {2010.03.17},
+  url = {http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.2275}
+}
+
+@ARTICLE{Hastie1996,
+  author = {Trevor Hastie and Robert Tibshirani},
+  title = {Discriminant Analysis by Gaussian Mixtures},
+  journal = {Journal of the Royal Statistical Society, Series B},
+  year = {1996},
+  volume = {58},
+  pages = {155--176}
+}
+
+@BOOK{Hastie2001,
+  title = {The elements of statistical learning: Data mining, inference and
+	prediction},
+  publisher = {Springer, New York},
+  year = {2001},
+  author = {T Hastie and R Tibshirani and JH Friedman},
+  owner = {igcf},
+  timestamp = {2010.03.17}
+}
+
+@INPROCEEDINGS{Lange2005,
+  author = {Tilman Lange and Martin H.C. Law and Anil K. Jain and Joachim M.
+	
+	Buhmann.},
+  title = {Learning with Constrained and Unlabelled Data},
+  booktitle = {IEEE Computer Society Conference on Computer Vision and Pattern Recognition},
+  year = {2005},
+  volume = {1},
+  pages = {731-738},
+  owner = {filho},
+  timestamp = {2008.12.01}
+}
+
+@ARTICLE{Lottaz2008,
+  author = {Claudio Lottaz and Dennis Kostka and Florian Markowetz and Rainer
+	
+	Spang},
+  title = {Computational diagnostics with gene expression profiles.},
+  journal = {Methods Mol Biol},
+  year = {2008},
+  volume = {453},
+  pages = {281--296},
+  abstract = {Gene expression profiling using micro-arrays is a modern approach
+	
+	for molecular diagnostics. In clinical micro-array studies, researchers
+	
+	aim to predict disease type, survival, or treatment response using
+	
+	gene expression profiles. In this process, they encounter a series
+	
+	of obstacles and pitfalls. This chapter reviews fundamental issues
+	
+	from machine learning and recommends a procedure for the computational
+	
+	aspects of a clinical micro-array study.},
+  doi = {10.1007/978-1-60327-429-6_15},
+  institution = {Max Planck Institute for Molecular Genetics and Berlin Center for
+	
+	Genome-Based Bioinformatics, Berlin, Germany.},
+  keywords = {Animals; Computational Biology; Databases, Genetic; Gene Expression
+	
+	Profiling; Humans; Molecular Diagnostic Techniques; Oligonucleotide
+	
+	Array Sequence Analysis},
+  owner = {ivan},
+  pmid = {18712310},
+  timestamp = {2009.01.02},
+  url = {http://dx.doi.org/10.1007/978-1-60327-429-6_15}
+}
+
+@INCOLLECTION{Lu2005,
+  author = {Zhengdong Lu and Todd Leen},
+  title = {Semi-supervised Learning with Penalized Probabilistic Clustering},
+  booktitle = {Advances in Neural Information Processing Systems 17},
+  publisher = {MIT Press},
+  year = {2005},
+  editor = {Lawrence K. Saul and Yair Weiss and {L\'{e}on} Bottou},
+  pages = {849-856},
+  original = {0849_867.PDF},
+  owner = {igcf},
+  timestamp = {2008.12.01}
+}
+
+@BOOK{MacLachlan2000,
+  title = {Finite Mixture Models},
+  publisher = {Wiley},
+  year = {2000},
+  author = {G MacLachlan and D Peel},
+  series = {Wiley Series in Probability and Statistics},
+  owner = {igcf},
+  timestamp = {2010.03.15}
+}
+
+@ARTICLE{Monti2003,
+  author = {Stefano Monti and Pablo Tamayo and Jill P. Mesirov and Todd R. Golub},
+  title = {Consensus Clustering: A Resampling-Based Method for Class Discovery
+	
+	and Visualization of Gene Expression Microarray Data},
+  journal = {Machine Learning},
+  year = {2003},
+  volume = {52},
+  pages = {91-118},
+  number = {1-2},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://dx.doi.org/10.1023/A:1023949509487},
+  owner = {igcf},
+  timestamp = {2010.03.17}
+}
+
+@ARTICLE{quackenbush01j,
+  author = {J. Quackenbush},
+  title = {Computational analysis of {cDNA} microarray data},
+  journal = {Nature Reviews},
+  year = {2001},
+  volume = {6},
+  pages = {418-428},
+  number = {2},
+  owner = {igcf},
+  timestamp = {2010.03.15}
+}
+
+@ARTICLE{Reimand2007,
+  author = {Jüri Reimand and Meelis Kull and Hedi Peterson and Jaanus Hansen
+	and Jaak Vilo},
+  title = {g:Profiler--a web-based toolset for functional profiling of gene
+	lists from large-scale experiments.},
+  journal = {Nucleic Acids Res},
+  year = {2007},
+  volume = {35},
+  pages = {W193--W200},
+  number = {Web Server issue},
+  month = {Jul},
+  abstract = {g:Profiler (http://biit.cs.ut.ee/gprofiler/) is a public web server
+	for characterising and manipulating gene lists resulting from mining
+	high-throughput genomic data. g:Profiler has a simple, user-friendly
+	web interface with powerful visualisation for capturing Gene Ontology
+	(GO), pathway, or transcription factor binding site enrichments down
+	to individual gene levels. Besides standard multiple testing corrections,
+	a new improved method for estimating the true effect of multiple
+	testing over complex structures like GO has been introduced. Interpreting
+	ranked gene lists is supported from the same interface with very
+	efficient algorithms. Such ordered lists may arise when studying
+	the most significantly affected genes from high-throughput data or
+	genes co-expressed with the query gene. Other important aspects of
+	practical data analysis are supported by modules tightly integrated
+	with g:Profiler. These are: g:Convert for converting between different
+	database identifiers; g:Orth for finding orthologous genes from other
+	species; and g:Sorter for searching a large body of public gene expression
+	data for co-expression. g:Profiler supports 31 different species,
+	and underlying data is updated regularly from sources like the Ensembl
+	database. Bioinformatics communities wishing to integrate with g:Profiler
+	can use alternative simple textual outputs.},
+  doi = {10.1093/nar/gkm226},
+  institution = {Institute of Computer Science, University of Tartu, Liivi 2, 50409
+	Tartu, Estonia.},
+  keywords = {Algorithms; Animals; Computational Biology; DNA; Data Interpretation,
+	Statistical; Gene Expression Profiling; Genomics; Humans; Internet;
+	Oligonucleotide Array Sequence Analysis; RNA, Messenger; Software;
+	User-Computer Interface},
+  owner = {ivan},
+  pii = {gkm226},
+  pmid = {17478515},
+  timestamp = {2010.04.13},
+  url = {http://dx.doi.org/10.1093/nar/gkm226}
+}
+
+@INPROCEEDINGS{Slonim2000,
+  author = {D. K. Slonim and P. Tamayo and J. P. Mesirov and T. R. Golub and
+	E. S. Lander},
+  title = {Class prediction and discovery using gene expression data},
+  booktitle = {{RECOMB}},
+  year = {2000},
+  pages = {263-272},
+  owner = {igcf},
+  timestamp = {2010.03.15}
+}
+
+@ARTICLE{Souto2008,
+  author = {Marcilio C P de Souto and Ivan G Costa and Daniel S A de Araujo and
+	Teresa B Ludermir and Alexander Schliep},
+  title = {Clustering cancer gene expression data: a comparative study.},
+  journal = {BMC Bioinformatics},
+  year = {2008},
+  volume = {9},
+  pages = {497},
+  abstract = {BACKGROUND: The use of clustering methods for the discovery of cancer
+	subtypes has drawn a great deal of attention in the scientific community.
+	While bioinformaticians have proposed new clustering methods that
+	take advantage of characteristics of the gene expression data, the
+	medical community has a preference for using "classic" clustering
+	methods. There have been no studies thus far performing a large-scale
+	evaluation of different clustering methods in this context. RESULTS/CONCLUSION:
+	We present the first large-scale analysis of seven different clustering
+	methods and four proximity measures for the analysis of 35 cancer
+	gene expression data sets. Our results reveal that the finite mixture
+	of Gaussians, followed closely by k-means, exhibited the best performance
+	in terms of recovering the true structure of the data sets. These
+	methods also exhibited, on average, the smallest difference between
+	the actual number of classes in the data sets and the best number
+	of clusters as indicated by our validation criteria. Furthermore,
+	hierarchical methods, which have been widely used by the medical
+	community, exhibited a poorer recovery performance than that of the
+	other methods evaluated. Moreover, as a stable basis for the assessment
+	and comparison of different clustering methods for cancer gene expression
+	data, this study provides a common group of data sets (benchmark
+	data sets) to be shared among researchers and used for comparisons
+	with new methods. The data sets analyzed in this study are available
+	at http://algorithmics.molgen.mpg.de/Supplements/CompCancer/.},
+  doi = {10.1186/1471-2105-9-497},
+  institution = {Computational Molecular Biology, Max Planck Institute for Molecular
+	Genetics, Berlin, Germany. marcilio@dimap.ufrn.br},
+  keywords = {Algorithms; Cluster Analysis; Computational Biology; DNA, Complementary;
+	Gene Expression Profiling; Gene Expression Regulation, Neoplastic;
+	Genes, Neoplasm; Humans; Models, Biological; Models, Statistical;
+	Multigene Family; Neoplasms; Normal Distribution; Oligonucleotide
+	Array Sequence Analysis; Pattern Recognition, Automated},
+  owner = {ivan},
+  pii = {1471-2105-9-497},
+  pmid = {19038021},
+  timestamp = {2009.07.23},
+  url = {http://dx.doi.org/10.1186/1471-2105-9-497}
+}
+
+@ARTICLE{Spang2003,
+  author = {Spang, Rainer},
+  title = {Diagnostic signatures from microarrays: a bioinformatics concept
+	
+	for personalized medicine},
+  journal = {BIOSILICO},
+  year = {2003},
+  volume = {1},
+  pages = {64--68},
+  number = {2},
+  month = may,
+  keywords = {Bioinformatics, gene expression, microarrays, DNA-chips, computational
+	
+	diagnostics, personalized medicine, tumor classification, statistical
+	
+	learning, gene selection, Bioinformatics, gene expression, microarrays,
+	
+	DNA-chips, computational diagnostics, personalized medicine, tumor
+	
+	classification, statistical learning, gene selection},
+  owner = {filho},
+  timestamp = {2008.02.08},
+  url = {http://www.sciencedirect.com/science/article/B75GS-4BRJ67W-J/2/2fa50a82fa348085a698a1b42db4f6a0}
+}
+
+@ARTICLE{Tibshirani2002,
+  author = {Tibshirani, Robert and Hastie, Trevor and Narasimhan, Balasubramanian
+	and Chu, Gilbert},
+  title = {Diagnosis of multiple cancer types by shrunken centroids of gene
+	expression},
+  journal = {PNAS},
+  year = {2002},
+  volume = {99},
+  pages = {6567--6572},
+  number = {10},
+  month = {May},
+  abstract = {We have devised an approach to cancer class prediction from gene expression
+	profiling, based on an enhancement of the simple nearest prototype
+	(centroid) classifier. We shrink the prototypes and hence obtain
+	a classifier that is often more accurate than competing methods.
+	Our method of "nearest shrunken centroids" identifies subsets of
+	genes that best characterize each class. The technique is general
+	and can be used in many other classification problems. To demonstrate
+	its effectiveness, we show that the method was highly efficient in
+	finding genes for classifying small round blue cell tumors and leukemias.},
+  citeulike-article-id = {504897},
+  citeulike-linkout-0 = {http://dx.doi.org/10.1073/pnas.082099299},
+  citeulike-linkout-1 = {http://www.pnas.org/content/99/10/6567.full.abstract},
+  citeulike-linkout-2 = {http://www.pnas.org/content/99/10/6567.full.full.pdf},
+  citeulike-linkout-3 = {http://www.pnas.org/cgi/content/abstract/99/10/6567},
+  citeulike-linkout-4 = {http://view.ncbi.nlm.nih.gov/pubmed/12011421},
+  citeulike-linkout-5 = {http://www.hubmed.org/display.cgi?uids=12011421},
+  doi = {10.1073/pnas.082099299},
+  keywords = {algorithm, expression},
+  owner = {igcf},
+  posted-at = {2009-01-23 13:51:55},
+  priority = {2},
+  timestamp = {2010.03.31},
+  url = {http://dx.doi.org/10.1073/pnas.082099299}
+}
+
+@ARTICLE{Veer2008,
+  author = {Laura J van't Veer and René Bernards},
+  title = {Enabling personalized cancer medicine through analysis of gene-expression
+	patterns.},
+  journal = {Nature},
+  year = {2008},
+  volume = {452},
+  pages = {564--570},
+  number = {7187},
+  month = {Apr},
+  abstract = {Therapies for patients with cancer have changed gradually over the
+	past decade, moving away from the administration of broadly acting
+	cytotoxic drugs towards the use of more-specific therapies that are
+	targeted to each tumour. To facilitate this shift, tests need to
+	be developed to identify those individuals who require therapy and
+	those who are most likely to benefit from certain therapies. In particular,
+	tests that predict the clinical outcome for patients on the basis
+	of the genes expressed by their tumours are likely to increasingly
+	affect patient management, heralding a new era of personalized medicine.},
+  doi = {10.1038/nature06915},
+  institution = {Agendia BV, Louwesweg 6, 1066 EC Amsterdam, The Netherlands.},
+  keywords = {Gene Expression Profiling; Gene Expression Regulation, Neoplastic;
+	Humans; Neoplasms; Patients; Signal Transduction; Tumor Markers,
+	Biological},
+  owner = {ivan},
+  pii = {nature06915},
+  pmid = {18385730},
+  timestamp = {2009.01.05},
+  url = {http://dx.doi.org/10.1038/nature06915}
+}
+
+@BOOK{Chapelle2006,
+  title = {Semi-Supervised Learning},
+  publisher = {MIT Press},
+  year = {2006},
+  editor = {O. Chapelle and B. Sch{\"o}lkopf and A. Zien},
+  address = {Cambridge, MA},
+  owner = {igcf},
+  timestamp = {2010.03.15},
+  url = {http://www.kyb.tuebingen.mpg.de/ssl-book}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

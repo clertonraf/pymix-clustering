@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-4.6.dtd">
+<!-- eric4 project file for project pymix -->
+<!-- Saved: 2010-01-27, 01:42:40 -->
+<!-- Copyright (C) 2010 ,  -->
+<Project version="4.6">
+  <Language>en</Language>
+  <ProgLanguage mixed="0">Python</ProgLanguage>
+  <ProjectType>Console</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Sources>
+    <Source>struct_eval.py</Source>
+    <Source>alphabet.py</Source>
+    <Source>AminoAcidPropertyPrior.py</Source>
+    <Source>bioMixture.py</Source>
+    <Source>crp.py</Source>
+    <Source>entropy_hist.py</Source>
+    <Source>fullEnumerationExhaustive.py</Source>
+    <Source>mixture.py</Source>
+    <Source>mixtureBinomial.py</Source>
+    <Source>mixtureHMM.py</Source>
+    <Source>mixtureHMMunittests.py</Source>
+    <Source>mixtureLinearGaussian.py</Source>
+    <Source>mixtureTools.py</Source>
+    <Source>mixtureunittests.py</Source>
+    <Source>plotMixture.py</Source>
+    <Source>randomMixtures.py</Source>
+    <Source>setPartitions.py</Source>
+    <Source>setup.py</Source>
+    <Source>TabDataSet.py</Source>
+    <Source>test.py</Source>
+    <Source>test_datareader.py</Source>
+    <Source>test_dim.py</Source>
+    <Source>test_dim2.py</Source>
+    <Source>test_dim3.py</Source>
+    <Source>test_dim4.py</Source>
+    <Source>test_dtree.py</Source>
+    <Source>test_file.py</Source>
+    <Source>test_hmm.py</Source>
+    <Source>test_iq.py</Source>
+    <Source>test_mixture.py</Source>
+    <Source>test_struct.py</Source>
+    <Source>test_tilt.py</Source>
+    <Source>test_traceback.py</Source>
+    <Source>unittestlineargaussian.py</Source>
+  </Sources>
+  <Forms>
+  </Forms>
+  <Translations>
+  </Translations>
+  <Resources>
+  </Resources>
+  <Interfaces>
+  </Interfaces>
+  <Others>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES" />
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES" />
+    <FiletypeAssociation pattern="*.py" type="SOURCES" />
+    <FiletypeAssociation pattern="*.ptl" type="SOURCES" />
+  </FiletypeAssociations>
+</Project>

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: ConstrainedCancer.aux
+The style file: abbrv.bst
+Database file #1: bases.bib
+Database file #2: cc.bib
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            671 strings with 9221 characters,
+and the built_in function-call counts, 9378 in all, are:
+= -- 863
+> -- 668
+< -- 3
++ -- 263
+- -- 241
+* -- 840
+:= -- 1618
+add.period$ -- 65
+call.type$ -- 21
+change.case$ -- 179
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 260
+empty$ -- 572
+format.name$ -- 241
+if$ -- 1842
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 23
+newline$ -- 108
+num.names$ -- 45
+pop$ -- 163
+preamble$ -- 1
+purify$ -- 161
+quote$ -- 0
+skip$ -- 173
+stack$ -- 0
+substring$ -- 530
+swap$ -- 41
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 78
+warning$ -- 0
+while$ -- 77
+width$ -- 23
+write$ -- 234

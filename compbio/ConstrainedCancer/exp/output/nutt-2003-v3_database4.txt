@@ -1,0 +1,4435 @@
+/media/Clerton_DATA/mestrado/Bases/ijcnn/original/nutt-2003-v3_database.txt
+
+Classes [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.28571429  0.28571429  0.19047619]
+Step 1: log likelihood: -28607.4908481   (diff=-28606.4908481)
+Step 2: log likelihood: -26240.3699994   (diff=2367.12084868)
+Step 3: log likelihood: -23162.2458933   (diff=3078.1241061)
+Step 4: log likelihood: -21887.2868482   (diff=1274.95904509)
+Step 5: log likelihood: -20045.9477052   (diff=1841.33914295)
+Step 6: log likelihood: -20041.6086668   (diff=4.33903843021)
+Step 6: log likelihood: -20041.6086668   (diff=0.0)
+Convergence reached with log_p -20041.6086668 after 6 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.33333333  0.23809524  0.19047619  0.23809524]
+Step 1: log likelihood: -25616.5460492   (diff=-25615.5460492)
+Step 2: log likelihood: -22887.2926423   (diff=2729.25340692)
+Step 2: log likelihood: -22887.2926423   (diff=0.0)
+Convergence reached with log_p -22887.2926423 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.23809524  0.38095238  0.19047619]
+Step 1: log likelihood: -28361.487808   (diff=-28360.487808)
+Step 2: log likelihood: -25999.0236879   (diff=2362.46412017)
+Step 3: log likelihood: -25287.0038673   (diff=712.019820622)
+Step 4: log likelihood: -25285.5088523   (diff=1.4950149107)
+Step 4: log likelihood: -25285.5088523   (diff=0.0)
+Convergence reached with log_p -25285.5088523 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.38095238  0.19047619  0.19047619]
+Step 1: log likelihood: -27962.0436566   (diff=-27961.0436566)
+Step 2: log likelihood: -23622.2013295   (diff=4339.84232717)
+Step 3: log likelihood: -21879.4321658   (diff=1742.76916361)
+Step 3: log likelihood: -21879.4321658   (diff=1.45519152284e-11)
+Convergence reached with log_p -21879.4321658 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.28571429  0.28571429  0.23809524]
+Step 1: log likelihood: -26234.437078   (diff=-26233.437078)
+Step 2: log likelihood: -24402.1963251   (diff=1832.24075292)
+Step 3: log likelihood: -23443.2097548   (diff=958.986570295)
+Step 3: log likelihood: -23443.2097548   (diff=0.0)
+Convergence reached with log_p -23443.2097548 after 3 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.0952381   0.33333333  0.33333333  0.23809524]
+Step 1: log likelihood: -27145.6241655   (diff=-27144.6241655)
+Step 2: log likelihood: -24019.9559084   (diff=3125.66825706)
+Step 3: log likelihood: -21894.6500969   (diff=2125.30581152)
+Step 3: log likelihood: -21894.6500969   (diff=0.0)
+Convergence reached with log_p -21894.6500969 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.19047619  0.23809524  0.33333333]
+Step 1: log likelihood: -28084.0957918   (diff=-28083.0957918)
+Step 2: log likelihood: -27321.1909996   (diff=762.904792283)
+Step 3: log likelihood: -25974.4032629   (diff=1346.78773662)
+Step 4: log likelihood: -23522.9659671   (diff=2451.43729586)
+Step 5: log likelihood: -22668.7738581   (diff=854.192108996)
+Step 5: log likelihood: -22668.7738581   (diff=0.0)
+Convergence reached with log_p -22668.7738581 after 5 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.33333333  0.28571429  0.14285714  0.23809524]
+Step 1: log likelihood: -26057.5774332   (diff=-26056.5774332)
+Step 2: log likelihood: -23538.7193784   (diff=2518.85805482)
+Step 2: log likelihood: -23538.7193784   (diff=0.0)
+Convergence reached with log_p -23538.7193784 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.23809524  0.23809524  0.19047619]
+Step 1: log likelihood: -25109.7815424   (diff=-25108.7815424)
+Step 2: log likelihood: -21917.2687245   (diff=3192.51281785)
+Step 3: log likelihood: -21917.2687255   (diff=-1.00080796983e-06)
+Step 3: log likelihood: -21917.2687255   (diff=0.0)
+Convergence reached with log_p -21917.2687255 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+SELF.PI: 0.047619047619
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.42857143  0.04761905  0.28571429]
+Step 1: log likelihood: -29985.2898313   (diff=-29984.2898313)
+Step 2: log likelihood: -28111.9119444   (diff=1873.37788691)
+Step 3: log likelihood: -25819.06505   (diff=2292.84689439)
+Step 4: log likelihood: -24883.6120937   (diff=935.452956301)
+Step 4: log likelihood: -24883.6120937   (diff=0.0)
+Convergence reached with log_p -24883.6120937 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.23809524  0.19047619  0.33333333]
+Step 1: log likelihood: -28983.4194723   (diff=-28982.4194723)
+Step 2: log likelihood: -28044.4333553   (diff=938.986117)
+Step 3: log likelihood: -26598.7941559   (diff=1445.63919942)
+Step 4: log likelihood: -25018.6544115   (diff=1580.1397444)
+Step 4: log likelihood: -25018.6544115   (diff=0.0)
+Convergence reached with log_p -25018.6544115 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.23809524  0.33333333  0.23809524]
+Step 1: log likelihood: -28151.4890232   (diff=-28150.4890232)
+Step 2: log likelihood: -26393.8107835   (diff=1757.67823977)
+Step 3: log likelihood: -25613.3021999   (diff=780.508583514)
+Step 3: log likelihood: -25613.3021999   (diff=0.0)
+Convergence reached with log_p -25613.3021999 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.38095238  0.0952381   0.28571429]
+Step 1: log likelihood: -28072.0612718   (diff=-28071.0612718)
+Step 2: log likelihood: -22583.1801984   (diff=5488.88107341)
+Step 3: log likelihood: -22583.1801984   (diff=-5.09317032993e-11)
+Step 3: log likelihood: -22583.1801984   (diff=0.0)
+Convergence reached with log_p -22583.1801984 after 3 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.0952381   0.38095238  0.23809524  0.28571429]
+Step 1: log likelihood: -29214.1113866   (diff=-29213.1113866)
+Step 2: log likelihood: -28117.8568853   (diff=1096.25450128)
+Step 3: log likelihood: -26770.4138078   (diff=1347.44307752)
+Step 4: log likelihood: -26245.2520198   (diff=525.161787955)
+Step 5: log likelihood: -26181.0994724   (diff=64.152547435)
+Step 6: log likelihood: -25924.9809131   (diff=256.118559328)
+Step 6: log likelihood: -25924.9809131   (diff=0.0)
+Convergence reached with log_p -25924.9809131 after 6 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.23809524  0.23809524  0.28571429]
+Step 1: log likelihood: -26330.2362673   (diff=-26329.2362673)
+Step 2: log likelihood: -22981.6225242   (diff=3348.61374305)
+Step 2: log likelihood: -22981.6225242   (diff=3.60887497663e-09)
+Convergence reached with log_p -22981.6225242 after 2 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [0, 1, 0, 0, 1, 0, 3, 3, 1, 2, 2, 3, 1, 0, 3, 2, 2, 2, 2, 3, 1]
+
+sample 0 of 22 samples
+
+Original cm 
+[[ 1.  4.]
+ [ 3.  2.]
+ [ 6.  0.]
+ [ 5.  0.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.06666667  0.66666667]
+ [ 0.2         0.33333333]
+ [ 0.4         0.        ]
+ [ 0.33333333  0.        ]]
+ARGMAX - Confusion Matrix
+[1, 1, 0, 0]
+False value: sample 8 
+
+False value: sample 12 
+
+False value: sample 13 
+
+False value: sample 20 
+
+
+Training error 0.190476190476 %
+
+classify loglikelihood: -1472.70302095.
+
+
+** Clustering **
+Cluster  0 , size 1
+[0] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [0]
+mapClassify 1 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.23809524  0.33333333  0.14285714]
+Step 1: log likelihood: -27503.1318283   (diff=-27502.1318283)
+Step 2: log likelihood: -24495.4874441   (diff=3007.64438421)
+Step 3: log likelihood: -24293.7946498   (diff=201.692794328)
+Step 4: log likelihood: -23541.2107182   (diff=752.583931644)
+Step 5: log likelihood: -22390.7442938   (diff=1150.46642433)
+Step 5: log likelihood: -22390.7442938   (diff=0.0)
+Convergence reached with log_p -22390.7442938 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.23809524  0.14285714  0.33333333]
+Step 1: log likelihood: -28215.7555371   (diff=-28214.7555371)
+Step 2: log likelihood: -26965.7571942   (diff=1249.9983429)
+Step 3: log likelihood: -26712.4339842   (diff=253.323210026)
+Step 4: log likelihood: -25869.768191   (diff=842.665793156)
+Step 5: log likelihood: -25869.7687189   (diff=-0.000527901556779)
+Step 5: log likelihood: -25869.7687189   (diff=0.0)
+Convergence reached with log_p -25869.7687189 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.28571429  0.23809524  0.19047619  0.28571429]
+Step 1: log likelihood: -29024.9129099   (diff=-29023.9129099)
+Step 2: log likelihood: -26237.0029437   (diff=2787.90996617)
+Step 3: log likelihood: -25726.8107011   (diff=510.192242635)
+Step 4: log likelihood: -25726.8107011   (diff=-3.63797880709e-12)
+Step 4: log likelihood: -25726.8107011   (diff=0.0)
+Convergence reached with log_p -25726.8107011 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.28571429  0.38095238  0.14285714]
+Step 1: log likelihood: -28251.8492548   (diff=-28250.8492548)
+Step 2: log likelihood: -25163.8130944   (diff=3088.03616045)
+Step 3: log likelihood: -24233.3900233   (diff=930.423071025)
+Step 3: log likelihood: -24233.3900233   (diff=0.0)
+Convergence reached with log_p -24233.3900233 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.33333333  0.23809524  0.19047619]
+Step 1: log likelihood: -29066.1536096   (diff=-29065.1536096)
+Step 2: log likelihood: -26773.159127   (diff=2292.99448256)
+Step 3: log likelihood: -26772.7490522   (diff=0.41007479926)
+-26794.9518366 -26772.7490522 -22.2027843061 3 0.000829305360564
+WARNING: EM divergent.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.19047619  0.38095238  0.23809524]
+Step 1: log likelihood: -27831.2036116   (diff=-27830.2036116)
+Step 2: log likelihood: -27209.8529235   (diff=621.350688062)
+Step 2: log likelihood: -27209.8529235   (diff=0.0)
+Convergence reached with log_p -27209.8529235 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.33333333  0.33333333  0.14285714]
+Step 1: log likelihood: -29702.3388133   (diff=-29701.3388133)
+Step 2: log likelihood: -28503.1128445   (diff=1199.22596882)
+Step 3: log likelihood: -26272.8074033   (diff=2230.30544116)
+Step 4: log likelihood: -25419.1424731   (diff=853.664930274)
+Step 4: log likelihood: -25419.1424731   (diff=0.0)
+Convergence reached with log_p -25419.1424731 after 4 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.23809524  0.23809524  0.19047619]
+Step 1: log likelihood: -27297.8095878   (diff=-27296.8095878)
+Step 2: log likelihood: -25289.9000654   (diff=2007.90952238)
+Step 3: log likelihood: -23752.5795148   (diff=1537.32055065)
+Step 4: log likelihood: -23456.2002062   (diff=296.379308548)
+Step 4: log likelihood: -23456.1988054   (diff=0.00140078457116)
+Convergence reached with log_p -23456.1988054 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.19047619  0.28571429  0.28571429]
+Step 1: log likelihood: -27202.4969849   (diff=-27201.4969849)
+Step 2: log likelihood: -25215.6663766   (diff=1986.83060832)
+Step 3: log likelihood: -24301.8444677   (diff=913.821908893)
+Step 4: log likelihood: -22652.0914559   (diff=1649.75301177)
+Step 5: log likelihood: -21258.7083037   (diff=1393.38315223)
+Step 6: log likelihood: -21258.286646   (diff=0.421657680956)
+Step 6: log likelihood: -21258.286646   (diff=0.0)
+Convergence reached with log_p -21258.286646 after 6 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.33333333  0.14285714  0.23809524]
+Step 1: log likelihood: -29402.0203121   (diff=-29401.0203121)
+Step 2: log likelihood: -29389.5490864   (diff=12.4712256669)
+Step 3: log likelihood: -28745.3507444   (diff=644.198342072)
+Step 3: log likelihood: -28745.3507443   (diff=9.32050170377e-08)
+Convergence reached with log_p -28745.3507443 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.28571429  0.14285714  0.19047619  0.38095238]
+Step 1: log likelihood: -29596.3160094   (diff=-29595.3160094)
+Step 2: log likelihood: -28379.5112432   (diff=1216.80476617)
+Step 3: log likelihood: -24002.1730935   (diff=4377.33814972)
+Step 4: log likelihood: -23029.5727259   (diff=972.600367593)
+Step 4: log likelihood: -23029.5727259   (diff=0.0)
+Convergence reached with log_p -23029.5727259 after 4 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.33333333  0.33333333  0.19047619  0.14285714]
+Step 1: log likelihood: -27060.6859903   (diff=-27059.6859903)
+Step 2: log likelihood: -24743.9695973   (diff=2316.71639305)
+Step 3: log likelihood: -21249.8964569   (diff=3494.07314036)
+Step 4: log likelihood: -20088.282786   (diff=1161.61367097)
+Step 4: log likelihood: -20088.282786   (diff=0.0)
+Convergence reached with log_p -20088.282786 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.28571429  0.19047619  0.23809524]
+Step 1: log likelihood: -27309.7765547   (diff=-27308.7765547)
+Step 2: log likelihood: -25194.7338439   (diff=2115.04271076)
+Step 2: log likelihood: -25194.7331991   (diff=0.000644757081318)
+Convergence reached with log_p -25194.7331991 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.33333333  0.23809524  0.28571429  0.14285714]
+Step 1: log likelihood: -27006.3710675   (diff=-27005.3710675)
+Step 2: log likelihood: -22615.0731578   (diff=4391.29790966)
+Step 3: log likelihood: -21790.6343794   (diff=824.438778377)
+Step 4: log likelihood: -20741.2662198   (diff=1049.36815961)
+Step 4: log likelihood: -20741.2649109   (diff=0.00130894497852)
+Convergence reached with log_p -20741.2649109 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.23809524  0.28571429  0.19047619]
+Step 1: log likelihood: -27461.2495216   (diff=-27460.2495216)
+Step 2: log likelihood: -26059.8635699   (diff=1401.38595172)
+Step 3: log likelihood: -25048.0602329   (diff=1011.80333701)
+Step 4: log likelihood: -23370.5186448   (diff=1677.54158815)
+Step 4: log likelihood: -23370.5186448   (diff=0.0)
+Convergence reached with log_p -23370.5186448 after 4 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [2, 0, 2, 2, 2, 2, 1, 1, 1, 0, 1, 1, 1, 1, 0, 3, 0, 3, 0, 3, 1]
+
+sample 1 of 22 samples
+
+Original cm 
+[[ 4.  1.]
+ [ 8.  0.]
+ [ 0.  5.]
+ [ 3.  0.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.26666667  0.16666667]
+ [ 0.53333333  0.        ]
+ [ 0.          0.83333333]
+ [ 0.2         0.        ]]
+ARGMAX - Confusion Matrix
+[0, 0, 1, 0]
+False value: sample 1 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1825.2533248.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[1] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 1 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.23809524  0.23809524  0.28571429]
+Step 1: log likelihood: -27844.5123085   (diff=-27843.5123085)
+Step 2: log likelihood: -26235.5966232   (diff=1608.91568536)
+Step 3: log likelihood: -24062.252689   (diff=2173.34393415)
+Step 4: log likelihood: -22215.5896066   (diff=1846.66308246)
+Step 4: log likelihood: -22215.5896066   (diff=0.0)
+Convergence reached with log_p -22215.5896066 after 4 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.19047619  0.23809524  0.14285714]
+Step 1: log likelihood: -27542.8567327   (diff=-27541.8567327)
+Step 2: log likelihood: -25041.745646   (diff=2501.11108673)
+Step 3: log likelihood: -22854.1804827   (diff=2187.56516329)
+Step 3: log likelihood: -22854.1804817   (diff=9.71780536929e-07)
+Convergence reached with log_p -22854.1804817 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+PI:  [ 0.14285714  0.23809524  0.14285714  0.47619048]
+Step 1: log likelihood: -26007.2553948   (diff=-26006.2553948)
+Step 2: log likelihood: -23965.0496383   (diff=2042.20575652)
+Step 3: log likelihood: -22919.0380841   (diff=1046.01155422)
+Step 3: log likelihood: -22919.0380841   (diff=0.0)
+Convergence reached with log_p -22919.0380841 after 3 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.38095238  0.19047619  0.19047619  0.23809524]
+Step 1: log likelihood: -29569.560725   (diff=-29568.560725)
+Step 1: log likelihood: -29569.560725   (diff=0.0)
+Convergence reached with log_p -29569.560725 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.23809524  0.33333333  0.23809524]
+Step 1: log likelihood: -27274.2271163   (diff=-27273.2271163)
+Step 2: log likelihood: -25075.3244131   (diff=2198.90270324)
+Step 3: log likelihood: -22445.5331585   (diff=2629.7912546)
+Step 4: log likelihood: -20352.4916087   (diff=2093.04154971)
+Step 4: log likelihood: -20352.4916087   (diff=0.0)
+Convergence reached with log_p -20352.4916087 after 4 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.38095238  0.19047619  0.23809524  0.19047619]
+Step 1: log likelihood: -27977.681061   (diff=-27976.681061)
+Step 2: log likelihood: -23625.765504   (diff=4351.91555699)
+Step 3: log likelihood: -19926.0203101   (diff=3699.74519389)
+Step 3: log likelihood: -19926.0203101   (diff=0.0)
+Convergence reached with log_p -19926.0203101 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+PI:  [ 0.19047619  0.14285714  0.28571429  0.38095238]
+Step 1: log likelihood: -26119.8623724   (diff=-26118.8623724)
+Step 2: log likelihood: -21933.1121653   (diff=4186.75020711)
+Step 3: log likelihood: -20708.4920869   (diff=1224.62007838)
+Step 3: log likelihood: -20708.4920869   (diff=0.0)
+Convergence reached with log_p -20708.4920869 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.33333333  0.19047619  0.33333333]
+Step 1: log likelihood: -25939.5427432   (diff=-25938.5427432)
+Step 2: log likelihood: -21763.2433134   (diff=4176.29942977)
+Step 2: log likelihood: -21763.2433134   (diff=0.0)
+Convergence reached with log_p -21763.2433134 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.38095238  0.23809524  0.19047619  0.19047619]
+Step 1: log likelihood: -28564.7992828   (diff=-28563.7992828)
+Step 2: log likelihood: -26476.1262705   (diff=2088.67301228)
+Step 2: log likelihood: -26476.1262705   (diff=0.0)
+Convergence reached with log_p -26476.1262705 after 2 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.0
+Sum of posterior is zero: Normal:  [0, 1] has zero likelihood for data set. 
+
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.38095238  0.14285714  0.28571429]
+Step 1: log likelihood: -29096.8375989   (diff=-29095.8375989)
+Step 2: log likelihood: -28015.2462491   (diff=1081.59134976)
+Step 3: log likelihood: -26210.7598652   (diff=1804.4863839)
+Step 4: log likelihood: -20716.4959502   (diff=5494.26391505)
+Step 4: log likelihood: -20716.4959502   (diff=2.32648744714e-08)
+Convergence reached with log_p -20716.4959502 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+SELF.PI: 0.0952380952381
+PI:  [ 0.28571429  0.42857143  0.19047619  0.0952381 ]
+Step 1: log likelihood: -26834.6048523   (diff=-26833.6048523)
+Step 2: log likelihood: -24579.3034213   (diff=2255.30143107)
+Step 3: log likelihood: -24167.5918693   (diff=411.711552008)
+Step 3: log likelihood: -24167.5918693   (diff=0.0)
+Convergence reached with log_p -24167.5918693 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.38095238  0.23809524  0.14285714]
+Step 1: log likelihood: -27518.6355784   (diff=-27517.6355784)
+Step 2: log likelihood: -23309.847466   (diff=4208.78811243)
+Step 3: log likelihood: -19586.4781222   (diff=3723.3693438)
+Step 4: log likelihood: -18980.7337413   (diff=605.74438085)
+Step 4: log likelihood: -18980.7337412   (diff=8.54415702634e-08)
+Convergence reached with log_p -18980.7337412 after 4 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.14285714  0.28571429  0.28571429  0.28571429]
+Step 1: log likelihood: -27935.9959539   (diff=-27934.9959539)
+Step 2: log likelihood: -24334.5940121   (diff=3601.40194185)
+Step 2: log likelihood: -24334.5940121   (diff=0.0)
+Convergence reached with log_p -24334.5940121 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.47619047619
+SELF.PI: 0.047619047619
+PI:  [ 0.23809524  0.23809524  0.47619048  0.04761905]
+Step 1: log likelihood: -28793.6966915   (diff=-28792.6966915)
+Step 2: log likelihood: -26117.831503   (diff=2675.86518856)
+Step 3: log likelihood: -25330.7659976   (diff=787.065505361)
+Step 4: log likelihood: -25330.7659976   (diff=-3.63797880709e-12)
+Step 4: log likelihood: -25330.7659976   (diff=0.0)
+Convergence reached with log_p -25330.7659976 after 4 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [3, 1, 1, 1, 1, 1, 0, 0, 0, 2, 3, 3, 0, 0, 2, 2, 2, 2, 2, 0, 0]
+
+sample 2 of 22 samples
+
+Original cm 
+[[ 7.  0.]
+ [ 0.  5.]
+ [ 6.  0.]
+ [ 2.  1.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.46666667  0.        ]
+ [ 0.          0.83333333]
+ [ 0.4         0.        ]
+ [ 0.13333333  0.16666667]]
+ARGMAX - Confusion Matrix
+[0, 1, 0, 1]
+False value: sample 10 
+
+False value: sample 11 
+
+
+Training error 0.0952380952381 %
+
+classify loglikelihood: -3855.46525119.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 1
+[2] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [3]
+mapClassify 1 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.33333333  0.19047619  0.14285714  0.33333333]
+Step 1: log likelihood: -28472.0465881   (diff=-28471.0465881)
+Step 2: log likelihood: -24740.0921391   (diff=3731.95444901)
+Step 3: log likelihood: -22338.427059   (diff=2401.66508011)
+Step 3: log likelihood: -22338.4269969   (diff=6.20631617494e-05)
+Convergence reached with log_p -22338.4269969 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+SELF.PI: 0.0952380952381
+PI:  [ 0.28571429  0.42857143  0.19047619  0.0952381 ]
+Step 1: log likelihood: -30019.1377505   (diff=-30018.1377505)
+Step 2: log likelihood: -26278.3815663   (diff=3740.75618417)
+Step 3: log likelihood: -23071.2720293   (diff=3207.10953699)
+Step 4: log likelihood: -22073.0419189   (diff=998.230110354)
+Step 4: log likelihood: -22073.0419189   (diff=0.0)
+Convergence reached with log_p -22073.0419189 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.23809524  0.23809524  0.23809524]
+Step 1: log likelihood: -25770.7305622   (diff=-25769.7305622)
+Step 2: log likelihood: -24386.5440713   (diff=1384.18649086)
+-24387.1750319 -24386.5440713 -0.63096060128 2 2.58733094544e-05
+WARNING: EM divergent.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.38095238  0.19047619  0.23809524  0.19047619]
+Step 1: log likelihood: -27007.5162508   (diff=-27006.5162508)
+Step 2: log likelihood: -24866.824552   (diff=2140.6916988)
+Step 3: log likelihood: -23328.7194304   (diff=1538.10512152)
+Step 3: log likelihood: -23328.7194304   (diff=0.0)
+Convergence reached with log_p -23328.7194304 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.0952380952381
+SELF.PI: 0.190476190476
+SELF.PI: 0.47619047619
+PI:  [ 0.23809524  0.0952381   0.19047619  0.47619048]
+Step 1: log likelihood: -27902.4160949   (diff=-27901.4160949)
+Step 2: log likelihood: -27410.166817   (diff=492.249277866)
+Step 3: log likelihood: -25390.459958   (diff=2019.70685896)
+Step 4: log likelihood: -24401.3337046   (diff=989.126253434)
+Step 5: log likelihood: -21742.5211703   (diff=2658.8125343)
+Step 6: log likelihood: -17634.9320359   (diff=4107.58913436)
+Step 6: log likelihood: -17634.8490537   (diff=0.0829822607666)
+Convergence reached with log_p -17634.8490537 after 6 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.28571429  0.28571429  0.23809524]
+Step 1: log likelihood: -27574.0235392   (diff=-27573.0235392)
+Step 2: log likelihood: -25850.5812277   (diff=1723.44231144)
+Step 3: log likelihood: -23734.4111667   (diff=2116.17006101)
+Step 4: log likelihood: -22733.1741477   (diff=1001.237019)
+Step 5: log likelihood: -21337.2295989   (diff=1395.94454877)
+Step 5: log likelihood: -21337.2295989   (diff=0.0)
+Convergence reached with log_p -21337.2295989 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.23809524  0.19047619  0.19047619  0.38095238]
+Step 1: log likelihood: -25553.021449   (diff=-25552.021449)
+Step 2: log likelihood: -22319.2942211   (diff=3233.72722784)
+Step 2: log likelihood: -22319.2942211   (diff=3.63797880709e-12)
+Convergence reached with log_p -22319.2942211 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.38095238  0.23809524  0.14285714  0.23809524]
+Step 1: log likelihood: -24764.0233636   (diff=-24763.0233636)
+Step 2: log likelihood: -19533.4463599   (diff=5230.57700367)
+-19533.4685401 -19533.4463599 -0.0221802309316 2 1.13550013259e-06
+WARNING: EM divergent.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.28571429  0.19047619  0.33333333]
+Step 1: log likelihood: -25338.8495376   (diff=-25337.8495376)
+Step 2: log likelihood: -20248.8094395   (diff=5090.04009811)
+Step 2: log likelihood: -20248.8094395   (diff=3.9075530367e-08)
+Convergence reached with log_p -20248.8094395 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -28751.9671529   (diff=-28750.9671529)
+Step 1: log likelihood: -28751.9671529   (diff=0.0)
+Convergence reached with log_p -28751.9671529 after 1 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.14285714  0.38095238  0.23809524]
+Step 1: log likelihood: -24897.248127   (diff=-24896.248127)
+Step 2: log likelihood: -22411.1864844   (diff=2486.06164255)
+Step 2: log likelihood: -22411.1864844   (diff=0.0)
+Convergence reached with log_p -22411.1864844 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.38095238  0.19047619  0.23809524]
+Step 1: log likelihood: -24655.9815144   (diff=-24654.9815144)
+Step 2: log likelihood: -23872.8678737   (diff=783.11364074)
+Step 2: log likelihood: -23872.8678737   (diff=0.0)
+Convergence reached with log_p -23872.8678737 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.33333333  0.14285714  0.23809524]
+Step 1: log likelihood: -28777.7076926   (diff=-28776.7076926)
+Step 2: log likelihood: -27466.2509135   (diff=1311.45677908)
+Step 3: log likelihood: -27466.2511261   (diff=-0.000212586142879)
+Step 3: log likelihood: -27466.2511261   (diff=0.0)
+Convergence reached with log_p -27466.2511261 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.38095238  0.23809524  0.19047619]
+Step 1: log likelihood: -27189.1051385   (diff=-27188.1051385)
+Step 1: log likelihood: -27189.1051385   (diff=0.0)
+Convergence reached with log_p -27189.1051385 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.28571429  0.19047619  0.33333333]
+Step 1: log likelihood: -23187.2636922   (diff=-23186.2636922)
+Step 2: log likelihood: -20443.663395   (diff=2743.60029719)
+Step 3: log likelihood: -19244.0551372   (diff=1199.60825779)
+Step 3: log likelihood: -19244.0551372   (diff=0.0)
+Convergence reached with log_p -19244.0551372 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [3, 3, 1, 3, 3, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 2, 2, 2, 2, 0, 0]
+
+sample 3 of 22 samples
+
+Original cm 
+[[ 9.  0.]
+ [ 0.  2.]
+ [ 5.  0.]
+ [ 1.  4.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.6         0.        ]
+ [ 0.          0.33333333]
+ [ 0.33333333  0.        ]
+ [ 0.06666667  0.66666667]]
+ARGMAX - Confusion Matrix
+[0, 1, 0, 1]
+False value: sample 13 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -3126.07628382.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 1
+[3] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [3]
+mapClassify 1 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.19047619  0.38095238  0.19047619]
+Step 1: log likelihood: -28096.8227664   (diff=-28095.8227664)
+Step 2: log likelihood: -25471.5833495   (diff=2625.23941685)
+Step 3: log likelihood: -25471.5833507   (diff=-1.18598836707e-06)
+Step 4: log likelihood: -25471.5833507   (diff=-7.27595761418e-12)
+Step 4: log likelihood: -25471.5833507   (diff=0.0)
+Convergence reached with log_p -25471.5833507 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.33333333  0.19047619  0.19047619]
+Step 1: log likelihood: -28995.6591543   (diff=-28994.6591543)
+Step 2: log likelihood: -26877.8674567   (diff=2117.79169757)
+Step 3: log likelihood: -22788.4686743   (diff=4089.39878242)
+Step 4: log likelihood: -21186.0416091   (diff=1602.42706518)
+Step 5: log likelihood: -20174.1191411   (diff=1011.92246804)
+Step 6: log likelihood: -20173.3291724   (diff=0.7899686991)
+Step 6: log likelihood: -20173.3291724   (diff=0.0)
+Convergence reached with log_p -20173.3291724 after 6 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.047619047619
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.04761905  0.38095238  0.14285714]
+Step 1: log likelihood: -29511.5494997   (diff=-29510.5494997)
+Step 2: log likelihood: -27497.7171219   (diff=2013.83237779)
+Step 3: log likelihood: -25165.168553   (diff=2332.54856889)
+Step 4: log likelihood: -20799.0673654   (diff=4366.10118757)
+Step 5: log likelihood: -19495.4527178   (diff=1303.61464769)
+Step 5: log likelihood: -19495.4527178   (diff=0.0)
+Convergence reached with log_p -19495.4527178 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.19047619  0.33333333  0.23809524]
+Step 1: log likelihood: -27374.267933   (diff=-27373.267933)
+Step 2: log likelihood: -26790.4579832   (diff=583.80994977)
+Step 2: log likelihood: -26790.4579832   (diff=0.0)
+Convergence reached with log_p -26790.4579832 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.28571429  0.23809524  0.19047619]
+Step 1: log likelihood: -28457.0953656   (diff=-28456.0953656)
+Step 2: log likelihood: -24005.0333961   (diff=4452.0619695)
+Step 2: log likelihood: -24005.0333961   (diff=0.0)
+Convergence reached with log_p -24005.0333961 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.19047619  0.38095238  0.23809524]
+Step 1: log likelihood: -28028.4466982   (diff=-28027.4466982)
+Step 2: log likelihood: -26223.7847971   (diff=1804.66190111)
+Step 2: log likelihood: -26223.7847971   (diff=0.0)
+Convergence reached with log_p -26223.7847971 after 2 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.380952380952
+PI:  [ 0.0952381   0.19047619  0.33333333  0.38095238]
+Step 1: log likelihood: -29937.1761936   (diff=-29936.1761936)
+Step 1: log likelihood: -29937.1761936   (diff=0.0)
+Convergence reached with log_p -29937.1761936 after 1 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.19047619  0.19047619  0.33333333]
+Step 1: log likelihood: -29010.9659782   (diff=-29009.9659782)
+Step 2: log likelihood: -26692.781438   (diff=2318.18454014)
+Step 3: log likelihood: -24356.550648   (diff=2336.23079005)
+Step 4: log likelihood: -23373.0764531   (diff=983.474194841)
+Step 5: log likelihood: -22266.1680238   (diff=1106.90842928)
+Step 6: log likelihood: -21434.4082994   (diff=831.759724439)
+Step 6: log likelihood: -21434.4082994   (diff=4.17967385147e-08)
+Convergence reached with log_p -21434.4082994 after 6 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.14285714  0.23809524  0.33333333]
+Step 1: log likelihood: -29399.4919556   (diff=-29398.4919556)
+Step 2: log likelihood: -27676.3247725   (diff=1723.16718317)
+Step 3: log likelihood: -27014.7256549   (diff=661.599117517)
+Step 3: log likelihood: -27014.7256549   (diff=0.0)
+Convergence reached with log_p -27014.7256549 after 3 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.0952381   0.33333333  0.19047619  0.38095238]
+Step 1: log likelihood: -26901.3973238   (diff=-26900.3973238)
+Step 2: log likelihood: -26171.1862687   (diff=730.211055087)
+Step 2: log likelihood: -26171.1862687   (diff=3.63797880709e-12)
+Convergence reached with log_p -26171.1862687 after 2 steps.
+SELF.PI: 0.047619047619
+SELF.PI: 0.333333333333
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.04761905  0.33333333  0.38095238  0.23809524]
+Step 1: log likelihood: -24667.5375367   (diff=-24666.5375367)
+Step 2: log likelihood: -21809.1403852   (diff=2858.39715151)
+Step 3: log likelihood: -20916.1508266   (diff=892.989558547)
+Step 3: log likelihood: -20916.1508266   (diff=1.09139364213e-11)
+Convergence reached with log_p -20916.1508266 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.28571429  0.19047619  0.33333333]
+Step 1: log likelihood: -26089.9174531   (diff=-26088.9174531)
+Step 2: log likelihood: -23931.5448318   (diff=2158.37262133)
+Step 3: log likelihood: -23931.5448326   (diff=-7.73903593654e-07)
+Step 3: log likelihood: -23931.5448326   (diff=0.0)
+Convergence reached with log_p -23931.5448326 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.23809524  0.28571429  0.23809524]
+Step 1: log likelihood: -26159.8600881   (diff=-26158.8600881)
+Step 2: log likelihood: -22914.0808381   (diff=3245.77924999)
+Step 3: log likelihood: -21534.5966161   (diff=1379.48422204)
+Step 4: log likelihood: -21534.5966163   (diff=-2.30844307225e-07)
+Step 4: log likelihood: -21534.5966163   (diff=0.0)
+Convergence reached with log_p -21534.5966163 after 4 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.23809524  0.38095238  0.23809524]
+Step 1: log likelihood: -29746.2530156   (diff=-29745.2530156)
+Step 2: log likelihood: -29062.2428989   (diff=684.010116761)
+Step 3: log likelihood: -27958.390472   (diff=1103.85242692)
+Step 4: log likelihood: -25782.1335167   (diff=2176.25695524)
+Step 5: log likelihood: -24732.6470872   (diff=1049.48642948)
+Step 6: log likelihood: -23978.2721052   (diff=754.374982006)
+Step 7: log likelihood: -23788.1938883   (diff=190.07821693)
+Step 8: log likelihood: -23209.3780472   (diff=578.815841128)
+Step 9: log likelihood: -23209.3780472   (diff=-7.27595761418e-12)
+Step 9: log likelihood: -23209.3780472   (diff=0.0)
+Convergence reached with log_p -23209.3780472 after 9 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.47619047619
+SELF.PI: 0.047619047619
+PI:  [ 0.23809524  0.23809524  0.47619048  0.04761905]
+Step 1: log likelihood: -26580.7082109   (diff=-26579.7082109)
+Step 2: log likelihood: -20028.6409886   (diff=6552.06722231)
+Step 2: log likelihood: -20028.6140714   (diff=0.0269171898144)
+Convergence reached with log_p -20028.6140714 after 2 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [0, 0, 3, 0, 0, 0, 2, 2, 2, 3, 2, 2, 2, 2, 2, 3, 3, 3, 3, 1, 2]
+
+sample 4 of 22 samples
+
+Original cm 
+[[ 0.  5.]
+ [ 1.  0.]
+ [ 9.  0.]
+ [ 5.  1.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.          0.83333333]
+ [ 0.06666667  0.        ]
+ [ 0.6         0.        ]
+ [ 0.33333333  0.16666667]]
+ARGMAX - Confusion Matrix
+[1, 0, 0, 0]
+False value: sample 2 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1824.06432369.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[4] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 0 
+
+
+False classify: sample 4
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.19047619  0.28571429  0.33333333]
+Step 1: log likelihood: -26933.7251511   (diff=-26932.7251511)
+Step 2: log likelihood: -24640.1344409   (diff=2293.59071014)
+Step 3: log likelihood: -24640.1344409   (diff=-9.09494701773e-11)
+Step 3: log likelihood: -24640.1344409   (diff=0.0)
+Convergence reached with log_p -24640.1344409 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.19047619  0.42857143  0.23809524]
+Step 1: log likelihood: -28454.3071883   (diff=-28453.3071883)
+Step 1: log likelihood: -28454.3071883   (diff=0.0)
+Convergence reached with log_p -28454.3071883 after 1 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+PI:  [ 0.28571429  0.28571429  0.33333333  0.0952381 ]
+Step 1: log likelihood: -27898.5205844   (diff=-27897.5205844)
+Step 2: log likelihood: -25423.8598949   (diff=2474.66068954)
+Step 3: log likelihood: -24335.7782288   (diff=1088.08166609)
+Step 4: log likelihood: -23781.301053   (diff=554.477175766)
+Step 4: log likelihood: -23781.301053   (diff=0.0)
+Convergence reached with log_p -23781.301053 after 4 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.0952381   0.28571429  0.28571429  0.33333333]
+Step 1: log likelihood: -24850.1723333   (diff=-24849.1723333)
+Step 2: log likelihood: -22107.4346365   (diff=2742.73769679)
+Step 2: log likelihood: -22107.4346365   (diff=0.0)
+Convergence reached with log_p -22107.4346365 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.33333333  0.0952381   0.28571429  0.28571429]
+Step 1: log likelihood: -29508.6773561   (diff=-29507.6773561)
+Step 2: log likelihood: -29508.6790953   (diff=-0.00173918487417)
+Step 3: log likelihood: -29508.6791173   (diff=-2.2020569304e-05)
+Step 3: log likelihood: -29508.679117   (diff=2.70305463346e-07)
+Convergence reached with log_p -29508.679117 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.23809524  0.23809524  0.28571429]
+Step 1: log likelihood: -28574.565926   (diff=-28573.565926)
+Step 2: log likelihood: -25234.4424401   (diff=3340.12348588)
+Step 3: log likelihood: -21735.3529336   (diff=3499.08950658)
+Step 3: log likelihood: -21735.3529336   (diff=0.0)
+Convergence reached with log_p -21735.3529336 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.28571429  0.23809524  0.28571429]
+Step 1: log likelihood: -26157.1830544   (diff=-26156.1830544)
+Step 2: log likelihood: -21312.1445919   (diff=4845.0384625)
+Step 3: log likelihood: -20304.6178046   (diff=1007.52678736)
+Step 3: log likelihood: -20304.6178046   (diff=0.0)
+Convergence reached with log_p -20304.6178046 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.47619047619
+PI:  [ 0.14285714  0.19047619  0.19047619  0.47619048]
+Step 1: log likelihood: -28577.6820438   (diff=-28576.6820438)
+Step 2: log likelihood: -25119.5754962   (diff=3458.10654763)
+Step 3: log likelihood: -21152.7019462   (diff=3966.87355005)
+Step 3: log likelihood: -21152.7019462   (diff=0.0)
+Convergence reached with log_p -21152.7019462 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.428571428571
+SELF.PI: 0.0952380952381
+PI:  [ 0.28571429  0.19047619  0.42857143  0.0952381 ]
+Step 1: log likelihood: -29457.0405891   (diff=-29456.0405891)
+Step 2: log likelihood: -27321.7687736   (diff=2135.27181548)
+Step 2: log likelihood: -27321.7687736   (diff=0.0)
+Convergence reached with log_p -27321.7687736 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.33333333  0.23809524  0.14285714]
+Step 1: log likelihood: -27770.2290486   (diff=-27769.2290486)
+Step 2: log likelihood: -23570.8028987   (diff=4199.42614987)
+Step 2: log likelihood: -23570.8028987   (diff=0.0)
+Convergence reached with log_p -23570.8028987 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.19047619  0.19047619  0.33333333]
+Step 1: log likelihood: -29085.7004776   (diff=-29084.7004776)
+Step 2: log likelihood: -28096.1421759   (diff=989.558301647)
+Step 3: log likelihood: -26315.4147037   (diff=1780.72747225)
+Step 4: log likelihood: -25820.8049914   (diff=494.609712244)
+Step 5: log likelihood: -25820.8058332   (diff=-0.000841726654471)
+Step 5: log likelihood: -25820.8058332   (diff=0.0)
+Convergence reached with log_p -25820.8058332 after 5 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.33333333  0.23809524  0.28571429  0.14285714]
+Step 1: log likelihood: -26702.971035   (diff=-26701.971035)
+Step 2: log likelihood: -22345.4918574   (diff=4357.47917766)
+Step 3: log likelihood: -20973.7024865   (diff=1371.78937086)
+Step 3: log likelihood: -20973.7024865   (diff=2.73212208413e-09)
+Convergence reached with log_p -20973.7024865 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.19047619  0.28571429  0.28571429]
+Step 1: log likelihood: -25043.4887539   (diff=-25042.4887539)
+Step 2: log likelihood: -23787.6479411   (diff=1255.84081283)
+Step 2: log likelihood: -23787.6479411   (diff=0.0)
+Convergence reached with log_p -23787.6479411 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.38095238  0.23809524  0.23809524  0.14285714]
+Step 1: log likelihood: -28885.5791408   (diff=-28884.5791408)
+Step 2: log likelihood: -27210.668394   (diff=1674.91074689)
+Step 3: log likelihood: -23780.841186   (diff=3429.82720799)
+Step 4: log likelihood: -22389.2128622   (diff=1391.62832374)
+Step 4: log likelihood: -22389.2128622   (diff=0.0)
+Convergence reached with log_p -22389.2128622 after 4 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.23809524  0.23809524  0.19047619]
+Step 1: log likelihood: -26428.8916303   (diff=-26427.8916303)
+Step 2: log likelihood: -20368.2009024   (diff=6060.69072792)
+Step 3: log likelihood: -19100.74967   (diff=1267.45123242)
+Step 4: log likelihood: -19081.4542609   (diff=19.2954090685)
+Step 4: log likelihood: -19081.4542609   (diff=0.0)
+Convergence reached with log_p -19081.4542609 after 4 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [2, 2, 2, 2, 2, 2, 3, 0, 0, 1, 0, 1, 0, 0, 3, 1, 1, 1, 3, 1, 3]
+
+sample 5 of 22 samples
+
+Original cm 
+[[ 5.  0.]
+ [ 6.  0.]
+ [ 0.  6.]
+ [ 4.  0.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.33333333  0.        ]
+ [ 0.4         0.        ]
+ [ 0.          1.        ]
+ [ 0.26666667  0.        ]]
+ARGMAX - Confusion Matrix
+[0, 0, 1, 0]
+
+Training error 0.0 %
+
+classify loglikelihood: -1423.76883747.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[5] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 1 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.23809524  0.28571429  0.23809524]
+Step 1: log likelihood: -29388.9160404   (diff=-29387.9160404)
+Step 2: log likelihood: -28616.5090423   (diff=772.406998104)
+Step 3: log likelihood: -27611.1728892   (diff=1005.33615309)
+Step 4: log likelihood: -25394.6385138   (diff=2216.53437535)
+Step 5: log likelihood: -24458.7396033   (diff=935.898910556)
+Step 5: log likelihood: -24458.7396033   (diff=1.45519152284e-11)
+Convergence reached with log_p -24458.7396033 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.28571429  0.28571429  0.14285714]
+Step 1: log likelihood: -29789.5574253   (diff=-29788.5574253)
+Step 2: log likelihood: -29356.0813058   (diff=433.476119526)
+Step 2: log likelihood: -29356.0813058   (diff=0.0)
+Convergence reached with log_p -29356.0813058 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.38095238  0.19047619  0.14285714]
+Step 1: log likelihood: -25508.4928924   (diff=-25507.4928924)
+Step 2: log likelihood: -22314.919452   (diff=3193.57344044)
+Step 3: log likelihood: -21510.6919204   (diff=804.22753156)
+Step 3: log likelihood: -21510.6919204   (diff=0.0)
+Convergence reached with log_p -21510.6919204 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.42857143  0.14285714  0.19047619  0.23809524]
+Step 1: log likelihood: -25488.0272958   (diff=-25487.0272958)
+Step 2: log likelihood: -21066.0993335   (diff=4421.92796232)
+Step 3: log likelihood: -20446.3944153   (diff=619.704918163)
+Step 3: log likelihood: -20446.3944153   (diff=0.0)
+Convergence reached with log_p -20446.3944153 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.14285714  0.47619048  0.19047619  0.19047619]
+Step 1: log likelihood: -22500.0915068   (diff=-22499.0915068)
+Step 2: log likelihood: -21807.5943368   (diff=692.497170005)
+Step 2: log likelihood: -21807.5943368   (diff=0.0)
+Convergence reached with log_p -21807.5943368 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.19047619  0.38095238  0.19047619]
+Step 1: log likelihood: -30100.4788697   (diff=-30099.4788697)
+Step 1: log likelihood: -30100.4788697   (diff=0.0)
+Convergence reached with log_p -30100.4788697 after 1 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.14285714  0.38095238  0.28571429  0.19047619]
+Step 1: log likelihood: -29301.4118188   (diff=-29300.4118188)
+Step 1: log likelihood: -29301.4118188   (diff=0.0)
+Convergence reached with log_p -29301.4118188 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.28571429  0.33333333  0.19047619]
+Step 1: log likelihood: -27544.518015   (diff=-27543.518015)
+Step 2: log likelihood: -26822.9212465   (diff=721.596768456)
+Step 2: log likelihood: -26822.9212464   (diff=8.83846951183e-08)
+Convergence reached with log_p -26822.9212464 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.33333333  0.33333333  0.14285714]
+Step 1: log likelihood: -25005.0172696   (diff=-25004.0172696)
+Step 2: log likelihood: -20895.5201902   (diff=4109.49707938)
+Step 2: log likelihood: -20895.5201902   (diff=0.0)
+Convergence reached with log_p -20895.5201902 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+SELF.PI: 0.142857142857
+PI:  [ 0.33333333  0.38095238  0.14285714  0.14285714]
+Step 1: log likelihood: -28344.3843684   (diff=-28343.3843684)
+Step 2: log likelihood: -23237.0941552   (diff=5107.29021319)
+Step 2: log likelihood: -23237.0941552   (diff=0.0)
+Convergence reached with log_p -23237.0941552 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.14285714  0.47619048  0.19047619]
+Step 1: log likelihood: -29482.6676106   (diff=-29481.6676106)
+Step 2: log likelihood: -25681.7648518   (diff=3800.90275872)
+Step 3: log likelihood: -24439.2377473   (diff=1242.5271045)
+Step 3: log likelihood: -24439.2377473   (diff=0.0)
+Convergence reached with log_p -24439.2377473 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+SELF.PI: 0.047619047619
+SELF.PI: 0.380952380952
+PI:  [ 0.42857143  0.14285714  0.04761905  0.38095238]
+Step 1: log likelihood: -27125.9894808   (diff=-27124.9894808)
+Step 2: log likelihood: -20785.3909661   (diff=6340.59851475)
+Step 2: log likelihood: -20785.3909661   (diff=0.0)
+Convergence reached with log_p -20785.3909661 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.19047619  0.33333333  0.28571429]
+Step 1: log likelihood: -26549.8393444   (diff=-26548.8393444)
+Step 2: log likelihood: -21040.5696646   (diff=5509.26967979)
+Step 3: log likelihood: -20111.9809314   (diff=928.588733137)
+Step 3: log likelihood: -20111.9809314   (diff=0.0)
+Convergence reached with log_p -20111.9809314 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.23809524  0.19047619  0.19047619  0.38095238]
+Step 1: log likelihood: -25852.4170566   (diff=-25851.4170566)
+Step 2: log likelihood: -23233.1850877   (diff=2619.2319689)
+Step 2: log likelihood: -23233.1850877   (diff=2.54658516496e-11)
+Convergence reached with log_p -23233.1850877 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.23809524  0.33333333  0.14285714]
+Step 1: log likelihood: -28516.1500586   (diff=-28515.1500586)
+Step 2: log likelihood: -27647.8051086   (diff=868.344950003)
+Step 3: log likelihood: -26211.1358303   (diff=1436.6692783)
+Step 3: log likelihood: -26211.1358303   (diff=0.0)
+Convergence reached with log_p -26211.1358303 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [0, 2, 2, 2, 2, 1, 0, 3, 1, 3, 3, 3, 1, 0, 0, 3, 3, 3, 3, 3, 1]
+
+sample 6 of 22 samples
+
+Original cm 
+[[ 3.  1.]
+ [ 3.  1.]
+ [ 0.  4.]
+ [ 9.  0.]]
+Sum Confusion Matrix ArgMax [ 0.06666667  0.16666667]
+Confusion Matrix
+[[ 0.2         0.16666667]
+ [ 0.2         0.16666667]
+ [ 0.          0.66666667]
+ [ 0.6         0.        ]]
+ARGMAX - Confusion Matrix
+[0, 0, 1, 0]
+False value: sample 0 
+
+False value: sample 5 
+
+
+Training error 0.0952380952381 %
+
+classify loglikelihood: -1539.24254214.
+
+
+** Clustering **
+Cluster  0 , size 1
+[6] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [0]
+mapClassify 0 
+
+
+False classify: sample 6
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.38095238  0.23809524  0.23809524  0.14285714]
+Step 1: log likelihood: -28697.5956199   (diff=-28696.5956199)
+Step 2: log likelihood: -23487.517961   (diff=5210.07765882)
+Step 3: log likelihood: -19865.9633572   (diff=3621.55460384)
+Step 4: log likelihood: -18140.9801552   (diff=1724.98320198)
+Step 5: log likelihood: -17269.6640087   (diff=871.316146484)
+Step 5: log likelihood: -17269.6640087   (diff=0.0)
+Convergence reached with log_p -17269.6640087 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+PI:  [ 0.23809524  0.14285714  0.14285714  0.47619048]
+Step 1: log likelihood: -28994.0401207   (diff=-28993.0401207)
+Step 1: log likelihood: -28994.0401207   (diff=0.0)
+Convergence reached with log_p -28994.0401207 after 1 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.33333333  0.19047619  0.23809524  0.23809524]
+Step 1: log likelihood: -25295.8904472   (diff=-25294.8904472)
+Step 2: log likelihood: -21886.8997342   (diff=3408.99071302)
+Step 2: log likelihood: -21886.8997342   (diff=0.0)
+Convergence reached with log_p -21886.8997342 after 2 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+SELF.PI: 0.142857142857
+PI:  [ 0.47619048  0.28571429  0.0952381   0.14285714]
+Step 1: log likelihood: -31800.3954487   (diff=-31799.3954487)
+Step 2: log likelihood: -29521.3541094   (diff=2279.04133931)
+Step 3: log likelihood: -27155.6975083   (diff=2365.65660104)
+Step 4: log likelihood: -26278.5418508   (diff=877.155657498)
+Step 4: log likelihood: -26278.5418508   (diff=3.63797880709e-12)
+Convergence reached with log_p -26278.5418508 after 4 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.28571429  0.19047619  0.19047619]
+Step 1: log likelihood: -27810.9198748   (diff=-27809.9198748)
+Step 2: log likelihood: -23505.9396125   (diff=4304.98026236)
+Step 3: log likelihood: -21941.0233518   (diff=1564.9162607)
+Step 3: log likelihood: -21941.0233518   (diff=0.0)
+Convergence reached with log_p -21941.0233518 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.38095238  0.28571429  0.14285714]
+Step 1: log likelihood: -27044.2948709   (diff=-27043.2948709)
+Step 2: log likelihood: -25804.9996304   (diff=1239.29524052)
+Step 3: log likelihood: -25027.6828199   (diff=777.316810527)
+Step 4: log likelihood: -25027.6828794   (diff=-5.95411765971e-05)
+Step 4: log likelihood: -25027.6828794   (diff=0.0)
+Convergence reached with log_p -25027.6828794 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.23809524  0.23809524  0.23809524]
+Step 1: log likelihood: -29220.8753366   (diff=-29219.8753366)
+Step 2: log likelihood: -23512.1693384   (diff=5708.70599811)
+Step 3: log likelihood: -22500.8303027   (diff=1011.33903576)
+Step 3: log likelihood: -22500.8303027   (diff=0.0)
+Convergence reached with log_p -22500.8303027 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.23809524  0.28571429  0.28571429]
+Step 1: log likelihood: -29844.1424875   (diff=-29843.1424875)
+Step 2: log likelihood: -29509.5101494   (diff=334.632338101)
+Step 2: log likelihood: -29509.5101494   (diff=0.0)
+Convergence reached with log_p -29509.5101494 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.0952380952381
+SELF.PI: 0.47619047619
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.0952381   0.47619048  0.23809524]
+Step 1: log likelihood: -24063.1037087   (diff=-24062.1037087)
+Step 2: log likelihood: -19249.0031898   (diff=4814.10051885)
+Step 2: log likelihood: -19249.0031898   (diff=2.31266312767e-08)
+Convergence reached with log_p -19249.0031898 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.38095238  0.14285714  0.28571429]
+Step 1: log likelihood: -27255.9966533   (diff=-27254.9966533)
+Step 2: log likelihood: -27255.9966533   (diff=-1.09139364213e-11)
+Step 2: log likelihood: -27255.9966533   (diff=5.49334799871e-10)
+Convergence reached with log_p -27255.9966533 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.23809524  0.23809524  0.33333333]
+Step 1: log likelihood: -28746.935017   (diff=-28745.935017)
+Step 2: log likelihood: -23696.2400937   (diff=5050.69492335)
+Step 3: log likelihood: -23180.2651061   (diff=515.974987594)
+Step 4: log likelihood: -23180.2651061   (diff=-3.63797880709e-12)
+Step 4: log likelihood: -23180.2651061   (diff=0.0)
+Convergence reached with log_p -23180.2651061 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.28571429  0.23809524  0.28571429]
+Step 1: log likelihood: -27975.5921183   (diff=-27974.5921183)
+Step 2: log likelihood: -24876.8276863   (diff=3098.76443202)
+Step 3: log likelihood: -23489.7433647   (diff=1387.08432164)
+Step 4: log likelihood: -22590.2552548   (diff=899.488109849)
+Step 5: log likelihood: -22590.2552632   (diff=-8.35826358525e-06)
+Step 5: log likelihood: -22590.2552632   (diff=0.0)
+Convergence reached with log_p -22590.2552632 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.23809524  0.38095238  0.14285714]
+Step 1: log likelihood: -26766.3809755   (diff=-26765.3809755)
+Step 2: log likelihood: -22313.8558088   (diff=4452.5251666)
+Step 3: log likelihood: -21567.1707246   (diff=746.685084248)
+Step 3: log likelihood: -21567.1707246   (diff=0.0)
+Convergence reached with log_p -21567.1707246 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.28571429  0.23809524  0.33333333]
+Step 1: log likelihood: -28989.1027972   (diff=-28988.1027972)
+Step 2: log likelihood: -26970.0625615   (diff=2019.04023565)
+Step 3: log likelihood: -25543.4356772   (diff=1426.62688438)
+Step 3: log likelihood: -25543.4356772   (diff=0.0)
+Convergence reached with log_p -25543.4356772 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.33333333  0.19047619  0.19047619]
+Step 1: log likelihood: -29635.8686957   (diff=-29634.8686957)
+Step 2: log likelihood: -26063.9541531   (diff=3571.91454253)
+Step 3: log likelihood: -23435.6981509   (diff=2628.25600222)
+Step 4: log likelihood: -23430.4679275   (diff=5.23022345014)
+Step 4: log likelihood: -23430.4679275   (diff=0.0)
+Convergence reached with log_p -23430.4679275 after 4 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [2, 2, 3, 2, 2, 3, 2, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+
+sample 7 of 22 samples
+
+Original cm 
+[[ 9.  0.]
+ [ 5.  0.]
+ [ 0.  5.]
+ [ 0.  2.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.64285714  0.        ]
+ [ 0.35714286  0.        ]
+ [ 0.          0.71428571]
+ [ 0.          0.28571429]]
+ARGMAX - Confusion Matrix
+[0, 0, 1, 1]
+
+Training error 0.0 %
+
+classify loglikelihood: -1132.40762703.
+
+
+** Clustering **
+Cluster  0 , size 1
+[7] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [0]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.23809524  0.42857143  0.14285714]
+Step 1: log likelihood: -25009.9212579   (diff=-25008.9212579)
+Step 2: log likelihood: -22002.6171922   (diff=3007.30406575)
+Step 3: log likelihood: -20307.5587275   (diff=1695.05846465)
+Step 4: log likelihood: -19074.5449144   (diff=1233.01381314)
+Step 5: log likelihood: -19073.0410828   (diff=1.5038315426)
+Step 5: log likelihood: -19073.0410828   (diff=0.0)
+Convergence reached with log_p -19073.0410828 after 5 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.14285714  0.42857143  0.23809524]
+Step 1: log likelihood: -25522.2315173   (diff=-25521.2315173)
+Step 2: log likelihood: -23415.0750306   (diff=2107.15648667)
+Step 3: log likelihood: -22730.5503572   (diff=684.524673426)
+Step 3: log likelihood: -22730.5503572   (diff=0.0)
+Convergence reached with log_p -22730.5503572 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.14285714  0.28571429  0.14285714]
+Step 1: log likelihood: -28161.9834138   (diff=-28160.9834138)
+Step 2: log likelihood: -25020.1163847   (diff=3141.8670291)
+Step 3: log likelihood: -24270.3979454   (diff=749.718439306)
+Step 4: log likelihood: -22837.3616169   (diff=1433.03632849)
+Step 5: log likelihood: -22837.3616169   (diff=-3.63797880709e-12)
+Step 5: log likelihood: -22837.3616169   (diff=0.0)
+Convergence reached with log_p -22837.3616169 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.33333333  0.0952381   0.33333333]
+Step 1: log likelihood: -29820.7875665   (diff=-29819.7875665)
+Step 2: log likelihood: -29664.2478754   (diff=156.53969111)
+Step 3: log likelihood: -25820.2953364   (diff=3843.95253904)
+Step 4: log likelihood: -21282.9697983   (diff=4537.32553807)
+Step 5: log likelihood: -19111.528085   (diff=2171.44171332)
+Step 5: log likelihood: -19111.528085   (diff=0.0)
+Convergence reached with log_p -19111.528085 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.428571428571
+SELF.PI: 0.047619047619
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.42857143  0.04761905  0.23809524]
+Step 1: log likelihood: -25782.1583377   (diff=-25781.1583377)
+Step 2: log likelihood: -21496.8239507   (diff=4285.33438698)
+Step 2: log likelihood: -21496.8236139   (diff=0.000336848803272)
+Convergence reached with log_p -21496.8236139 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -27310.4191514   (diff=-27309.4191514)
+Step 2: log likelihood: -21108.9517866   (diff=6201.46736481)
+Step 2: log likelihood: -21108.9517855   (diff=1.04881473817e-06)
+Convergence reached with log_p -21108.9517855 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+PI:  [ 0.14285714  0.19047619  0.23809524  0.42857143]
+Step 1: log likelihood: -28679.6253409   (diff=-28678.6253409)
+Step 2: log likelihood: -23174.1937966   (diff=5505.43154429)
+Step 3: log likelihood: -22834.123598   (diff=340.070198611)
+Step 3: log likelihood: -22834.123598   (diff=0.0)
+Convergence reached with log_p -22834.123598 after 3 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.0952381   0.38095238  0.19047619]
+Step 1: log likelihood: -30343.7521195   (diff=-30342.7521195)
+Step 2: log likelihood: -25927.0189751   (diff=4416.73314444)
+Step 3: log likelihood: -25926.3770994   (diff=0.641875638164)
+Step 4: log likelihood: -25721.2069036   (diff=205.170195825)
+Step 5: log likelihood: -24074.8937061   (diff=1646.3131975)
+Step 6: log likelihood: -21823.9339199   (diff=2250.95978624)
+Step 6: log likelihood: -21823.9339199   (diff=0.0)
+Convergence reached with log_p -21823.9339199 after 6 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.33333333  0.28571429  0.23809524]
+Step 1: log likelihood: -28016.3925025   (diff=-28015.3925025)
+Step 2: log likelihood: -20966.1744954   (diff=7050.21800711)
+Step 2: log likelihood: -20966.1744954   (diff=0.0)
+Convergence reached with log_p -20966.1744954 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.23809524  0.28571429  0.23809524]
+Step 1: log likelihood: -26307.4254737   (diff=-26306.4254737)
+Step 2: log likelihood: -23162.9910205   (diff=3144.43445317)
+Step 3: log likelihood: -22457.035794   (diff=705.955226528)
+Step 3: log likelihood: -22457.035794   (diff=0.0)
+Convergence reached with log_p -22457.035794 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.14285714  0.42857143  0.28571429  0.14285714]
+Step 1: log likelihood: -27985.6262255   (diff=-27984.6262255)
+Step 2: log likelihood: -26234.7213769   (diff=1750.90484865)
+Step 2: log likelihood: -26234.7213769   (diff=1.45519152284e-11)
+Convergence reached with log_p -26234.7213769 after 2 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.0952381   0.33333333  0.38095238  0.19047619]
+Step 1: log likelihood: -29171.4984567   (diff=-29170.4984567)
+Step 2: log likelihood: -21836.5329633   (diff=7334.9654934)
+Step 3: log likelihood: -20825.4573643   (diff=1011.07559903)
+Step 3: log likelihood: -20825.4573643   (diff=0.0)
+Convergence reached with log_p -20825.4573643 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.33333333  0.19047619  0.19047619]
+Step 1: log likelihood: -26746.034645   (diff=-26745.034645)
+Step 2: log likelihood: -23179.3795437   (diff=3566.65510129)
+Step 3: log likelihood: -21999.538203   (diff=1179.8413407)
+Step 3: log likelihood: -21999.538203   (diff=0.0)
+Convergence reached with log_p -21999.538203 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.28571429  0.28571429  0.23809524]
+Step 1: log likelihood: -28527.7680435   (diff=-28526.7680435)
+Step 2: log likelihood: -27391.3415361   (diff=1136.42650743)
+Step 3: log likelihood: -22699.6288556   (diff=4691.71268054)
+Step 4: log likelihood: -21933.859428   (diff=765.76942759)
+Step 4: log likelihood: -21933.859428   (diff=3.63797880709e-12)
+Convergence reached with log_p -21933.859428 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.47619048  0.19047619  0.14285714]
+Step 1: log likelihood: -30503.8046948   (diff=-30502.8046948)
+Step 2: log likelihood: -28527.8847581   (diff=1975.91993667)
+Step 3: log likelihood: -27212.4414186   (diff=1315.44333947)
+Step 4: log likelihood: -25659.3066531   (diff=1553.13476549)
+Step 5: log likelihood: -24626.2153003   (diff=1033.09135285)
+Step 5: log likelihood: -24626.2153003   (diff=0.0)
+Convergence reached with log_p -24626.2153003 after 5 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [2, 2, 2, 2, 3, 2, 2, 1, 1, 3, 1, 1, 3, 1, 1, 0, 0, 0, 0, 1, 1]
+
+sample 8 of 22 samples
+
+Original cm 
+[[ 4.  0.]
+ [ 8.  0.]
+ [ 0.  6.]
+ [ 2.  1.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.28571429  0.        ]
+ [ 0.57142857  0.        ]
+ [ 0.          0.85714286]
+ [ 0.14285714  0.14285714]]
+ARGMAX - Confusion Matrix
+[0, 0, 1, 0]
+False value: sample 4 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1128.43280182.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 1
+[8] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [1]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.23809524  0.14285714  0.33333333]
+Step 1: log likelihood: -26989.3043464   (diff=-26988.3043464)
+Step 2: log likelihood: -22503.1502884   (diff=4486.15405796)
+Step 3: log likelihood: -21172.6264377   (diff=1330.52385077)
+Step 4: log likelihood: -20093.5089331   (diff=1079.11750455)
+Step 4: log likelihood: -20093.5089331   (diff=0.0)
+Convergence reached with log_p -20093.5089331 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.23809524  0.23809524  0.23809524]
+Step 1: log likelihood: -29105.0419062   (diff=-29104.0419062)
+Step 2: log likelihood: -26986.5703902   (diff=2118.47151603)
+Step 3: log likelihood: -26199.3958522   (diff=787.174537939)
+Step 3: log likelihood: -26199.3958522   (diff=0.0)
+Convergence reached with log_p -26199.3958522 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.19047619  0.33333333  0.28571429]
+Step 1: log likelihood: -24439.2539123   (diff=-24438.2539123)
+Step 2: log likelihood: -22002.9041258   (diff=2436.34978647)
+Step 2: log likelihood: -22002.9041258   (diff=8.36735125631e-11)
+Convergence reached with log_p -22002.9041258 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.28571429  0.33333333  0.23809524]
+Step 1: log likelihood: -30571.4574528   (diff=-30570.4574528)
+Step 2: log likelihood: -29725.6944126   (diff=845.763040238)
+Step 3: log likelihood: -25510.8403261   (diff=4214.85408649)
+Step 4: log likelihood: -24374.118308   (diff=1136.7220181)
+Step 5: log likelihood: -23518.1868391   (diff=855.931468916)
+Step 5: log likelihood: -23518.1868391   (diff=0.0)
+Convergence reached with log_p -23518.1868391 after 5 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.14285714  0.47619048  0.19047619  0.19047619]
+Step 1: log likelihood: -29895.7694447   (diff=-29894.7694447)
+Step 2: log likelihood: -27936.0145201   (diff=1959.75492458)
+Step 3: log likelihood: -26246.1663221   (diff=1689.848198)
+Step 4: log likelihood: -24788.6785691   (diff=1457.48775299)
+Step 5: log likelihood: -24683.6762988   (diff=105.0022703)
+Step 5: log likelihood: -24683.6762988   (diff=0.0)
+Convergence reached with log_p -24683.6762988 after 5 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.38095238  0.14285714  0.14285714  0.33333333]
+Step 1: log likelihood: -27692.9619933   (diff=-27691.9619933)
+Step 2: log likelihood: -25020.7305713   (diff=2672.23142203)
+Step 3: log likelihood: -22399.8265038   (diff=2620.9040675)
+Step 4: log likelihood: -20480.097993   (diff=1919.72851085)
+Step 4: log likelihood: -20480.097993   (diff=0.0)
+Convergence reached with log_p -20480.097993 after 4 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.33333333  0.33333333  0.19047619  0.14285714]
+Step 1: log likelihood: -30820.5263913   (diff=-30819.5263913)
+Step 1: log likelihood: -30820.5263913   (diff=0.0)
+Convergence reached with log_p -30820.5263913 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.0952380952381
+SELF.PI: 0.428571428571
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.0952381   0.42857143  0.28571429]
+Step 1: log likelihood: -28277.9791453   (diff=-28276.9791453)
+Step 2: log likelihood: -22032.1041734   (diff=6245.87497189)
+Step 2: log likelihood: -22032.1041734   (diff=0.0)
+Convergence reached with log_p -22032.1041734 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.38095238  0.19047619  0.23809524  0.19047619]
+Step 1: log likelihood: -29529.3505435   (diff=-29528.3505435)
+Step 2: log likelihood: -28546.5019674   (diff=982.848576101)
+Step 3: log likelihood: -27521.8520831   (diff=1024.64988433)
+Step 4: log likelihood: -26008.2144953   (diff=1513.63758773)
+Step 5: log likelihood: -23874.1323305   (diff=2134.08216483)
+Step 6: log likelihood: -23487.8852901   (diff=386.247040381)
+Step 7: log likelihood: -23487.8852901   (diff=-2.91038304567e-11)
+Step 7: log likelihood: -23487.8852901   (diff=0.0)
+Convergence reached with log_p -23487.8852901 after 7 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.0952380952381
+PI:  [ 0.47619048  0.19047619  0.23809524  0.0952381 ]
+Step 1: log likelihood: -29044.8059579   (diff=-29043.8059579)
+Step 2: log likelihood: -25775.5175472   (diff=3269.28841071)
+Step 3: log likelihood: -23823.1069475   (diff=1952.41059971)
+Step 4: log likelihood: -22844.1884346   (diff=978.918512842)
+Step 5: log likelihood: -21260.4168533   (diff=1583.77158133)
+Step 5: log likelihood: -21260.4168533   (diff=0.0)
+Convergence reached with log_p -21260.4168533 after 5 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.047619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.47619048  0.04761905  0.19047619  0.28571429]
+Step 1: log likelihood: -29027.5315575   (diff=-29026.5315575)
+Step 2: log likelihood: -26750.2979491   (diff=2277.2336084)
+Step 2: log likelihood: -26750.2979491   (diff=0.0)
+Convergence reached with log_p -26750.2979491 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.23809524  0.23809524  0.33333333]
+Step 1: log likelihood: -28664.0162704   (diff=-28663.0162704)
+Step 2: log likelihood: -27727.5487848   (diff=936.467485617)
+Step 3: log likelihood: -25158.2004821   (diff=2569.34830272)
+Step 4: log likelihood: -21348.6682976   (diff=3809.5321845)
+Step 4: log likelihood: -21348.6682976   (diff=0.0)
+Convergence reached with log_p -21348.6682976 after 4 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+PI:  [ 0.14285714  0.28571429  0.42857143  0.14285714]
+Step 1: log likelihood: -29410.7544689   (diff=-29409.7544689)
+Step 2: log likelihood: -27959.5909087   (diff=1451.16356027)
+Step 3: log likelihood: -26181.7784756   (diff=1777.81243304)
+Step 3: log likelihood: -26181.7784756   (diff=0.0)
+Convergence reached with log_p -26181.7784756 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.19047619  0.42857143  0.14285714]
+Step 1: log likelihood: -29622.3593483   (diff=-29621.3593483)
+Step 2: log likelihood: -23893.6210106   (diff=5728.73833774)
+Step 3: log likelihood: -22306.6246855   (diff=1586.99632507)
+Step 3: log likelihood: -22306.6246855   (diff=0.0)
+Convergence reached with log_p -22306.6246855 after 3 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.38095238  0.23809524  0.14285714  0.23809524]
+Step 1: log likelihood: -23598.208945   (diff=-23597.208945)
+Step 2: log likelihood: -20724.3088288   (diff=2873.90011619)
+Step 3: log likelihood: -19851.5924301   (diff=872.716398755)
+Step 3: log likelihood: -19851.5924301   (diff=0.0)
+Convergence reached with log_p -19851.5924301 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [0, 0, 0, 1, 0, 0, 0, 2, 1, 3, 1, 3, 1, 1, 1, 3, 3, 3, 3, 2, 2]
+
+sample 9 of 22 samples
+
+Original cm 
+[[ 0.  6.]
+ [ 5.  1.]
+ [ 3.  0.]
+ [ 6.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.          0.85714286]
+ [ 0.35714286  0.14285714]
+ [ 0.21428571  0.        ]
+ [ 0.42857143  0.        ]]
+ARGMAX - Confusion Matrix
+[1, 0, 0, 0]
+False value: sample 3 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1197.052267.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 1
+[9] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [1]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.23809524  0.23809524  0.33333333]
+Step 1: log likelihood: -29162.6201137   (diff=-29161.6201137)
+Step 2: log likelihood: -28784.591835   (diff=378.028278611)
+Step 2: log likelihood: -28784.591835   (diff=3.06608853862e-08)
+Convergence reached with log_p -28784.591835 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.33333333  0.19047619  0.19047619  0.28571429]
+Step 1: log likelihood: -24672.8359995   (diff=-24671.8359995)
+Step 2: log likelihood: -23894.9555807   (diff=777.8804188)
+Step 2: log likelihood: -23894.9555807   (diff=0.0)
+Convergence reached with log_p -23894.9555807 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.19047619  0.33333333  0.28571429]
+Step 1: log likelihood: -26213.0961018   (diff=-26212.0961018)
+Step 2: log likelihood: -21343.4955644   (diff=4869.60053744)
+Step 2: log likelihood: -21343.4955644   (diff=0.0)
+Convergence reached with log_p -21343.4955644 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.38095238  0.0952381   0.28571429]
+Step 1: log likelihood: -29077.4653157   (diff=-29076.4653157)
+Step 2: log likelihood: -25562.2134879   (diff=3515.25182778)
+Step 3: log likelihood: -23028.0204435   (diff=2534.19304449)
+Step 4: log likelihood: -23020.3816972   (diff=7.63874623352)
+Step 4: log likelihood: -23020.3816972   (diff=0.0)
+Convergence reached with log_p -23020.3816972 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.14285714  0.33333333  0.33333333]
+Step 1: log likelihood: -30449.8220854   (diff=-30448.8220854)
+Step 2: log likelihood: -30449.8220854   (diff=-3.63797880709e-12)
+Step 2: log likelihood: -30449.8220854   (diff=0.0)
+Convergence reached with log_p -30449.8220854 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.33333333  0.14285714  0.33333333]
+Step 1: log likelihood: -29341.4015281   (diff=-29340.4015281)
+Step 2: log likelihood: -26177.1574835   (diff=3164.24404465)
+Step 3: log likelihood: -25017.1493466   (diff=1160.00813687)
+Step 3: log likelihood: -25017.1493466   (diff=2.54658516496e-11)
+Convergence reached with log_p -25017.1493466 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.23809524  0.23809524  0.28571429]
+Step 1: log likelihood: -25277.009193   (diff=-25276.009193)
+Step 2: log likelihood: -22104.3600031   (diff=3172.64918989)
+Step 3: log likelihood: -22104.3600031   (diff=-7.27595761418e-12)
+Step 3: log likelihood: -22104.3600031   (diff=0.0)
+Convergence reached with log_p -22104.3600031 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.19047619  0.33333333  0.33333333]
+Step 1: log likelihood: -25424.1763855   (diff=-25423.1763855)
+Step 2: log likelihood: -22556.9483809   (diff=2867.22800469)
+Step 3: log likelihood: -21387.4965437   (diff=1169.45183716)
+Step 3: log likelihood: -21387.4965437   (diff=0.0)
+Convergence reached with log_p -21387.4965437 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+PI:  [ 0.14285714  0.28571429  0.14285714  0.42857143]
+Step 1: log likelihood: -28603.9135933   (diff=-28602.9135933)
+Step 2: log likelihood: -23819.7878495   (diff=4784.12574382)
+Step 3: log likelihood: -21146.6346807   (diff=2673.15316878)
+Step 3: log likelihood: -21146.6346807   (diff=0.0)
+Convergence reached with log_p -21146.6346807 after 3 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.33333333  0.14285714  0.23809524  0.28571429]
+Step 1: log likelihood: -29153.9905226   (diff=-29152.9905226)
+Step 2: log likelihood: -27783.8889135   (diff=1370.10160905)
+Step 3: log likelihood: -26053.598513   (diff=1730.29040056)
+Step 4: log likelihood: -26053.6012535   (diff=-0.002740542026)
+Step 4: log likelihood: -26053.6012535   (diff=0.0)
+Convergence reached with log_p -26053.6012535 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.23809524  0.23809524  0.28571429]
+Step 1: log likelihood: -24381.8908974   (diff=-24380.8908974)
+Step 2: log likelihood: -20989.4754873   (diff=3392.41541014)
+Step 3: log likelihood: -20989.4754873   (diff=-3.63797880709e-12)
+Step 3: log likelihood: -20989.4754873   (diff=0.0)
+Convergence reached with log_p -20989.4754873 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.23809524  0.33333333  0.19047619]
+Step 1: log likelihood: -29412.3209279   (diff=-29411.3209279)
+Step 2: log likelihood: -28952.2978319   (diff=460.023096038)
+Step 2: log likelihood: -28952.2978319   (diff=0.0)
+Convergence reached with log_p -28952.2978319 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.14285714  0.42857143  0.28571429  0.14285714]
+Step 1: log likelihood: -27986.8508844   (diff=-27985.8508844)
+Step 2: log likelihood: -25588.21695   (diff=2398.63393444)
+Step 2: log likelihood: -25588.21695   (diff=2.76486389339e-10)
+Convergence reached with log_p -25588.21695 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.14285714  0.28571429  0.38095238  0.19047619]
+Step 1: log likelihood: -28230.790013   (diff=-28229.790013)
+Step 2: log likelihood: -25542.6890929   (diff=2688.10092014)
+Step 2: log likelihood: -25542.6615497   (diff=0.0275431506743)
+Convergence reached with log_p -25542.6615497 after 2 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.0952381   0.33333333  0.23809524  0.33333333]
+Step 1: log likelihood: -27220.7957351   (diff=-27219.7957351)
+Step 2: log likelihood: -21423.2341952   (diff=5797.56153991)
+Step 3: log likelihood: -20484.5924966   (diff=938.64169865)
+Step 3: log likelihood: -20484.5924966   (diff=0.0)
+Convergence reached with log_p -20484.5924966 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [3, 3, 3, 1, 3, 3, 3, 1, 1, 1, 1, 0, 1, 1, 1, 2, 0, 2, 2, 2, 1]
+
+sample 10 of 22 samples
+
+Original cm 
+[[ 2.  0.]
+ [ 8.  1.]
+ [ 4.  0.]
+ [ 0.  6.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.14285714  0.        ]
+ [ 0.57142857  0.14285714]
+ [ 0.28571429  0.        ]
+ [ 0.          0.85714286]]
+ARGMAX - Confusion Matrix
+[0, 0, 0, 1]
+False value: sample 3 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1375.80888128.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[10] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.0952380952381
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.0952381   0.42857143  0.23809524]
+Step 1: log likelihood: -28967.9193745   (diff=-28966.9193745)
+Step 1: log likelihood: -28967.9193745   (diff=0.0)
+Convergence reached with log_p -28967.9193745 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+PI:  [ 0.19047619  0.14285714  0.28571429  0.38095238]
+Step 1: log likelihood: -29022.8975021   (diff=-29021.8975021)
+Step 2: log likelihood: -27466.6851175   (diff=1556.21238462)
+Step 3: log likelihood: -25135.4794924   (diff=2331.20562509)
+Step 3: log likelihood: -25135.4794923   (diff=5.88042894378e-08)
+Convergence reached with log_p -25135.4794923 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.19047619  0.33333333  0.19047619]
+Step 1: log likelihood: -28391.2780132   (diff=-28390.2780132)
+Step 2: log likelihood: -25839.1689012   (diff=2552.10911202)
+Step 3: log likelihood: -24648.9484383   (diff=1190.22046288)
+Step 3: log likelihood: -24648.9484378   (diff=5.25022187503e-07)
+Convergence reached with log_p -24648.9484378 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.33333333  0.14285714  0.28571429]
+Step 1: log likelihood: -27372.0012909   (diff=-27371.0012909)
+Step 2: log likelihood: -26283.3956851   (diff=1088.60560575)
+Step 3: log likelihood: -26283.3956854   (diff=-2.69596057478e-07)
+Step 3: log likelihood: -26283.3956854   (diff=0.0)
+Convergence reached with log_p -26283.3956854 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.23809524  0.38095238  0.23809524]
+Step 1: log likelihood: -27258.3864701   (diff=-27257.3864701)
+Step 2: log likelihood: -23225.1669853   (diff=4033.21948486)
+Step 3: log likelihood: -21527.5157079   (diff=1697.6512774)
+Step 4: log likelihood: -20882.8056061   (diff=644.71010176)
+Step 4: log likelihood: -20882.8056061   (diff=0.0)
+Convergence reached with log_p -20882.8056061 after 4 steps.
+SELF.PI: 0.52380952381
+SELF.PI: 0.190476190476
+SELF.PI: 0.0952380952381
+SELF.PI: 0.190476190476
+PI:  [ 0.52380952  0.19047619  0.0952381   0.19047619]
+Step 1: log likelihood: -26784.4446068   (diff=-26783.4446068)
+Step 1: log likelihood: -26784.4446068   (diff=0.0)
+Convergence reached with log_p -26784.4446068 after 1 steps.
+SELF.PI: 0.52380952381
+SELF.PI: 0.0
+Sum of posterior is zero: Normal:  [0, 1] has zero likelihood for data set. 
+
+SELF.PI: 0.333333333333
+SELF.PI: 0.047619047619
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.04761905  0.42857143  0.19047619]
+Step 1: log likelihood: -29114.0650355   (diff=-29113.0650355)
+Step 2: log likelihood: -26826.5828727   (diff=2287.48216288)
+Step 3: log likelihood: -24711.2483859   (diff=2115.33448673)
+Step 4: log likelihood: -23951.1554162   (diff=760.092969766)
+Step 5: log likelihood: -23267.2071688   (diff=683.948247348)
+Step 6: log likelihood: -23262.2842576   (diff=4.92291126192)
+Step 7: log likelihood: -22870.1911242   (diff=392.093133315)
+Step 8: log likelihood: -22337.7557683   (diff=532.435355975)
+Step 9: log likelihood: -22332.4710654   (diff=5.28470285348)
+Step 9: log likelihood: -22332.4710654   (diff=2.29374563787e-08)
+Convergence reached with log_p -22332.4710654 after 9 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.0952381   0.28571429  0.33333333]
+Step 1: log likelihood: -30360.3596774   (diff=-30359.3596774)
+Step 2: log likelihood: -28781.7216477   (diff=1578.63802973)
+Step 3: log likelihood: -26265.3521082   (diff=2516.36953944)
+Step 3: log likelihood: -26265.3521082   (diff=7.27595761418e-12)
+Convergence reached with log_p -26265.3521082 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.23809524  0.33333333  0.23809524]
+Step 1: log likelihood: -28164.4271559   (diff=-28163.4271559)
+Step 2: log likelihood: -23395.650277   (diff=4768.77687889)
+Step 3: log likelihood: -21469.2611487   (diff=1926.38912825)
+Step 3: log likelihood: -21469.2611487   (diff=0.0)
+Convergence reached with log_p -21469.2611487 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.28571429  0.14285714  0.33333333]
+Step 1: log likelihood: -29688.7186272   (diff=-29687.7186272)
+Step 2: log likelihood: -28610.0771289   (diff=1078.64149828)
+Step 3: log likelihood: -26959.0862172   (diff=1650.99091174)
+Step 4: log likelihood: -22527.1340595   (diff=4431.95215772)
+Step 4: log likelihood: -22527.130791   (diff=0.00326847443284)
+Convergence reached with log_p -22527.130791 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.23809524  0.33333333  0.23809524]
+Step 1: log likelihood: -29613.6904215   (diff=-29612.6904215)
+Step 2: log likelihood: -29263.7404564   (diff=349.949965047)
+Step 3: log likelihood: -28167.1760104   (diff=1096.56444599)
+Step 3: log likelihood: -28167.1760104   (diff=0.0)
+Convergence reached with log_p -28167.1760104 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.19047619  0.23809524  0.14285714]
+Step 1: log likelihood: -27299.8932165   (diff=-27298.8932165)
+Step 2: log likelihood: -26162.1913564   (diff=1137.70186012)
+Step 2: log likelihood: -26162.1913564   (diff=0.0)
+Convergence reached with log_p -26162.1913564 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.047619047619
+SELF.PI: 0.428571428571
+PI:  [ 0.23809524  0.28571429  0.04761905  0.42857143]
+Step 1: log likelihood: -25285.8343847   (diff=-25284.8343847)
+Step 2: log likelihood: -21492.9643099   (diff=3792.87007475)
+Step 2: log likelihood: -21492.9643099   (diff=2.07364792004e-08)
+Convergence reached with log_p -21492.9643099 after 2 steps.
+SELF.PI: 0.047619047619
+SELF.PI: 0.333333333333
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+PI:  [ 0.04761905  0.33333333  0.42857143  0.19047619]
+Step 1: log likelihood: -30957.4573543   (diff=-30956.4573543)
+Step 1: log likelihood: -30957.4573543   (diff=0.0)
+Convergence reached with log_p -30957.4573543 after 1 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 1, 0, 1, 1, 3, 3, 2, 2, 2, 0, 2, 2, 2, 2, 0, 0, 0, 0, 3, 2]
+
+sample 11 of 22 samples
+
+Original cm 
+[[ 5.  1.]
+ [ 0.  4.]
+ [ 8.  0.]
+ [ 1.  2.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.35714286  0.14285714]
+ [ 0.          0.57142857]
+ [ 0.57142857  0.        ]
+ [ 0.07142857  0.28571429]]
+ARGMAX - Confusion Matrix
+[0, 1, 0, 1]
+False value: sample 2 
+
+False value: sample 19 
+
+
+Training error 0.0952380952381 %
+
+classify loglikelihood: -1439.01503221.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[11] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.28571429  0.23809524  0.33333333]
+Step 1: log likelihood: -26201.7450161   (diff=-26200.7450161)
+Step 2: log likelihood: -21409.1473885   (diff=4792.59762752)
+Step 2: log likelihood: -21409.1473885   (diff=0.0)
+Convergence reached with log_p -21409.1473885 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.28571429  0.33333333  0.14285714]
+Step 1: log likelihood: -27113.7023336   (diff=-27112.7023336)
+Step 2: log likelihood: -24214.1594348   (diff=2899.54289876)
+Step 3: log likelihood: -22611.6823521   (diff=1602.47708271)
+Step 3: log likelihood: -22611.6823521   (diff=1.30603439175e-09)
+Convergence reached with log_p -22611.6823521 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.23809524  0.33333333  0.23809524]
+Step 1: log likelihood: -28922.1605208   (diff=-28921.1605208)
+Step 2: log likelihood: -28770.7111815   (diff=151.449339279)
+Step 2: log likelihood: -28770.7111815   (diff=0.0)
+Convergence reached with log_p -28770.7111815 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.19047619  0.33333333  0.23809524]
+Step 1: log likelihood: -29256.9641269   (diff=-29255.9641269)
+Step 2: log likelihood: -27875.7923762   (diff=1381.17175063)
+Step 3: log likelihood: -25274.6371886   (diff=2601.15518759)
+Step 3: log likelihood: -25274.6371886   (diff=0.0)
+Convergence reached with log_p -25274.6371886 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.47619048  0.19047619  0.14285714]
+Step 1: log likelihood: -24898.0063458   (diff=-24897.0063458)
+Step 2: log likelihood: -20295.8265627   (diff=4602.17978307)
+Step 2: log likelihood: -20295.8265627   (diff=3.27418092638e-11)
+Convergence reached with log_p -20295.8265627 after 2 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+PI:  [ 0.0952381   0.23809524  0.28571429  0.38095238]
+Step 1: log likelihood: -29187.1330433   (diff=-29186.1330433)
+Step 2: log likelihood: -28062.9905042   (diff=1124.14253913)
+Step 3: log likelihood: -26302.0604053   (diff=1760.93009885)
+Step 3: log likelihood: -26302.0604053   (diff=0.0)
+Convergence reached with log_p -26302.0604053 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.28571429  0.14285714  0.33333333]
+Step 1: log likelihood: -28686.6819819   (diff=-28685.6819819)
+Step 2: log likelihood: -27309.7824499   (diff=1376.89953204)
+Step 3: log likelihood: -24132.3538868   (diff=3177.42856308)
+Step 4: log likelihood: -23180.4848794   (diff=951.869007363)
+Step 4: log likelihood: -23180.4848794   (diff=0.0)
+Convergence reached with log_p -23180.4848794 after 4 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+PI:  [ 0.47619048  0.14285714  0.28571429  0.0952381 ]
+Step 1: log likelihood: -29165.7662657   (diff=-29164.7662657)
+Step 2: log likelihood: -26307.4402434   (diff=2858.32602232)
+Step 3: log likelihood: -25475.2054396   (diff=832.234803742)
+Step 3: log likelihood: -25475.2054396   (diff=0.0)
+Convergence reached with log_p -25475.2054396 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.38095238  0.0952381   0.28571429]
+Step 1: log likelihood: -28814.887597   (diff=-28813.887597)
+Step 2: log likelihood: -27188.2292212   (diff=1626.65837581)
+Step 3: log likelihood: -24535.7366863   (diff=2652.49253488)
+Step 4: log likelihood: -23663.6604978   (diff=872.076188506)
+Step 5: log likelihood: -23187.8040912   (diff=475.856406558)
+Step 6: log likelihood: -21691.3339695   (diff=1496.47012166)
+Step 6: log likelihood: -21691.3339695   (diff=0.0)
+Convergence reached with log_p -21691.3339695 after 6 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.19047619  0.23809524  0.19047619  0.38095238]
+Step 1: log likelihood: -30084.770836   (diff=-30083.770836)
+Step 2: log likelihood: -28842.169578   (diff=1242.60125795)
+Step 3: log likelihood: -27064.057358   (diff=1778.11222)
+Step 4: log likelihood: -27064.057358   (diff=-1.58106558956e-08)
+Step 4: log likelihood: -27064.057358   (diff=1.5879777493e-08)
+Convergence reached with log_p -27064.057358 after 4 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.428571428571
+PI:  [ 0.14285714  0.0952381   0.33333333  0.42857143]
+Step 1: log likelihood: -27441.8206794   (diff=-27440.8206794)
+Step 2: log likelihood: -24383.3119744   (diff=3058.50870494)
+Step 3: log likelihood: -21971.511711   (diff=2411.80026338)
+Step 3: log likelihood: -21971.511711   (diff=0.0)
+Convergence reached with log_p -21971.511711 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.33333333  0.0952381   0.14285714]
+Step 1: log likelihood: -27188.1619035   (diff=-27187.1619035)
+Step 2: log likelihood: -20970.9863129   (diff=6217.17559056)
+Step 2: log likelihood: -20970.9863129   (diff=0.0)
+Convergence reached with log_p -20970.9863129 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.23809524  0.19047619  0.33333333]
+Step 1: log likelihood: -27200.8760926   (diff=-27199.8760926)
+Step 2: log likelihood: -19548.1228479   (diff=7652.75324471)
+Step 3: log likelihood: -18757.7568251   (diff=790.366022758)
+Step 3: log likelihood: -18757.7568251   (diff=0.0)
+Convergence reached with log_p -18757.7568251 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.52380952381
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.14285714  0.52380952  0.19047619  0.14285714]
+Step 1: log likelihood: -30577.8225487   (diff=-30576.8225487)
+Step 2: log likelihood: -27007.6271491   (diff=3570.19539965)
+Step 3: log likelihood: -25752.0209139   (diff=1255.60623517)
+Step 4: log likelihood: -25095.0788074   (diff=656.942106492)
+Step 5: log likelihood: -24162.2523833   (diff=932.826424064)
+Step 5: log likelihood: -24162.2523833   (diff=0.0)
+Convergence reached with log_p -24162.2523833 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.23809524  0.28571429  0.23809524]
+Step 1: log likelihood: -27785.6974229   (diff=-27784.6974229)
+Step 2: log likelihood: -23409.5021901   (diff=4376.1952328)
+Step 2: log likelihood: -23409.5021901   (diff=1.24782673083e-08)
+Convergence reached with log_p -23409.5021901 after 2 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [3, 3, 3, 3, 1, 3, 3, 0, 0, 1, 0, 0, 0, 1, 1, 2, 2, 2, 2, 0, 1]
+
+sample 12 of 22 samples
+
+Original cm 
+[[ 6.  0.]
+ [ 4.  1.]
+ [ 4.  0.]
+ [ 0.  6.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.42857143  0.        ]
+ [ 0.28571429  0.14285714]
+ [ 0.28571429  0.        ]
+ [ 0.          0.85714286]]
+ARGMAX - Confusion Matrix
+[0, 0, 0, 1]
+False value: sample 4 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -2021.77644494.
+
+
+** Clustering **
+Cluster  0 , size 1
+[12] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [0]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.19047619  0.23809524  0.19047619  0.38095238]
+Step 1: log likelihood: -26181.2557837   (diff=-26180.2557837)
+Step 2: log likelihood: -24588.1216033   (diff=1593.13418034)
+Step 3: log likelihood: -22276.5940729   (diff=2311.52753047)
+Step 3: log likelihood: -22276.5940729   (diff=0.0)
+Convergence reached with log_p -22276.5940729 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.047619047619
+PI:  [ 0.42857143  0.19047619  0.33333333  0.04761905]
+Step 1: log likelihood: -29562.7307201   (diff=-29561.7307201)
+Step 2: log likelihood: -28631.688819   (diff=931.041901041)
+Step 2: log likelihood: -28631.6882408   (diff=0.00057818624191)
+Convergence reached with log_p -28631.6882408 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.14285714  0.23809524  0.33333333]
+Step 1: log likelihood: -27549.1759005   (diff=-27548.1759005)
+Step 2: log likelihood: -22951.1786355   (diff=4597.99726504)
+Step 3: log likelihood: -21212.1836389   (diff=1738.99499659)
+Step 3: log likelihood: -21212.1836389   (diff=0.0)
+Convergence reached with log_p -21212.1836389 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.19047619  0.38095238  0.23809524]
+Step 1: log likelihood: -29148.9357639   (diff=-29147.9357639)
+Step 1: log likelihood: -29148.9357639   (diff=3.16504156217e-10)
+Convergence reached with log_p -29148.9357639 after 1 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+PI:  [ 0.38095238  0.23809524  0.0952381   0.28571429]
+Step 1: log likelihood: -28318.8138003   (diff=-28317.8138003)
+Step 2: log likelihood: -23668.4716629   (diff=4650.34213738)
+Step 3: log likelihood: -21280.636651   (diff=2387.83501193)
+Step 3: log likelihood: -21280.6366508   (diff=2.1149389795e-07)
+Convergence reached with log_p -21280.6366508 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.14285714  0.38095238  0.19047619  0.28571429]
+Step 1: log likelihood: -29769.4271304   (diff=-29768.4271304)
+Step 1: log likelihood: -29769.4271304   (diff=0.0)
+Convergence reached with log_p -29769.4271304 after 1 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.38095238  0.23809524  0.23809524]
+Step 1: log likelihood: -27547.2203667   (diff=-27546.2203667)
+Step 2: log likelihood: -22144.1734021   (diff=5403.04696466)
+Step 3: log likelihood: -21422.0720374   (diff=722.101364625)
+Step 3: log likelihood: -21422.0720374   (diff=0.0)
+Convergence reached with log_p -21422.0720374 after 3 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.0952381   0.33333333  0.33333333  0.23809524]
+Step 1: log likelihood: -26558.8908817   (diff=-26557.8908817)
+Step 2: log likelihood: -23032.2175039   (diff=3526.67337778)
+Step 2: log likelihood: -23032.2175039   (diff=0.0)
+Convergence reached with log_p -23032.2175039 after 2 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+PI:  [ 0.47619048  0.19047619  0.14285714  0.19047619]
+Step 1: log likelihood: -31067.5166489   (diff=-31066.5166489)
+Step 1: log likelihood: -31067.5166489   (diff=0.0)
+Convergence reached with log_p -31067.5166489 after 1 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.23809524  0.33333333  0.19047619]
+Step 1: log likelihood: -27023.1117678   (diff=-27022.1117678)
+Step 2: log likelihood: -20561.2968805   (diff=6461.8148873)
+Step 2: log likelihood: -20561.2968804   (diff=9.51331458054e-09)
+Convergence reached with log_p -20561.2968804 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.14285714  0.33333333  0.23809524  0.28571429]
+Step 1: log likelihood: -27591.5209414   (diff=-27590.5209414)
+Step 2: log likelihood: -22176.5066575   (diff=5415.01428392)
+Step 3: log likelihood: -22176.5066575   (diff=-3.63797880709e-12)
+Step 3: log likelihood: -22176.5066575   (diff=0.0)
+Convergence reached with log_p -22176.5066575 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+PI:  [ 0.19047619  0.14285714  0.28571429  0.38095238]
+Step 1: log likelihood: -28297.0305321   (diff=-28296.0305321)
+Step 2: log likelihood: -20950.9599452   (diff=7346.07058694)
+Step 2: log likelihood: -20950.9599452   (diff=0.0)
+Convergence reached with log_p -20950.9599452 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.19047619  0.19047619  0.33333333]
+Step 1: log likelihood: -27384.9404791   (diff=-27383.9404791)
+Step 2: log likelihood: -22988.7934033   (diff=4396.14707584)
+Step 2: log likelihood: -22988.7933963   (diff=6.97954601492e-06)
+Convergence reached with log_p -22988.7933963 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.38095238  0.14285714  0.23809524]
+Step 1: log likelihood: -29489.9403072   (diff=-29488.9403072)
+Step 2: log likelihood: -26905.7920428   (diff=2584.14826433)
+Step 3: log likelihood: -25328.2524053   (diff=1577.53963755)
+Step 4: log likelihood: -23607.6990155   (diff=1720.55338974)
+Step 4: log likelihood: -23607.6990155   (diff=3.63797880709e-12)
+Convergence reached with log_p -23607.6990155 after 4 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.23809524  0.19047619  0.14285714]
+Step 1: log likelihood: -28664.0243087   (diff=-28663.0243087)
+Step 2: log likelihood: -22759.6367708   (diff=5904.38753798)
+Step 3: log likelihood: -20942.8282726   (diff=1816.80849818)
+Step 3: log likelihood: -20942.8282726   (diff=0.0)
+Convergence reached with log_p -20942.8282726 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 0, 3, 0, 1, 0, 0, 1, 1, 1, 2, 2, 2, 3, 2, 2, 2, 2, 2, 2, 3]
+
+sample 13 of 22 samples
+
+Original cm 
+[[ 0.  4.]
+ [ 3.  2.]
+ [ 9.  0.]
+ [ 2.  1.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.          0.57142857]
+ [ 0.21428571  0.28571429]
+ [ 0.64285714  0.        ]
+ [ 0.14285714  0.14285714]]
+ARGMAX - Confusion Matrix
+[1, 1, 0, 0]
+False value: sample 2 
+
+False value: sample 7 
+
+False value: sample 8 
+
+False value: sample 9 
+
+
+Training error 0.190476190476 %
+
+classify loglikelihood: -1254.07171527.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 1
+[13] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [1]
+mapClassify 1 
+
+
+False classify: sample 13
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.047619047619
+SELF.PI: 0.333333333333
+PI:  [ 0.33333333  0.28571429  0.04761905  0.33333333]
+Step 1: log likelihood: -27418.8419107   (diff=-27417.8419107)
+Step 2: log likelihood: -19348.1034547   (diff=8070.73845608)
+Step 3: log likelihood: -18440.2379345   (diff=907.865520169)
+Step 4: log likelihood: -16818.1591158   (diff=1622.07881874)
+Step 4: log likelihood: -16818.1591158   (diff=0.0)
+Convergence reached with log_p -16818.1591158 after 4 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.0952381   0.38095238  0.23809524  0.28571429]
+Step 1: log likelihood: -29646.2952225   (diff=-29645.2952225)
+Step 2: log likelihood: -28516.3635294   (diff=1129.93169303)
+Step 3: log likelihood: -27943.8908337   (diff=572.472695719)
+Step 4: log likelihood: -27339.8677121   (diff=604.02312165)
+Step 5: log likelihood: -26047.0409798   (diff=1292.82673223)
+Step 6: log likelihood: -24564.1685958   (diff=1482.87238401)
+Step 7: log likelihood: -24564.1685958   (diff=-1.7462298274e-10)
+Step 7: log likelihood: -24564.1685958   (diff=0.0)
+Convergence reached with log_p -24564.1685958 after 7 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+SELF.PI: 0.0952380952381
+PI:  [ 0.23809524  0.23809524  0.42857143  0.0952381 ]
+Step 1: log likelihood: -28945.2001293   (diff=-28944.2001293)
+Step 2: log likelihood: -26762.8122462   (diff=2182.38788308)
+Step 3: log likelihood: -22719.5541817   (diff=4043.25806454)
+Step 4: log likelihood: -20852.6914538   (diff=1866.86272792)
+Step 5: log likelihood: -20850.2182282   (diff=2.47322554274)
+Step 5: log likelihood: -20850.2182282   (diff=0.0)
+Convergence reached with log_p -20850.2182282 after 5 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.42857143  0.23809524  0.14285714]
+Step 1: log likelihood: -26720.425499   (diff=-26719.425499)
+Step 2: log likelihood: -21475.0973095   (diff=5245.32818952)
+Step 3: log likelihood: -20483.3998315   (diff=991.697477959)
+Step 3: log likelihood: -20483.3998315   (diff=3.63797880709e-12)
+Convergence reached with log_p -20483.3998315 after 3 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.38095238  0.19047619  0.28571429  0.14285714]
+Step 1: log likelihood: -30350.0522162   (diff=-30349.0522162)
+Step 1: log likelihood: -30350.0522162   (diff=0.0)
+Convergence reached with log_p -30350.0522162 after 1 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.38095238  0.23809524  0.23809524  0.14285714]
+Step 1: log likelihood: -26201.0134543   (diff=-26200.0134543)
+Step 2: log likelihood: -20687.7500023   (diff=5513.26345198)
+Step 2: log likelihood: -20687.7500023   (diff=0.0)
+Convergence reached with log_p -20687.7500023 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+PI:  [ 0.38095238  0.23809524  0.28571429  0.0952381 ]
+Step 1: log likelihood: -29210.0133041   (diff=-29209.0133041)
+Step 2: log likelihood: -27057.141869   (diff=2152.87143506)
+Step 3: log likelihood: -25890.5668376   (diff=1166.57503145)
+Step 3: log likelihood: -25890.5668376   (diff=0.0)
+Convergence reached with log_p -25890.5668376 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.33333333  0.19047619  0.23809524]
+Step 1: log likelihood: -27172.8131329   (diff=-27171.8131329)
+Step 2: log likelihood: -22820.0987302   (diff=4352.71440264)
+Step 3: log likelihood: -21797.5576255   (diff=1022.54110476)
+Step 3: log likelihood: -21797.5576255   (diff=0.0)
+Convergence reached with log_p -21797.5576255 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.28571429  0.23809524  0.28571429  0.19047619]
+Step 1: log likelihood: -29330.5362703   (diff=-29329.5362703)
+Step 1: log likelihood: -29330.5362703   (diff=0.0)
+Convergence reached with log_p -29330.5362703 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.14285714  0.33333333  0.33333333]
+Step 1: log likelihood: -26290.156332   (diff=-26289.156332)
+Step 2: log likelihood: -22259.2499108   (diff=4030.90642127)
+Step 2: log likelihood: -22259.2345544   (diff=0.0153563240019)
+Convergence reached with log_p -22259.2345544 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -29633.0219854   (diff=-29632.0219854)
+Step 2: log likelihood: -27545.0519971   (diff=2087.96998825)
+Step 3: log likelihood: -26000.8665081   (diff=1544.18548898)
+Step 4: log likelihood: -20984.5252378   (diff=5016.34127031)
+Step 5: log likelihood: -18904.853669   (diff=2079.67156881)
+Step 6: log likelihood: -17049.7517039   (diff=1855.10196516)
+Step 6: log likelihood: -17049.7517039   (diff=0.0)
+Convergence reached with log_p -17049.7517039 after 6 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.23809524  0.38095238  0.19047619]
+Step 1: log likelihood: -27583.1847645   (diff=-27582.1847645)
+Step 2: log likelihood: -20990.6177146   (diff=6592.5670499)
+Step 2: log likelihood: -20990.6177146   (diff=0.0)
+Convergence reached with log_p -20990.6177146 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+PI:  [ 0.14285714  0.19047619  0.23809524  0.42857143]
+Step 1: log likelihood: -27828.8597197   (diff=-27827.8597197)
+Step 2: log likelihood: -22372.8182314   (diff=5456.0414883)
+Step 3: log likelihood: -21790.4939203   (diff=582.324311151)
+Step 3: log likelihood: -21790.4939203   (diff=0.0)
+Convergence reached with log_p -21790.4939203 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.23809524  0.28571429  0.28571429]
+Step 1: log likelihood: -28696.4278009   (diff=-28695.4278009)
+Step 2: log likelihood: -22783.0472459   (diff=5913.38055504)
+Step 3: log likelihood: -20569.617906   (diff=2213.42933992)
+Step 3: log likelihood: -20569.617906   (diff=0.0)
+Convergence reached with log_p -20569.617906 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.28571429  0.23809524  0.23809524]
+Step 1: log likelihood: -28993.6167008   (diff=-28992.6167008)
+Step 1: log likelihood: -28993.6167008   (diff=0.0)
+Convergence reached with log_p -28993.6167008 after 1 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [0, 0, 2, 0, 0, 0, 0, 3, 3, 3, 1, 3, 1, 3, 3, 1, 1, 1, 1, 1, 3]
+
+sample 14 of 22 samples
+
+Original cm 
+[[ 0.  6.]
+ [ 7.  0.]
+ [ 0.  1.]
+ [ 7.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.          0.85714286]
+ [ 0.5         0.        ]
+ [ 0.          0.14285714]
+ [ 0.5         0.        ]]
+ARGMAX - Confusion Matrix
+[1, 0, 1, 0]
+
+Training error 0.0 %
+
+classify loglikelihood: -1569.40731762.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 1
+[14] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [3]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.38095238  0.23809524  0.14285714]
+Step 1: log likelihood: -29909.8117963   (diff=-29908.8117963)
+Step 2: log likelihood: -28103.207106   (diff=1806.60469026)
+Step 3: log likelihood: -22746.3174176   (diff=5356.88968844)
+Step 3: log likelihood: -22746.2901765   (diff=0.027241034717)
+Convergence reached with log_p -22746.2901765 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.33333333  0.23809524  0.19047619]
+Step 1: log likelihood: -26823.5260207   (diff=-26822.5260207)
+Step 2: log likelihood: -23512.9032099   (diff=3310.62281083)
+Step 2: log likelihood: -23512.9032099   (diff=0.0)
+Convergence reached with log_p -23512.9032099 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.38095238  0.19047619  0.28571429  0.14285714]
+Step 1: log likelihood: -28340.222345   (diff=-28339.222345)
+Step 2: log likelihood: -26658.4105591   (diff=1681.81178584)
+Step 3: log likelihood: -24759.982926   (diff=1898.42763317)
+Step 4: log likelihood: -21459.1640382   (diff=3300.81888779)
+Step 5: log likelihood: -20865.2777465   (diff=593.88629163)
+Step 6: log likelihood: -20163.390086   (diff=701.887660495)
+Step 7: log likelihood: -20163.3900861   (diff=-4.51836967841e-09)
+Step 7: log likelihood: -20163.3900861   (diff=0.0)
+Convergence reached with log_p -20163.3900861 after 7 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.14285714  0.38095238  0.23809524]
+Step 1: log likelihood: -27008.8906127   (diff=-27007.8906127)
+Step 2: log likelihood: -23460.6408334   (diff=3548.24977927)
+Step 2: log likelihood: -23460.6387939   (diff=0.00203945336762)
+Convergence reached with log_p -23460.6387939 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.28571429  0.0952381   0.33333333]
+Step 1: log likelihood: -27202.7133217   (diff=-27201.7133217)
+Step 2: log likelihood: -24524.0783578   (diff=2678.6349639)
+Step 3: log likelihood: -23231.2562701   (diff=1292.82208775)
+Step 4: log likelihood: -22872.3499145   (diff=358.906355594)
+Step 4: log likelihood: -22872.3499145   (diff=7.27595761418e-12)
+Convergence reached with log_p -22872.3499145 after 4 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.23809524  0.28571429  0.33333333]
+Step 1: log likelihood: -29871.0379689   (diff=-29870.0379689)
+Step 2: log likelihood: -26864.9286043   (diff=3006.10936462)
+Step 3: log likelihood: -23381.3109109   (diff=3483.61769337)
+Step 4: log likelihood: -22551.4409816   (diff=829.869929269)
+Step 4: log likelihood: -22551.4409816   (diff=0.0)
+Convergence reached with log_p -22551.4409816 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.19047619  0.38095238  0.23809524]
+Step 1: log likelihood: -29068.3836379   (diff=-29067.3836379)
+Step 1: log likelihood: -29068.3836379   (diff=0.0)
+Convergence reached with log_p -29068.3836379 after 1 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.28571429  0.19047619  0.23809524]
+Step 1: log likelihood: -30059.6956103   (diff=-30058.6956103)
+Step 2: log likelihood: -28073.7050018   (diff=1985.9906085)
+Step 3: log likelihood: -23832.1232989   (diff=4241.58170283)
+Step 4: log likelihood: -21690.0971774   (diff=2142.02612156)
+Step 5: log likelihood: -20929.5511418   (diff=760.546035564)
+Step 5: log likelihood: -20929.5511418   (diff=0.0)
+Convergence reached with log_p -20929.5511418 after 5 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.0952380952381
+PI:  [ 0.47619048  0.19047619  0.23809524  0.0952381 ]
+Step 1: log likelihood: -27581.8480614   (diff=-27580.8480614)
+Step 2: log likelihood: -22443.8455871   (diff=5138.00247429)
+Step 3: log likelihood: -21687.1557061   (diff=756.68988107)
+Step 4: log likelihood: -21262.9394064   (diff=424.216299643)
+Step 4: log likelihood: -21262.9394064   (diff=2.18278728426e-11)
+Convergence reached with log_p -21262.9394064 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.047619047619
+SELF.PI: 0.380952380952
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.04761905  0.38095238  0.33333333]
+Step 1: log likelihood: -26814.175763   (diff=-26813.175763)
+Step 2: log likelihood: -21458.4440996   (diff=5355.7316634)
+Step 3: log likelihood: -19786.5028358   (diff=1671.94126377)
+Step 3: log likelihood: -19786.5028358   (diff=0.0)
+Convergence reached with log_p -19786.5028358 after 3 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.38095238  0.19047619  0.23809524  0.19047619]
+Step 1: log likelihood: -29079.5525612   (diff=-29078.5525612)
+Step 2: log likelihood: -25535.0021028   (diff=3544.55045842)
+-25535.1794879 -25535.0021028 -0.177385165942 2 6.9467456955e-06
+WARNING: EM divergent.
+SELF.PI: 0.333333333333
+SELF.PI: 0.047619047619
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+PI:  [ 0.33333333  0.04761905  0.14285714  0.47619048]
+Step 1: log likelihood: -28989.6132478   (diff=-28988.6132478)
+Step 2: log likelihood: -26738.0162839   (diff=2251.59696395)
+Step 3: log likelihood: -26473.5849299   (diff=264.431353917)
+Step 3: log likelihood: -26473.5849299   (diff=0.0)
+Convergence reached with log_p -26473.5849299 after 3 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.047619047619
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+PI:  [ 0.42857143  0.04761905  0.14285714  0.38095238]
+Step 1: log likelihood: -29201.8857741   (diff=-29200.8857741)
+Step 2: log likelihood: -23605.4391693   (diff=5596.44660482)
+Step 3: log likelihood: -22416.3399381   (diff=1189.09923124)
+Step 4: log likelihood: -20830.4105267   (diff=1585.92941134)
+Step 5: log likelihood: -20639.5484849   (diff=190.862041852)
+Step 5: log likelihood: -20639.5484849   (diff=0.0)
+Convergence reached with log_p -20639.5484849 after 5 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.28571429  0.23809524  0.23809524]
+Step 1: log likelihood: -28599.5526673   (diff=-28598.5526673)
+Step 2: log likelihood: -26895.3206249   (diff=1704.23204241)
+Step 3: log likelihood: -26410.7164289   (diff=484.604196022)
+Step 3: log likelihood: -26410.7164289   (diff=0.0)
+Convergence reached with log_p -26410.7164289 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.33333333  0.28571429  0.23809524]
+Step 1: log likelihood: -28285.7300327   (diff=-28284.7300327)
+Step 2: log likelihood: -24312.6340975   (diff=3973.09593517)
+Step 3: log likelihood: -19712.4474775   (diff=4600.18661998)
+Step 4: log likelihood: -18886.6728491   (diff=825.774628398)
+Step 5: log likelihood: -18886.6728491   (diff=-7.27595761418e-12)
+Step 5: log likelihood: -18886.6728491   (diff=0.0)
+Convergence reached with log_p -18886.6728491 after 5 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 1, 1, 1, 0, 0, 1, 2, 2, 0, 3, 2, 2, 2, 2, 3, 3, 3, 3, 3, 2]
+
+sample 15 of 22 samples
+
+Original cm 
+[[ 1.  2.]
+ [ 0.  5.]
+ [ 7.  0.]
+ [ 6.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.07142857  0.28571429]
+ [ 0.          0.71428571]
+ [ 0.5         0.        ]
+ [ 0.42857143  0.        ]]
+ARGMAX - Confusion Matrix
+[1, 1, 0, 0]
+False value: sample 9 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1672.53229241.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[15] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.38095238  0.23809524  0.14285714]
+Step 1: log likelihood: -28762.7206247   (diff=-28761.7206247)
+Step 2: log likelihood: -26118.4920494   (diff=2644.22857534)
+Step 3: log likelihood: -23349.5248982   (diff=2768.96715117)
+Step 4: log likelihood: -22586.7593694   (diff=762.765528796)
+Step 4: log likelihood: -22586.7593694   (diff=0.0)
+Convergence reached with log_p -22586.7593694 after 4 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.38095238  0.23809524  0.19047619]
+Step 1: log likelihood: -29265.2234902   (diff=-29264.2234902)
+Step 2: log likelihood: -24223.4346606   (diff=5041.78882959)
+Step 3: log likelihood: -20090.660332   (diff=4132.77432852)
+Step 3: log likelihood: -20090.660332   (diff=0.0)
+Convergence reached with log_p -20090.660332 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.28571429  0.33333333  0.23809524]
+Step 1: log likelihood: -25764.6697646   (diff=-25763.6697646)
+Step 2: log likelihood: -21265.5712689   (diff=4499.09849568)
+Step 2: log likelihood: -21265.5712689   (diff=0.0)
+Convergence reached with log_p -21265.5712689 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.33333333  0.0952381   0.33333333]
+Step 1: log likelihood: -28827.1853285   (diff=-28826.1853285)
+Step 2: log likelihood: -27068.7174179   (diff=1758.46791063)
+Step 3: log likelihood: -24395.4906544   (diff=2673.22676342)
+Step 3: log likelihood: -24395.4906544   (diff=0.0)
+Convergence reached with log_p -24395.4906544 after 3 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.238095238095
+PI:  [ 0.33333333  0.33333333  0.0952381   0.23809524]
+Step 1: log likelihood: -30364.1001889   (diff=-30363.1001889)
+Step 1: log likelihood: -30364.1001889   (diff=0.0)
+Convergence reached with log_p -30364.1001889 after 1 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.14285714  0.38095238  0.33333333]
+Step 1: log likelihood: -29599.0939161   (diff=-29598.0939161)
+Step 1: log likelihood: -29599.0939161   (diff=0.0)
+Convergence reached with log_p -29599.0939161 after 1 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+PI:  [ 0.14285714  0.28571429  0.14285714  0.42857143]
+Step 1: log likelihood: -25972.8464165   (diff=-25971.8464165)
+Step 2: log likelihood: -22565.9199873   (diff=3406.9264292)
+Step 3: log likelihood: -21646.9728463   (diff=918.947141006)
+Step 3: log likelihood: -21646.9728463   (diff=0.0)
+Convergence reached with log_p -21646.9728463 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+PI:  [ 0.28571429  0.33333333  0.28571429  0.0952381 ]
+Step 1: log likelihood: -28679.7692412   (diff=-28678.7692412)
+Step 2: log likelihood: -27927.3603327   (diff=752.40890856)
+Step 3: log likelihood: -27055.8732719   (diff=871.487060736)
+Step 4: log likelihood: -25512.2742462   (diff=1543.59902568)
+Step 5: log likelihood: -22821.488135   (diff=2690.78611125)
+Step 5: log likelihood: -22821.4880445   (diff=9.053667236e-05)
+Convergence reached with log_p -22821.4880445 after 5 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.33333333  0.14285714  0.23809524  0.28571429]
+Step 1: log likelihood: -27838.6720721   (diff=-27837.6720721)
+Step 1: log likelihood: -27838.6720721   (diff=0.0)
+Convergence reached with log_p -27838.6720721 after 1 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.19047619  0.23809524  0.33333333]
+Step 1: log likelihood: -27767.0272829   (diff=-27766.0272829)
+Step 2: log likelihood: -26834.2409981   (diff=932.78628479)
+Step 3: log likelihood: -26834.2409981   (diff=-3.63797880709e-12)
+Step 3: log likelihood: -26834.2409981   (diff=0.0)
+Convergence reached with log_p -26834.2409981 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+PI:  [ 0.28571429  0.33333333  0.0952381   0.28571429]
+Step 1: log likelihood: -28413.7704869   (diff=-28412.7704869)
+Step 2: log likelihood: -23381.7386309   (diff=5032.03185598)
+Step 3: log likelihood: -18219.8550207   (diff=5161.88361018)
+Step 3: log likelihood: -18219.8550207   (diff=0.0)
+Convergence reached with log_p -18219.8550207 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.14285714  0.38095238  0.23809524]
+Step 1: log likelihood: -29285.6637486   (diff=-29284.6637486)
+Step 2: log likelihood: -28211.427492   (diff=1074.23625661)
+Step 3: log likelihood: -27490.2135694   (diff=721.213922621)
+Step 3: log likelihood: -27490.2038862   (diff=0.00968317450315)
+Convergence reached with log_p -27490.2038862 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+PI:  [ 0.23809524  0.14285714  0.23809524  0.38095238]
+Step 1: log likelihood: -25267.0804687   (diff=-25266.0804687)
+Step 2: log likelihood: -22956.0950564   (diff=2310.98541233)
+Step 2: log likelihood: -22956.0950564   (diff=0.0)
+Convergence reached with log_p -22956.0950564 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.0952380952381
+PI:  [ 0.28571429  0.38095238  0.23809524  0.0952381 ]
+Step 1: log likelihood: -28998.7669319   (diff=-28997.7669319)
+Step 2: log likelihood: -25974.7596675   (diff=3024.00726437)
+Step 3: log likelihood: -25199.4052903   (diff=775.354377169)
+Step 3: log likelihood: -25199.4052903   (diff=0.0)
+Convergence reached with log_p -25199.4052903 after 3 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.23809524  0.23809524  0.19047619]
+Step 1: log likelihood: -29783.852211   (diff=-29782.852211)
+Step 1: log likelihood: -29783.852211   (diff=0.0)
+Convergence reached with log_p -29783.852211 after 1 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 1, 0, 2, 2, 0, 0, 1, 1, 1, 0, 0]
+
+sample 16 of 22 samples
+
+Original cm 
+[[ 8.  0.]
+ [ 4.  0.]
+ [ 2.  0.]
+ [ 0.  7.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.57142857  0.        ]
+ [ 0.28571429  0.        ]
+ [ 0.14285714  0.        ]
+ [ 0.          1.        ]]
+ARGMAX - Confusion Matrix
+[0, 0, 0, 1]
+
+Training error 0.0 %
+
+classify loglikelihood: -1024.8256218.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 1
+[16] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [1]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.380952380952
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+SELF.PI: 0.238095238095
+PI:  [ 0.38095238  0.28571429  0.0952381   0.23809524]
+Step 1: log likelihood: -29744.9808894   (diff=-29743.9808894)
+Step 1: log likelihood: -29744.9808894   (diff=0.0)
+Convergence reached with log_p -29744.9808894 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.19047619  0.23809524  0.28571429  0.28571429]
+Step 1: log likelihood: -29247.637246   (diff=-29246.637246)
+Step 2: log likelihood: -26978.5477887   (diff=2269.08945728)
+Step 3: log likelihood: -26305.8929616   (diff=672.654827132)
+Step 3: log likelihood: -26305.8929616   (diff=0.0)
+Convergence reached with log_p -26305.8929616 after 3 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+SELF.PI: 0.0952380952381
+SELF.PI: 0.380952380952
+PI:  [ 0.38095238  0.14285714  0.0952381   0.38095238]
+Step 1: log likelihood: -31207.2707538   (diff=-31206.2707538)
+Step 1: log likelihood: -31207.2707538   (diff=0.0)
+Convergence reached with log_p -31207.2707538 after 1 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.14285714  0.42857143  0.19047619]
+Step 1: log likelihood: -28457.985752   (diff=-28456.985752)
+Step 2: log likelihood: -27257.9568224   (diff=1200.02892956)
+Step 3: log likelihood: -26902.3717926   (diff=355.585029786)
+Step 3: log likelihood: -26902.3717926   (diff=8.0035533756e-11)
+Convergence reached with log_p -26902.3717926 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.14285714  0.28571429  0.28571429  0.28571429]
+Step 1: log likelihood: -28092.8883631   (diff=-28091.8883631)
+Step 2: log likelihood: -27524.5222102   (diff=568.366152856)
+Step 2: log likelihood: -27524.5222102   (diff=0.0)
+Convergence reached with log_p -27524.5222102 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -26013.1403398   (diff=-26012.1403398)
+Step 2: log likelihood: -22373.1456377   (diff=3639.9947021)
+Step 2: log likelihood: -22373.1441086   (diff=0.00152914234422)
+Convergence reached with log_p -22373.1441086 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+PI:  [ 0.38095238  0.19047619  0.14285714  0.28571429]
+Step 1: log likelihood: -30438.2713955   (diff=-30437.2713955)
+Step 1: log likelihood: -30438.2713955   (diff=2.07364792004e-09)
+Convergence reached with log_p -30438.2713955 after 1 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.28571429  0.38095238  0.14285714]
+Step 1: log likelihood: -29214.2130136   (diff=-29213.2130136)
+Step 2: log likelihood: -27023.7172636   (diff=2190.49574999)
+Step 3: log likelihood: -26240.7044246   (diff=783.012838997)
+Step 3: log likelihood: -26240.7037044   (diff=0.000720162362995)
+Convergence reached with log_p -26240.7037044 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.23809524  0.28571429  0.33333333]
+Step 1: log likelihood: -29103.3024597   (diff=-29102.3024597)
+Step 2: log likelihood: -26999.8775547   (diff=2103.42490496)
+Step 2: log likelihood: -26999.7926864   (diff=0.0848683756485)
+Convergence reached with log_p -26999.7926864 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.28571429  0.23809524  0.23809524]
+Step 1: log likelihood: -29321.4943679   (diff=-29320.4943679)
+Step 2: log likelihood: -26109.8215006   (diff=3211.67286732)
+Step 3: log likelihood: -23438.4635169   (diff=2671.35798369)
+Step 4: log likelihood: -23260.1605876   (diff=178.302929324)
+Step 5: log likelihood: -22428.3426843   (diff=831.817903236)
+Step 5: log likelihood: -22428.3426843   (diff=0.0)
+Convergence reached with log_p -22428.3426843 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -29338.907162   (diff=-29337.907162)
+Step 2: log likelihood: -27781.8310135   (diff=1557.07614848)
+Step 2: log likelihood: -27781.8310135   (diff=0.0)
+Convergence reached with log_p -27781.8310135 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.19047619  0.28571429  0.28571429]
+Step 1: log likelihood: -28231.6177558   (diff=-28230.6177558)
+Step 2: log likelihood: -23905.9171257   (diff=4325.70063013)
+Step 3: log likelihood: -23179.1212307   (diff=726.795894988)
+Step 3: log likelihood: -23179.1212303   (diff=4.38165443484e-07)
+Convergence reached with log_p -23179.1212303 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.19047619  0.28571429  0.33333333]
+Step 1: log likelihood: -28744.636854   (diff=-28743.636854)
+Step 2: log likelihood: -25842.6435631   (diff=2901.99329095)
+Step 3: log likelihood: -24070.916125   (diff=1771.72743807)
+Step 3: log likelihood: -24070.916125   (diff=0.0)
+Convergence reached with log_p -24070.916125 after 3 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.19047619  0.28571429  0.19047619]
+Step 1: log likelihood: -26702.1830414   (diff=-26701.1830414)
+Step 2: log likelihood: -25472.7074201   (diff=1229.47562125)
+Step 3: log likelihood: -24809.5756246   (diff=663.131795522)
+Step 4: log likelihood: -22714.2351882   (diff=2095.34043643)
+Step 5: log likelihood: -22124.2226463   (diff=590.012541927)
+Step 5: log likelihood: -22124.2226463   (diff=0.0)
+Convergence reached with log_p -22124.2226463 after 5 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+PI:  [ 0.0952381   0.23809524  0.42857143  0.23809524]
+Step 1: log likelihood: -28740.9135391   (diff=-28739.9135391)
+Step 2: log likelihood: -24815.7103562   (diff=3925.20318292)
+Step 3: log likelihood: -22707.8009045   (diff=2107.9094517)
+Step 3: log likelihood: -22707.8009045   (diff=7.27595761418e-12)
+Convergence reached with log_p -22707.8009045 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 2, 2, 0, 1, 1, 2, 2, 0, 0, 3, 0, 0, 0, 1, 0, 3, 3, 3, 3, 2]
+
+sample 17 of 22 samples
+
+Original cm 
+[[ 6.  1.]
+ [ 1.  3.]
+ [ 2.  3.]
+ [ 5.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.42857143  0.14285714]
+ [ 0.07142857  0.42857143]
+ [ 0.14285714  0.42857143]
+ [ 0.35714286  0.        ]]
+ARGMAX - Confusion Matrix
+[0, 1, 1, 0]
+False value: sample 3 
+
+False value: sample 7 
+
+False value: sample 14 
+
+False value: sample 20 
+
+
+Training error 0.190476190476 %
+
+classify loglikelihood: -1234.35319741.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 1
+[17] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [3]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.380952380952
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.38095238  0.0952381   0.28571429  0.23809524]
+Step 1: log likelihood: -25518.7943705   (diff=-25517.7943705)
+Step 2: log likelihood: -20334.1285433   (diff=5184.6658272)
+Step 2: log likelihood: -20334.1285433   (diff=0.0)
+Convergence reached with log_p -20334.1285433 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.14285714  0.33333333  0.33333333]
+Step 1: log likelihood: -30064.8253162   (diff=-30063.8253162)
+Step 2: log likelihood: -30064.8253162   (diff=-7.27595761418e-12)
+Step 3: log likelihood: -30064.8253162   (diff=-3.63797880709e-12)
+Step 3: log likelihood: -30064.8253162   (diff=0.0)
+Convergence reached with log_p -30064.8253162 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.33333333  0.28571429  0.19047619]
+Step 1: log likelihood: -24897.8061049   (diff=-24896.8061049)
+Step 2: log likelihood: -22066.7768823   (diff=2831.02922254)
+Step 2: log likelihood: -22066.7768823   (diff=0.0)
+Convergence reached with log_p -22066.7768823 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.428571428571
+SELF.PI: 0.190476190476
+PI:  [ 0.14285714  0.23809524  0.42857143  0.19047619]
+Step 1: log likelihood: -28583.9568181   (diff=-28582.9568181)
+Step 2: log likelihood: -21959.4971089   (diff=6624.45970917)
+Step 3: log likelihood: -20140.8400944   (diff=1818.65701445)
+Step 3: log likelihood: -20140.8400944   (diff=0.0)
+Convergence reached with log_p -20140.8400944 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.47619047619
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.47619048  0.14285714  0.23809524]
+Step 1: log likelihood: -27876.3056435   (diff=-27875.3056435)
+Step 2: log likelihood: -24388.0142757   (diff=3488.29136783)
+Step 3: log likelihood: -24379.2961462   (diff=8.71812954817)
+Step 3: log likelihood: -24379.2961462   (diff=0.0)
+Convergence reached with log_p -24379.2961462 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.14285714  0.42857143  0.23809524]
+Step 1: log likelihood: -27711.8927575   (diff=-27710.8927575)
+Step 2: log likelihood: -27009.0784411   (diff=702.814316462)
+Step 2: log likelihood: -27009.0784411   (diff=0.0)
+Convergence reached with log_p -27009.0784411 after 2 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.0952380952381
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.42857143  0.0952381   0.19047619  0.28571429]
+Step 1: log likelihood: -27897.8421563   (diff=-27896.8421563)
+Step 2: log likelihood: -22889.2995162   (diff=5008.54264005)
+Step 3: log likelihood: -22068.7705189   (diff=820.528997319)
+Step 4: log likelihood: -21020.6232327   (diff=1048.14728622)
+Step 4: log likelihood: -21020.6232327   (diff=2.46691342909e-08)
+Convergence reached with log_p -21020.6232327 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.14285714  0.23809524  0.33333333]
+Step 1: log likelihood: -26445.0555217   (diff=-26444.0555217)
+Step 2: log likelihood: -24058.2963236   (diff=2386.75919814)
+Step 2: log likelihood: -24058.2963236   (diff=0.0)
+Convergence reached with log_p -24058.2963236 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.0952380952381
+PI:  [ 0.23809524  0.28571429  0.38095238  0.0952381 ]
+Step 1: log likelihood: -29826.0385676   (diff=-29825.0385676)
+Step 2: log likelihood: -29295.1043175   (diff=530.93425019)
+Step 2: log likelihood: -29295.1043166   (diff=8.13579390524e-07)
+Convergence reached with log_p -29295.1043166 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.23809524  0.28571429  0.23809524]
+Step 1: log likelihood: -28712.7252404   (diff=-28711.7252404)
+Step 2: log likelihood: -26225.7602062   (diff=2486.96503418)
+Step 3: log likelihood: -26225.7602062   (diff=-4.94765117764e-10)
+Step 3: log likelihood: -26225.7602062   (diff=0.0)
+Convergence reached with log_p -26225.7602062 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.285714285714
+PI:  [ 0.28571429  0.33333333  0.0952381   0.28571429]
+Step 1: log likelihood: -28432.2080175   (diff=-28431.2080175)
+Step 1: log likelihood: -28432.2080175   (diff=0.0)
+Convergence reached with log_p -28432.2080175 after 1 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.428571428571
+SELF.PI: 0.142857142857
+SELF.PI: 0.0952380952381
+PI:  [ 0.33333333  0.42857143  0.14285714  0.0952381 ]
+Step 1: log likelihood: -28486.5934928   (diff=-28485.5934928)
+Step 2: log likelihood: -27590.190974   (diff=896.402518824)
+Step 2: log likelihood: -27590.190974   (diff=0.0)
+Convergence reached with log_p -27590.190974 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.23809524  0.33333333  0.19047619]
+Step 1: log likelihood: -29823.3852978   (diff=-29822.3852978)
+Step 2: log likelihood: -29587.5830816   (diff=235.802216223)
+Step 2: log likelihood: -29587.5830816   (diff=0.0)
+Convergence reached with log_p -29587.5830816 after 2 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.428571428571
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.42857143  0.0952381   0.33333333]
+Step 1: log likelihood: -29281.8497571   (diff=-29280.8497571)
+Step 2: log likelihood: -27236.2903895   (diff=2045.55936763)
+Step 3: log likelihood: -24370.0987998   (diff=2866.19158965)
+Step 4: log likelihood: -22326.0135241   (diff=2044.08527571)
+Step 5: log likelihood: -18997.3537948   (diff=3328.65972927)
+Step 6: log likelihood: -18523.1665318   (diff=474.187263021)
+Step 6: log likelihood: -18523.1665318   (diff=0.0)
+Convergence reached with log_p -18523.1665318 after 6 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+PI:  [ 0.14285714  0.33333333  0.19047619  0.33333333]
+Step 1: log likelihood: -27144.1185611   (diff=-27143.1185611)
+Step 2: log likelihood: -24869.0851557   (diff=2275.03340538)
+Step 3: log likelihood: -24869.0851558   (diff=-1.08266249299e-07)
+Step 3: log likelihood: -24869.0851558   (diff=0.0)
+Convergence reached with log_p -24869.0851558 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 1, 1, 2, 1, 1, 1, 3, 3, 3, 0, 2, 0, 3, 3, 3, 0, 0, 0, 3, 3]
+
+sample 18 of 22 samples
+
+Original cm 
+[[ 5.  0.]
+ [ 0.  6.]
+ [ 1.  1.]
+ [ 8.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.35714286  0.        ]
+ [ 0.          0.85714286]
+ [ 0.07142857  0.14285714]
+ [ 0.57142857  0.        ]]
+ARGMAX - Confusion Matrix
+[0, 1, 1, 0]
+False value: sample 11 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1609.9267519.
+
+
+** Clustering **
+Cluster  0 , size 1
+[18] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [0]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.23809524  0.38095238  0.14285714]
+Step 1: log likelihood: -28737.7126082   (diff=-28736.7126082)
+Step 2: log likelihood: -25545.9514174   (diff=3191.7611908)
+Step 3: log likelihood: -22998.9822506   (diff=2546.96916685)
+Step 3: log likelihood: -22998.9822506   (diff=0.0)
+Convergence reached with log_p -22998.9822506 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.28571429  0.33333333  0.19047619]
+Step 1: log likelihood: -28390.8038343   (diff=-28389.8038343)
+Step 2: log likelihood: -25172.9111647   (diff=3217.89266959)
+Step 3: log likelihood: -21079.7569043   (diff=4093.1542604)
+Step 3: log likelihood: -21079.7569043   (diff=0.0)
+Convergence reached with log_p -21079.7569043 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.28571429  0.19047619  0.28571429]
+Step 1: log likelihood: -27071.2056205   (diff=-27070.2056205)
+Step 2: log likelihood: -21520.8622468   (diff=5550.34337369)
+Step 3: log likelihood: -20512.0945227   (diff=1008.76772414)
+Step 3: log likelihood: -20512.0945227   (diff=0.0)
+Convergence reached with log_p -20512.0945227 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.28571429  0.19047619  0.28571429]
+Step 1: log likelihood: -26689.929326   (diff=-26688.929326)
+Step 2: log likelihood: -24171.1615816   (diff=2518.76774443)
+Step 3: log likelihood: -20269.6507863   (diff=3901.51079521)
+Step 4: log likelihood: -19160.7136296   (diff=1108.93715675)
+Step 4: log likelihood: -19160.7136296   (diff=0.0)
+Convergence reached with log_p -19160.7136296 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.047619047619
+SELF.PI: 0.380952380952
+SELF.PI: 0.285714285714
+PI:  [ 0.28571429  0.04761905  0.38095238  0.28571429]
+Step 1: log likelihood: -27225.5880107   (diff=-27224.5880107)
+Step 2: log likelihood: -22621.1389772   (diff=4604.4490335)
+Step 2: log likelihood: -22621.1389772   (diff=0.0)
+Convergence reached with log_p -22621.1389772 after 2 steps.
+SELF.PI: 0.47619047619
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.0952380952381
+PI:  [ 0.47619048  0.28571429  0.14285714  0.0952381 ]
+Step 1: log likelihood: -29063.3037196   (diff=-29062.3037196)
+Step 2: log likelihood: -28592.1986293   (diff=471.105090292)
+Step 3: log likelihood: -25670.2435061   (diff=2921.95512326)
+Step 4: log likelihood: -22708.9805885   (diff=2961.26291758)
+Step 5: log likelihood: -21184.3459221   (diff=1524.63466638)
+Step 6: log likelihood: -20241.6678798   (diff=942.678042331)
+Step 6: log likelihood: -20241.6678798   (diff=0.0)
+Convergence reached with log_p -20241.6678798 after 6 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+PI:  [ 0.23809524  0.19047619  0.19047619  0.38095238]
+Step 1: log likelihood: -27145.0958748   (diff=-27144.0958748)
+Step 2: log likelihood: -24253.6327709   (diff=2891.46310391)
+Step 2: log likelihood: -24253.6327709   (diff=0.0)
+Convergence reached with log_p -24253.6327709 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.19047619  0.38095238  0.14285714]
+Step 1: log likelihood: -29826.7124814   (diff=-29825.7124814)
+Step 2: log likelihood: -26655.8049298   (diff=3170.90755157)
+Step 3: log likelihood: -22804.9177566   (diff=3850.88717326)
+Step 4: log likelihood: -22011.236222   (diff=793.68153454)
+Step 4: log likelihood: -22011.236222   (diff=0.0)
+Convergence reached with log_p -22011.236222 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.33333333  0.23809524  0.19047619]
+Step 1: log likelihood: -27691.9918182   (diff=-27690.9918182)
+Step 2: log likelihood: -26432.1888726   (diff=1259.8029456)
+Step 3: log likelihood: -25494.5891151   (diff=937.599757482)
+Step 3: log likelihood: -25494.5891151   (diff=0.0)
+Convergence reached with log_p -25494.5891151 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.428571428571
+SELF.PI: 0.0952380952381
+PI:  [ 0.14285714  0.33333333  0.42857143  0.0952381 ]
+Step 1: log likelihood: -29793.0168006   (diff=-29792.0168006)
+Step 2: log likelihood: -28309.6233735   (diff=1483.39342701)
+Step 2: log likelihood: -28309.6233735   (diff=1.09139364213e-11)
+Convergence reached with log_p -28309.6233735 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.28571429  0.19047619  0.23809524  0.28571429]
+Step 1: log likelihood: -29656.2507871   (diff=-29655.2507871)
+Step 1: log likelihood: -29656.2507871   (diff=0.0)
+Convergence reached with log_p -29656.2507871 after 1 steps.
+SELF.PI: 0.428571428571
+SELF.PI: 0.238095238095
+SELF.PI: 0.190476190476
+SELF.PI: 0.142857142857
+PI:  [ 0.42857143  0.23809524  0.19047619  0.14285714]
+Step 1: log likelihood: -27433.8287246   (diff=-27432.8287246)
+Step 2: log likelihood: -24559.0856866   (diff=2874.74303801)
+Step 3: log likelihood: -21125.0969271   (diff=3433.98875946)
+Step 3: log likelihood: -21125.0969271   (diff=1.52067514136e-09)
+Convergence reached with log_p -21125.0969271 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.23809524  0.38095238  0.14285714]
+Step 1: log likelihood: -25674.8585288   (diff=-25673.8585288)
+Step 2: log likelihood: -23243.2341341   (diff=2431.62439473)
+Step 2: log likelihood: -23243.2341341   (diff=3.63797880709e-12)
+Convergence reached with log_p -23243.2341341 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.33333333  0.14285714  0.19047619]
+Step 1: log likelihood: -30289.5968789   (diff=-30288.5968789)
+Step 1: log likelihood: -30289.5968789   (diff=0.0)
+Convergence reached with log_p -30289.5968789 after 1 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.28571429  0.28571429  0.19047619]
+Step 1: log likelihood: -28751.6212578   (diff=-28750.6212578)
+Step 2: log likelihood: -28751.6393056   (diff=-0.0180478551993)
+Step 2: log likelihood: -28751.6393045   (diff=1.10494147521e-06)
+Convergence reached with log_p -28751.6393045 after 2 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [2, 2, 0, 2, 2, 2, 2, 1, 1, 1, 3, 0, 1, 1, 1, 3, 3, 3, 3, 0, 1]
+
+sample 19 of 22 samples
+
+Original cm 
+[[ 2.  1.]
+ [ 7.  0.]
+ [ 0.  6.]
+ [ 5.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.14285714  0.14285714]
+ [ 0.5         0.        ]
+ [ 0.          0.85714286]
+ [ 0.35714286  0.        ]]
+ARGMAX - Confusion Matrix
+[0, 0, 1, 0]
+False value: sample 2 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1099.44375698.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 1
+[19] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [3]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.33333333  0.14285714  0.23809524]
+Step 1: log likelihood: -27296.1742643   (diff=-27295.1742643)
+Step 2: log likelihood: -25090.0574538   (diff=2206.11681059)
+Step 3: log likelihood: -23487.671756   (diff=1602.38569775)
+Step 4: log likelihood: -21746.0828824   (diff=1741.58887356)
+Step 4: log likelihood: -21746.0828824   (diff=0.0)
+Convergence reached with log_p -21746.0828824 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.23809524  0.28571429  0.23809524]
+Step 1: log likelihood: -29002.9049815   (diff=-29001.9049815)
+Step 2: log likelihood: -28256.1817747   (diff=746.723206833)
+Step 3: log likelihood: -27159.6724164   (diff=1096.50935827)
+Step 4: log likelihood: -27159.6725693   (diff=-0.000152855642227)
+Step 5: log likelihood: -27159.6725693   (diff=-6.91215973347e-11)
+Step 5: log likelihood: -27159.6725693   (diff=1.45519152284e-11)
+Convergence reached with log_p -27159.6725693 after 5 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.380952380952
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.14285714  0.38095238  0.33333333  0.14285714]
+Step 1: log likelihood: -25304.0705139   (diff=-25303.0705139)
+Step 2: log likelihood: -21574.1345645   (diff=3729.93594933)
+Step 2: log likelihood: -21574.1345645   (diff=0.0)
+Convergence reached with log_p -21574.1345645 after 2 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+SELF.PI: 0.285714285714
+PI:  [ 0.33333333  0.23809524  0.14285714  0.28571429]
+Step 1: log likelihood: -29316.572688   (diff=-29315.572688)
+Step 1: log likelihood: -29316.572688   (diff=0.0)
+Convergence reached with log_p -29316.572688 after 1 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+PI:  [ 0.23809524  0.23809524  0.23809524  0.28571429]
+Step 1: log likelihood: -28312.1570364   (diff=-28311.1570364)
+Step 2: log likelihood: -23420.7941867   (diff=4891.36284968)
+Step 2: log likelihood: -23420.7941867   (diff=0.0)
+Convergence reached with log_p -23420.7941867 after 2 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.380952380952
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.19047619  0.38095238  0.28571429  0.14285714]
+Step 1: log likelihood: -28998.2666355   (diff=-28997.2666355)
+Step 2: log likelihood: -25328.4412802   (diff=3669.82535527)
+Step 3: log likelihood: -23402.1895798   (diff=1926.25170042)
+Step 4: log likelihood: -21087.0379333   (diff=2315.15164645)
+Step 5: log likelihood: -20242.5486194   (diff=844.489313957)
+Step 6: log likelihood: -19206.5433166   (diff=1036.00530282)
+Step 7: log likelihood: -18426.3091668   (diff=780.234149805)
+Step 7: log likelihood: -18426.3091668   (diff=0.0)
+Convergence reached with log_p -18426.3091668 after 7 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.0952381   0.38095238  0.19047619]
+Step 1: log likelihood: -28483.2390947   (diff=-28482.2390947)
+Step 2: log likelihood: -22549.3198541   (diff=5933.9192406)
+Step 3: log likelihood: -20006.5073359   (diff=2542.81251824)
+Step 3: log likelihood: -20006.5073359   (diff=0.0)
+Convergence reached with log_p -20006.5073359 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.047619047619
+SELF.PI: 0.380952380952
+SELF.PI: 0.285714285714
+PI:  [ 0.28571429  0.04761905  0.38095238  0.28571429]
+Step 1: log likelihood: -29533.5747961   (diff=-29532.5747961)
+Step 2: log likelihood: -24959.6017127   (diff=4573.97308335)
+Step 3: log likelihood: -23731.4068012   (diff=1228.19491151)
+Step 3: log likelihood: -23731.4068012   (diff=0.0)
+Convergence reached with log_p -23731.4068012 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+PI:  [ 0.19047619  0.19047619  0.28571429  0.33333333]
+Step 1: log likelihood: -28587.9422454   (diff=-28586.9422454)
+Step 2: log likelihood: -23646.409657   (diff=4941.53258839)
+Step 3: log likelihood: -21578.7408926   (diff=2067.66876448)
+Step 4: log likelihood: -20818.5864243   (diff=760.154468223)
+Step 5: log likelihood: -20024.1328728   (diff=794.453551505)
+Step 5: log likelihood: -20024.1328728   (diff=0.0)
+Convergence reached with log_p -20024.1328728 after 5 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.33333333  0.0952381   0.33333333  0.23809524]
+Step 1: log likelihood: -29153.5065458   (diff=-29152.5065458)
+Step 2: log likelihood: -23618.8259609   (diff=5534.68058488)
+Step 3: log likelihood: -21306.2251407   (diff=2312.6008202)
+Step 3: log likelihood: -21306.2251407   (diff=0.0)
+Convergence reached with log_p -21306.2251407 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.28571429  0.14285714  0.33333333]
+Step 1: log likelihood: -29024.9397172   (diff=-29023.9397172)
+Step 2: log likelihood: -26588.0463078   (diff=2436.89340935)
+Step 3: log likelihood: -26169.8397639   (diff=418.206543993)
+Step 3: log likelihood: -26169.8397639   (diff=0.0)
+Convergence reached with log_p -26169.8397639 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+SELF.PI: 0.142857142857
+PI:  [ 0.23809524  0.38095238  0.23809524  0.14285714]
+Step 1: log likelihood: -26704.1342648   (diff=-26703.1342648)
+Step 2: log likelihood: -22024.3866334   (diff=4679.74763136)
+Step 2: log likelihood: -22024.3866334   (diff=0.0)
+Convergence reached with log_p -22024.3866334 after 2 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.38095238  0.19047619  0.19047619]
+Step 1: log likelihood: -30084.5115942   (diff=-30083.5115942)
+Step 2: log likelihood: -27926.5876978   (diff=2157.92389638)
+Step 3: log likelihood: -25872.2661679   (diff=2054.32152995)
+Step 3: log likelihood: -25872.2661679   (diff=0.0)
+Convergence reached with log_p -25872.2661679 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+PI:  [ 0.28571429  0.23809524  0.33333333  0.14285714]
+Step 1: log likelihood: -27939.2417734   (diff=-27938.2417734)
+Step 2: log likelihood: -22622.5030864   (diff=5316.73868701)
+Step 3: log likelihood: -20587.7593718   (diff=2034.74371455)
+Step 4: log likelihood: -20587.7593718   (diff=-8.0035533756e-11)
+Step 4: log likelihood: -20587.7593718   (diff=0.0)
+Convergence reached with log_p -20587.7593718 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.23809524  0.23809524  0.23809524]
+Step 1: log likelihood: -29689.9680445   (diff=-29688.9680445)
+Step 2: log likelihood: -28449.0833585   (diff=1240.88468593)
+Step 3: log likelihood: -24922.7815052   (diff=3526.30185335)
+Step 3: log likelihood: -24922.7815052   (diff=0.0)
+Convergence reached with log_p -24922.7815052 after 3 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 1, 1, 1, 1, 1, 1, 0, 0, 3, 3, 2, 2, 3, 0, 3, 2, 2, 2, 2, 0]
+
+sample 20 of 22 samples
+
+Original cm 
+[[ 4.  0.]
+ [ 0.  7.]
+ [ 6.  0.]
+ [ 4.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.28571429  0.        ]
+ [ 0.          1.        ]
+ [ 0.42857143  0.        ]
+ [ 0.28571429  0.        ]]
+ARGMAX - Confusion Matrix
+[0, 1, 0, 0]
+
+Training error 0.0 %
+
+classify loglikelihood: -1731.33810169.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 0
+[] 
+
+Cluster  2 , size 1
+[20] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [2]
+mapClassify 0 
+
+
+#################### MIXTURE CLUSTER 4 ####################
+SELF.PI: 0.190476190476
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.23809524  0.33333333  0.23809524]
+Step 1: log likelihood: -26960.871257   (diff=-26959.871257)
+Step 2: log likelihood: -22595.3371256   (diff=4365.53413145)
+Step 3: log likelihood: -21571.6804493   (diff=1023.65667627)
+Step 4: log likelihood: -20638.2182598   (diff=933.462189491)
+Step 5: log likelihood: -19742.9214579   (diff=895.296801913)
+Step 5: log likelihood: -19742.9214579   (diff=4.36557456851e-11)
+Convergence reached with log_p -19742.9214579 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.380952380952
+SELF.PI: 0.047619047619
+PI:  [ 0.28571429  0.28571429  0.38095238  0.04761905]
+Step 1: log likelihood: -29188.1854355   (diff=-29187.1854355)
+Step 2: log likelihood: -24557.8043968   (diff=4630.38103868)
+Step 3: log likelihood: -23302.0626299   (diff=1255.74176694)
+Step 3: log likelihood: -23302.0626299   (diff=0.0)
+Convergence reached with log_p -23302.0626299 after 3 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.23809524  0.28571429  0.23809524  0.23809524]
+Step 1: log likelihood: -26160.050845   (diff=-26159.050845)
+Step 2: log likelihood: -19893.7801712   (diff=6266.27067381)
+Step 3: log likelihood: -19893.7801712   (diff=-3.63797880709e-12)
+Step 3: log likelihood: -19893.7801712   (diff=0.0)
+Convergence reached with log_p -19893.7801712 after 3 steps.
+SELF.PI: 0.142857142857
+SELF.PI: 0.238095238095
+SELF.PI: 0.380952380952
+SELF.PI: 0.238095238095
+PI:  [ 0.14285714  0.23809524  0.38095238  0.23809524]
+Step 1: log likelihood: -29767.962793   (diff=-29766.962793)
+Step 2: log likelihood: -27444.4651199   (diff=2323.49767313)
+Step 3: log likelihood: -23625.4181571   (diff=3819.04696283)
+Step 4: log likelihood: -22241.9272867   (diff=1383.49087033)
+Step 4: log likelihood: -22241.9272867   (diff=0.0)
+Convergence reached with log_p -22241.9272867 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+PI:  [ 0.23809524  0.33333333  0.0952381   0.33333333]
+Step 1: log likelihood: -27604.8603109   (diff=-27603.8603109)
+Step 2: log likelihood: -23343.9696606   (diff=4260.89065028)
+Step 2: log likelihood: -23343.9696606   (diff=0.0)
+Convergence reached with log_p -23343.9696606 after 2 steps.
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.142857142857
+PI:  [ 0.38095238  0.19047619  0.28571429  0.14285714]
+Step 1: log likelihood: -26829.174077   (diff=-26828.174077)
+Step 2: log likelihood: -22288.1077378   (diff=4541.06633922)
+Step 3: log likelihood: -21559.9032277   (diff=728.204510068)
+Step 3: log likelihood: -21559.9032277   (diff=0.0)
+Convergence reached with log_p -21559.9032277 after 3 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.285714285714
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+PI:  [ 0.28571429  0.28571429  0.0952381   0.33333333]
+Step 1: log likelihood: -27704.9779696   (diff=-27703.9779696)
+Step 2: log likelihood: -25848.6396505   (diff=1856.33831912)
+Step 3: log likelihood: -24488.9028984   (diff=1359.73675217)
+Step 3: log likelihood: -24488.9028984   (diff=0.0)
+Convergence reached with log_p -24488.9028984 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.19047619  0.28571429  0.33333333  0.19047619]
+Step 1: log likelihood: -28643.8687011   (diff=-28642.8687011)
+Step 2: log likelihood: -27504.2553741   (diff=1139.613327)
+Step 3: log likelihood: -24624.2433751   (diff=2880.01199905)
+Step 4: log likelihood: -23568.549574   (diff=1055.69380108)
+Step 4: log likelihood: -23568.549574   (diff=4.36557456851e-11)
+Convergence reached with log_p -23568.549574 after 4 steps.
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.23809524  0.23809524  0.33333333  0.19047619]
+Step 1: log likelihood: -23978.9194676   (diff=-23977.9194676)
+Step 2: log likelihood: -20184.7705786   (diff=3794.148889)
+Step 2: log likelihood: -20184.7705786   (diff=0.0)
+Convergence reached with log_p -20184.7705786 after 2 steps.
+SELF.PI: 0.0952380952381
+SELF.PI: 0.333333333333
+SELF.PI: 0.380952380952
+SELF.PI: 0.190476190476
+PI:  [ 0.0952381   0.33333333  0.38095238  0.19047619]
+Step 1: log likelihood: -30205.8440983   (diff=-30204.8440983)
+Step 2: log likelihood: -30040.7750827   (diff=165.069015556)
+Step 3: log likelihood: -28590.8406247   (diff=1449.93445799)
+Step 4: log likelihood: -22046.3203876   (diff=6544.5202371)
+Step 4: log likelihood: -22046.320258   (diff=0.00012966601571)
+Convergence reached with log_p -22046.320258 after 4 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -25505.5927465   (diff=-25504.5927465)
+Step 2: log likelihood: -21191.4215005   (diff=4314.17124598)
+Step 3: log likelihood: -20113.4077073   (diff=1078.01379319)
+Step 3: log likelihood: -20113.4077073   (diff=0.0)
+Convergence reached with log_p -20113.4077073 after 3 steps.
+SELF.PI: 0.190476190476
+SELF.PI: 0.333333333333
+SELF.PI: 0.238095238095
+SELF.PI: 0.238095238095
+PI:  [ 0.19047619  0.33333333  0.23809524  0.23809524]
+Step 1: log likelihood: -29483.162871   (diff=-29482.162871)
+Step 2: log likelihood: -27930.5554523   (diff=1552.60741871)
+Step 2: log likelihood: -27930.5554523   (diff=0.0)
+Convergence reached with log_p -27930.5554523 after 2 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.333333333333
+SELF.PI: 0.333333333333
+SELF.PI: 0.047619047619
+PI:  [ 0.28571429  0.33333333  0.33333333  0.04761905]
+Step 1: log likelihood: -29528.7389569   (diff=-29527.7389569)
+Step 2: log likelihood: -24539.2943315   (diff=4989.44462542)
+Step 3: log likelihood: -21908.6838751   (diff=2630.61045646)
+Step 4: log likelihood: -20775.6706416   (diff=1133.01323343)
+Step 5: log likelihood: -20775.6706416   (diff=-7.27595761418e-12)
+Step 5: log likelihood: -20775.6706416   (diff=0.0)
+Convergence reached with log_p -20775.6706416 after 5 steps.
+SELF.PI: 0.285714285714
+SELF.PI: 0.190476190476
+SELF.PI: 0.285714285714
+SELF.PI: 0.238095238095
+PI:  [ 0.28571429  0.19047619  0.28571429  0.23809524]
+Step 1: log likelihood: -25361.8579324   (diff=-25360.8579324)
+Step 2: log likelihood: -20835.3860838   (diff=4526.47184856)
+Step 3: log likelihood: -19569.034501   (diff=1266.35158277)
+Step 4: log likelihood: -18625.6386617   (diff=943.395839347)
+Step 4: log likelihood: -18625.6386617   (diff=0.0)
+Convergence reached with log_p -18625.6386617 after 4 steps.
+SELF.PI: 0.333333333333
+SELF.PI: 0.142857142857
+SELF.PI: 0.333333333333
+SELF.PI: 0.190476190476
+PI:  [ 0.33333333  0.14285714  0.33333333  0.19047619]
+Step 1: log likelihood: -30145.9647847   (diff=-30144.9647847)
+Step 2: log likelihood: -26723.0500838   (diff=3422.91470087)
+Step 3: log likelihood: -24644.3123311   (diff=2078.7377527)
+Step 4: log likelihood: -23511.1347604   (diff=1133.17757079)
+Step 4: log likelihood: -23511.1347604   (diff=0.0)
+Convergence reached with log_p -23511.1347604 after 4 steps.
+
+CLASSES [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+ARGMAX  [1, 1, 0, 1, 1, 0, 1, 2, 2, 2, 3, 2, 3, 2, 1, 2, 3, 3, 3, 3, 2]
+
+sample 21 of 22 samples
+
+Original cm 
+[[ 0.  2.]
+ [ 1.  5.]
+ [ 7.  0.]
+ [ 6.  0.]]
+Sum Confusion Matrix ArgMax [ 0.07142857  0.14285714]
+Confusion Matrix
+[[ 0.          0.28571429]
+ [ 0.07142857  0.71428571]
+ [ 0.5         0.        ]
+ [ 0.42857143  0.        ]]
+ARGMAX - Confusion Matrix
+[1, 1, 0, 0]
+False value: sample 14 
+
+
+Training error 0.047619047619 %
+
+classify loglikelihood: -1410.45616277.
+
+
+** Clustering **
+Cluster  0 , size 0
+[] 
+
+Cluster  1 , size 1
+[21] 
+
+Cluster  2 , size 0
+[] 
+
+Cluster  3 , size 0
+[] 
+
+Unassigend due to entropy cutoff:
+[] 
+
+classify [1]
+mapClassify 1 
+
+
+False classify: sample 21
+
+Final Co-Occurence [[ 22.  16.  11.  15.  16.  14.  13.   1.   1.   1.   1.   1.   0.   3.
+    3.   0.   0.   0.   0.   0.   0.]
+ [ 16.  22.  12.  16.  16.  13.  14.   1.   1.   1.   0.   0.   1.   1.
+    2.   0.   1.   0.   1.   0.   2.]
+ [ 11.  12.  22.  10.   9.  14.   9.   1.   0.   1.   1.   1.   0.   2.
+    0.   2.   2.   2.   2.   1.   2.]
+ [ 15.  16.  10.  22.  13.  12.  10.   1.   3.   2.   2.   2.   3.   5.
+    3.   1.   0.   0.   0.   0.   1.]
+ [ 16.  16.   9.  13.  22.  13.   9.   1.   2.   4.   0.   0.   2.   2.
+    3.   0.   0.   0.   0.   0.   2.]
+ [ 14.  13.  14.  12.  13.  22.  11.   0.   1.   1.   0.   0.   1.   1.
+    1.   0.   0.   0.   0.   1.   1.]
+ [ 13.  14.   9.  10.   9.  11.  22.   6.   4.   0.   3.   4.   4.   4.
+    6.   0.   0.   0.   1.   4.   6.]
+ [  1.   1.   1.   1.   1.   0.   6.  22.  18.   9.   9.  13.  11.  13.
+   13.   4.   1.   1.   1.  10.  17.]
+ [  1.   1.   0.   3.   2.   1.   4.  18.  22.   9.   9.  12.  15.  15.
+   13.   4.   0.   0.   0.   7.  17.]
+ [  1.   1.   1.   2.   4.   1.   0.   9.   9.  22.   4.   8.   5.   9.
+    9.  13.   9.   8.   8.   4.   8.]
+ [  1.   0.   1.   2.   0.   0.   3.   9.   9.   4.  22.   9.  12.   8.
+    7.   8.  11.  11.  11.  10.   6.]
+ [  1.   0.   1.   2.   0.   0.   4.  13.  12.   8.   9.  22.  10.   9.
+   10.   7.   6.   5.   4.  11.  10.]
+ [  0.   1.   0.   3.   2.   1.   4.  11.  15.   5.  12.  10.  22.  12.
+    9.   3.   5.   5.   5.   8.  11.]
+ [  3.   1.   2.   5.   2.   1.   4.  13.  15.   9.   8.   9.  12.  22.
+   12.   4.   0.   0.   0.   4.  14.]
+ [  3.   2.   0.   3.   3.   1.   6.  13.  13.   9.   7.  10.   9.  12.
+   22.   4.   3.   2.   4.   7.  14.]
+ [  0.   0.   2.   1.   0.   0.   0.   4.   4.  13.   8.   7.   3.   4.
+    4.  22.  15.  17.  15.   9.   3.]
+ [  0.   1.   2.   0.   0.   0.   0.   1.   0.   9.  11.   6.   5.   0.
+    3.  15.  22.  20.  20.   8.   0.]
+ [  0.   0.   2.   0.   0.   0.   0.   1.   0.   8.  11.   5.   5.   0.
+    2.  17.  20.  22.  20.  10.   0.]
+ [  0.   1.   2.   0.   0.   0.   1.   1.   0.   8.  11.   4.   5.   0.
+    4.  15.  20.  20.  22.   8.   1.]
+ [  0.   0.   1.   0.   0.   1.   4.  10.   7.   4.  10.  11.   8.   4.
+    7.   9.   8.  10.   8.  22.   7.]
+ [  0.   2.   2.   1.   2.   1.   6.  17.  17.   8.   6.  10.  11.  14.
+   14.   3.   0.   0.   1.   7.  22.]]
+
+Mean Training Error 0.0627705627706
+
+Learning vector: [1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0] 
+
+
+Accuracy 0.818181818182 
+
+execution time =  509.5 seconds

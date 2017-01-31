@@ -1,0 +1,185 @@
+import mixture
+import mixtureLinearGaussian
+import TabDataSet
+import numpy
+import random
+import copy
+import getopt
+import os
+import sys
+import pylab
+
+def runMixture(minCluster,maxCluster,data,dist,repetitions,iterations,stopCriteria):
+	"""
+	Function that run the mixture model for a range of clusters
+
+	@param minCluster: cluster minimal number
+	@param maxCluster: cluster maximum number
+	@param data: DataSet object
+	@param dist: ProductDistribution of one component
+	@param repetitions: number of repetitions
+	@param iterations: EM iterations
+	@param stopCriteria: EM stop criteria
+
+	@return: models, NEC, BIC, AIC, classifies
+	"""
+	models = [mixtureComponents(1, dist)]
+	classifies = []
+	for k in range(minCluster,maxCluster+1):
+		print "#################### MIXTURE CLUSTER %d ####################" % k
+		# mixture model for k components with distribution dist
+		train = mixtureComponents(k, dist)
+		# finding the best model
+		bestmix = estimateWithReplication(train,data,repetitions,iterations,stopCriteria)
+		models.append(bestmix)
+		# classifying data
+		classify = bestmix.classify(data)
+		classifies.append(classify)
+	NEC,BIC,AIC = mixture.modelSelection(data,models)
+	return models, NEC, BIC, AIC, classifies
+
+def mixtureComponents(n,dist):
+	"""
+	Function that return a MixtureModel with n components of dist distribution
+	
+	@param n: number of components
+	@param dist: ProductDistribution of one component
+	
+	@return: MixtureModel with n components of dist distribution
+	"""
+	pi = [1. / n] * n
+	train = mixture.MixtureModel(n,pi,[dist] * n)
+	return train
+
+def estimateWithReplication(_mixture, data, repetitions, iterations, stopCriteria):
+	"""
+	Function replicating em estimation and returning maximum likelihood replicate
+	
+	@param _mixture: MixtureModel object
+	@param data: DataSet object
+	@param repetitions: number of repetitions
+	@param iterations: EM iterations
+	@param stopCriteria: EM stop criteria
+
+	@return: mixture best
+	"""
+	mixtureBest = []
+	max = -99999.99;
+	for j in range(repetitions):
+		try:
+			maux = copy.copy(_mixture)
+			maux.modelInitialization(data)
+			print "PI: ", maux.pi
+			maux.EM(data,iterations,stopCriteria)
+			[l,log_l] = maux.EStep(data)
+			if log_l > max:
+				max = log_l
+				mixtureBest = maux
+		except mixture.ConvergenceFailureEM:
+			pass
+		except mixtureLinearGaussian.EmptyComponent:
+			print "Empty Component"
+	if mixtureBest == []:
+		raise mixture.ConvergenceFailureEM,"Convergence failed."
+	return mixtureBest
+
+def usage():
+	"""
+	Function that print usages informations for this program.
+	"""
+	print """
+Usage: mixtureTools.py [options] <input_data_file.txt>
+Options:
+	-h, --help			Print this help message
+	-m, --max-cluster		Cluster maximum number
+	-r, --repetitions		Number of repetitions (default 15)
+	-i, --iterations		EM iterations (default 10)
+	-s, --stop-criteria		EM stop criteria (default 0.1)
+"""
+
+def main():
+	# parse command line options
+	try:
+		opts, args = getopt.getopt(sys.argv[1:], 'h:m:r:i:s:', ['help', 'max-cluster', 'repetitions', 'iterations', 'stop-criteria'])
+	except getopt.error, err:		
+		usage()
+		sys.exit(2)
+
+	filename = None
+	min_cluster = 2
+	max_cluster = None
+	repetitions = 15
+	iterations = 10
+	stop_criteria = 0.1
+	data = None
+
+	# process options
+	for o, a in opts:
+		if o in ('-h', '--help'):
+			usage()
+			sys.exit(0)
+		elif o in ('-m', '--max-cluster'):
+			max_cluster = int(a)
+		elif o in ('-r', '--repetitions'):
+			repetitions = int(a)
+		elif o in ('-i', '--iterations'):
+			iterations = int(a)
+		elif o in ('-s', '--stop-criteria'):
+			stop_criteria = float(a)
+		else:
+			assert False, "unhandled option"
+
+	if (max_cluster == None):
+		usage()
+		sys.exit(2)
+	
+	filename = sys.argv[-1]
+	if (os.path.exists(filename)):
+		data = TabDataSet.TabDataSet()
+		data.fromFile(filename)
+	else:
+		print "Input data file does not exist."
+		sys.exit(2)
+
+	# creating a component
+	p = data.p
+	sigma = [1]
+	beta = []
+	for i in range(data.p):	
+		beta.append(random.normalvariate(0,1))
+	dist = mixture.ProductDistribution([mixtureLinearGaussian.LinearGaussianDistribution(p, beta, sigma)])
+
+	# run the main funcition
+	models, NEC, BIC, AIC, classifies = runMixture(min_cluster, max_cluster, data, dist, repetitions, iterations, stop_criteria)
+	
+	clusters = range(1, max_cluster + 1)
+	bestmodel = BIC.index(max(BIC))
+
+	#NEC = numpy.array(NEC)
+	BIC = -numpy.array(BIC)
+	AIC = -numpy.array(AIC)
+	
+	#pylab.plot(NEC, label="NEC")
+	pylab.semilogy(clusters, BIC, label="BIC")
+	pylab.semilogy(clusters, AIC, label="AIC")
+	pylab.xlabel('clusters')
+	pylab.legend()
+	pylab.savefig(filename[:-4] + "_BIC_AIC.pdf")
+	
+	if bestmodel == 0:
+		data.setNotes([0] * data.N)
+	else: 
+			data.setNotes(classifies[bestmodel-1])
+	data.writeFile(filename[:-4] + "_classifies_" + str(clusters[bestmodel]) + ".txt")
+
+	# printing results
+	print ""
+	print "#################### Models ####################\n", models, "\n"
+	print "##################### NEC ######################\n", NEC, "\n"
+	print "##################### BIC ######################\n", BIC, "\n"
+	print "##################### AIC ######################\n", AIC, "\n"
+	print "################## Classifies ##################\n", classifies, "\n"
+
+if __name__ == "__main__":
+	main()
+

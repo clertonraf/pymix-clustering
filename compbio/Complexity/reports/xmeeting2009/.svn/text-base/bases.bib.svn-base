@@ -1,0 +1,1204 @@
+@ARTICLE{Alizadeh2000,
+  author = {A. A. Alizadeh and M. B. Eisen and R. E. Davis and C. Ma and I. S.
+	Lossos and A. Rosenwald and J. C. Boldrick and H. Sabet and T. Tran
+	and X. Yu and J. I. Powell and L. Yang and G. E. Marti and T. Moore
+	and J. Hudson and L. Lu and D. B. Lewis and R. Tibshirani and G.
+	Sherlock and W. C. Chan and T. C. Greiner and D. D. Weisenburger
+	and J. O. Armitage and R. Warnke and R. Levy and W. Wilson and M.
+	R. Grever and J. C. Byrd and D. Botstein and P. O. Brown and L. M.
+	Staudt},
+  title = {Distinct types of diffuse large B-cell lymphoma identified by gene
+	expression profiling.},
+  journal = {Nature},
+  year = {2000},
+  volume = {403},
+  pages = {503--511},
+  number = {6769},
+  month = {Feb},
+  abstract = {Diffuse large B-cell lymphoma (DLBCL), the most common subtype of
+	non-Hodgkin's lymphoma, is clinically heterogeneous: 40\% of patients
+	respond well to current therapy and have prolonged survival, whereas
+	the remainder succumb to the disease. We proposed that this variability
+	in natural history reflects unrecognized molecular heterogeneity
+	in the tumours. Using DNA microarrays, we have conducted a systematic
+	characterization of gene expression in B-cell malignancies. Here
+	we show that there is diversity in gene expression among the tumours
+	of DLBCL patients, apparently reflecting the variation in tumour
+	proliferation rate, host response and differentiation state of the
+	tumour. We identified two molecularly distinct forms of DLBCL which
+	had gene expression patterns indicative of different stages of B-cell
+	differentiation. One type expressed genes characteristic of germinal
+	centre B cells ('germinal centre B-like DLBCL'); the second type
+	expressed genes normally induced during in vitro activation of peripheral
+	blood B cells ('activated B-like DLBCL'). Patients with germinal
+	centre B-like DLBCL had a significantly better overall survival than
+	those with activated B-like DLBCL. The molecular classification of
+	tumours on the basis of gene expression can thus identify previously
+	undetected and clinically significant subtypes of cancer.},
+  doi = {10.1038/35000501},
+  keywords = {Adult; B-Lymphocytes; Gene Expression Profiling; Humans; Leukemia,
+	Lymphocytic, Chronic; Lymphoma, B-Cell; Lymphoma, Large-Cell, Diffuse;
+	Oligonucleotide Array Sequence Analysis; Phenotype; Tumor Cells,
+	Cultured},
+  owner = {Rodrigo Soares},
+  pmid = {10676951},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/35000501}
+}
+
+@ARTICLE{Armstrong2002,
+  author = {Scott A Armstrong and Jane E Staunton and Lewis B Silverman and Rob
+	Pieters and Monique L den Boer and Mark D Minden and Stephen E Sallan
+	and Eric S Lander and Todd R Golub and Stanley J Korsmeyer},
+  title = {MLL translocations specify a distinct gene expression profile that
+	distinguishes a unique leukemia.},
+  journal = {Nat Genet},
+  year = {2002},
+  volume = {30},
+  pages = {41--47},
+  number = {1},
+  month = {Jan},
+  abstract = {Acute lymphoblastic leukemias carrying a chromosomal translocation
+	involving the mixed-lineage leukemia gene (MLL, ALL1, HRX) have a
+	particularly poor prognosis. Here we show that they have a characteristic,
+	highly distinct gene expression profile that is consistent with an
+	early hematopoietic progenitor expressing select multilineage markers
+	and individual HOX genes. Clustering algorithms reveal that lymphoblastic
+	leukemias with MLL translocations can clearly be separated from conventional
+	acute lymphoblastic and acute myelogenous leukemias. We propose that
+	they constitute a distinct disease, denoted here as MLL, and show
+	that the differences in gene expression are robust enough to classify
+	leukemias correctly as MLL, acute lymphoblastic leukemia or acute
+	myelogenous leukemia. Establishing that MLL is a unique entity is
+	critical, as it mandates the examination of selectively expressed
+	genes for urgently needed molecular targets.},
+  doi = {10.1038/ng765},
+  keywords = {Acute Disease; Cell Lineage; DNA-Binding Proteins; Gene Expression
+	Profiling; Gene Expression Regulation, Leukemic; Genes, Homeobox;
+	Hematopoietic Stem Cells; Homeodomain Proteins; Humans; Immunophenotyping;
+	Leukemia, Lymphocytic, Acute, L1; Leukemia, Myeloid; Myeloid-Lymphoid
+	Leukemia Protein; Neoplasm Proteins; Oligonucleotide Array Sequence
+	Analysis; Oncogene Proteins, Fusion; Proto-Oncogenes; RNA, Messenger;
+	RNA, Neoplasm; Transcription Factors; Translocation, Genetic; Tumor
+	Stem Cells},
+  owner = {Rodrigo Soares},
+  pii = {ng765},
+  pmid = {11731795},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/ng765}
+}
+
+@ARTICLE{Bhattacharjee2001,
+  author = {A. Bhattacharjee and W. G. Richards and J. Staunton and C. Li and
+	S. Monti and P. Vasa and C. Ladd and J. Beheshti and R. Bueno and
+	M. Gillette and M. Loda and G. Weber and E. J. Mark and E. S. Lander
+	and W. Wong and B. E. Johnson and T. R. Golub and D. J. Sugarbaker
+	and M. Meyerson},
+  title = {Classification of human lung carcinomas by mRNA expression profiling
+	reveals distinct adenocarcinoma subclasses.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2001},
+  volume = {98},
+  pages = {13790--13795},
+  number = {24},
+  month = {Nov},
+  abstract = {We have generated a molecular taxonomy of lung carcinoma, the leading
+	cause of cancer death in the United States and worldwide. Using oligonucleotide
+	microarrays, we analyzed mRNA expression levels corresponding to
+	12,600 transcript sequences in 186 lung tumor samples, including
+	139 adenocarcinomas resected from the lung. Hierarchical and probabilistic
+	clustering of expression data defined distinct subclasses of lung
+	adenocarcinoma. Among these were tumors with high relative expression
+	of neuroendocrine genes and of type II pneumocyte genes, respectively.
+	Retrospective analysis revealed a less favorable outcome for the
+	adenocarcinomas with neuroendocrine gene expression. The diagnostic
+	potential of expression profiling is emphasized by its ability to
+	discriminate primary lung adenocarcinomas from metastases of extra-pulmonary
+	origin. These results suggest that integration of expression profile
+	data with clinical parameters could aid in diagnosis of lung cancer
+	patients.},
+  doi = {10.1073/pnas.191502998},
+  keywords = {Adenocarcinoma; Carcinoma, Small Cell; Carcinoma, Squamous Cell; Disease
+	Progression; Gene Expression; Gene Expression Profiling; Humans;
+	Lung Neoplasms; Neoplasm Metastasis; RNA, Messenger; RNA, Neoplasm;
+	Retrospective Studies; Smoking; Survival Rate; Time Factors},
+  owner = {Rodrigo Soares},
+  pii = {191502998},
+  pmid = {11707567},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1073/pnas.191502998}
+}
+
+@ARTICLE{Bittner2000,
+  author = {M. Bittner and P. Meltzer and Y. Chen and Y. Jiang and E. Seftor
+	and M. Hendrix and M. Radmacher and R. Simon and Z. Yakhini and A.
+	Ben-Dor and N. Sampas and E. Dougherty and E. Wang and F. Marincola
+	and C. Gooden and J. Lueders and A. Glatfelter and P. Pollock and
+	J. Carpten and E. Gillanders and D. Leja and K. Dietrich and C. Beaudry
+	and M. Berens and D. Alberts and V. Sondak},
+  title = {Molecular classification of cutaneous malignant melanoma by gene
+	expression profiling.},
+  journal = {Nature},
+  year = {2000},
+  volume = {406},
+  pages = {536--540},
+  number = {6795},
+  month = {Aug},
+  abstract = {The most common human cancers are malignant neoplasms of the skin.
+	Incidence of cutaneous melanoma is rising especially steeply, with
+	minimal progress in non-surgical treatment of advanced disease. Despite
+	significant effort to identify independent predictors of melanoma
+	outcome, no accepted histopathological, molecular or immunohistochemical
+	marker defines subsets of this neoplasm. Accordingly, though melanoma
+	is thought to present with different 'taxonomic' forms, these are
+	considered part of a continuous spectrum rather than discrete entities.
+	Here we report the discovery of a subset of melanomas identified
+	by mathematical analysis of gene expression in a series of samples.
+	Remarkably, many genes underlying the classification of this subset
+	are differentially regulated in invasive melanomas that form primitive
+	tubular networks in vitro, a feature of some highly aggressive metastatic
+	melanomas. Global transcript analysis can identify unrecognized subtypes
+	of cutaneous melanoma and predict experimentally verifiable phenotypic
+	characteristics that may be of importance to disease progression.},
+  doi = {10.1038/35020115},
+  keywords = {Adult; Cluster Analysis; Disease Progression; Female; Gene Expression
+	Profiling; Humans; Male; Melanoma; Middle Aged; Neoplasm Invasiveness;
+	Prognosis; RNA, Messenger; Skin Neoplasms; Tumor Cells, Cultured;
+	Uveal Neoplasms},
+  owner = {Rodrigo Soares},
+  pmid = {10952317},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/35020115}
+}
+
+@ARTICLE{Bredel2005,
+  author = {Markus Bredel and Claudia Bredel and Dejan Juric and Griffith R Harsh
+	and Hannes Vogel and Lawrence D Recht and Branimir I Sikic},
+  title = {Functional network analysis reveals extended gliomagenesis pathway
+	maps and three novel MYC-interacting genes in human gliomas.},
+  journal = {Cancer Res},
+  year = {2005},
+  volume = {65},
+  pages = {8679--8689},
+  number = {19},
+  month = {Oct},
+  abstract = {Gene expression profiling has proven useful in subclassification and
+	outcome prognostication for human glial brain tumors. The analysis
+	of biological significance of the hundreds or thousands of alterations
+	in gene expression found in genomic profiling remains a major challenge.
+	Moreover, it is increasingly evident that genes do not act as individual
+	units but collaborate in overlapping networks, the deregulation of
+	which is a hallmark of cancer. Thus, we have here applied refined
+	network knowledge to the analysis of key functions and pathways associated
+	with gliomagenesis in a set of 50 human gliomas of various histogenesis,
+	using cDNA microarrays, inferential and descriptive statistics, and
+	dynamic mapping of gene expression data into a functional annotation
+	database. Highest-significance networks were assembled around the
+	myc oncogene in gliomagenesis and around the integrin signaling pathway
+	in the glioblastoma subtype, which is paradigmatic for its strong
+	migratory and invasive behavior. Three novel MYC-interacting genes
+	(UBE2C, EMP1, and FBXW7) with cancer-related functions were identified
+	as network constituents differentially expressed in gliomas, as was
+	CD151 as a new component of a network that mediates glioblastoma
+	cell invasion. Complementary, unsupervised relevance network analysis
+	showed a conserved self-organization of modules of interconnected
+	genes with functions in cell cycle regulation in human gliomas. This
+	approach has extended existing knowledge about the organizational
+	pattern of gene expression in human gliomas and identified potential
+	novel targets for future therapeutic development.},
+  doi = {10.1158/0008-5472.CAN-05-1204},
+  keywords = {Adult; Aged; Brain Neoplasms; Cell Cycle Proteins; F-Box Proteins;
+	Female; Gene Expression Profiling; Genes, myc; Glioma; Humans; Male;
+	Middle Aged; Neoplasm Proteins; Oligonucleotide Array Sequence Analysis;
+	Receptors, Cell Surface; Reverse Transcriptase Polymerase Chain Reaction;
+	Ubiquitin-Conjugating Enzymes; Ubiquitin-Protein Ligases},
+  owner = {Rodrigo Soares},
+  pii = {65/19/8679},
+  pmid = {16204036},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1158/0008-5472.CAN-05-1204}
+}
+
+@ARTICLE{XinChen06012002,
+  author = {Chen, Xin and Cheung, Siu Tim and So, Samuel and Fan, Sheung Tat
+	and Barry, Christopher and Higgins, John and Lai, Kin-Man and Ji,
+	Jiafu and Dudoit, Sandrine and Ng, Irene O.L. and van de Rijn, Matt
+	and Botstein, David and Brown, Patrick O.},
+  title = {Gene Expression Patterns in Human Liver Cancers},
+  journal = {Mol. Biol. Cell},
+  year = {2002},
+  volume = {13},
+  pages = {1929-1939},
+  number = {6},
+  abstract = {Hepatocellular carcinoma (HCC) is a leading cause of death worldwide.
+	Using cDNA microarrays to characterize patterns of gene expression
+	in HCC, we found consistent differences between the expression patterns
+	in HCC compared with those seen in nontumor liver tissues. The expression
+	patterns in HCC were also readily distinguished from those associated
+	with tumors metastatic to liver. The global gene expression patterns
+	intrinsic to each tumor were sufficiently distinctive that multiple
+	tumor nodules from the same patient could usually be recognized and
+	distinguished from all the others in the large sample set on the
+	basis of their gene expression patterns alone. The distinctive gene
+	expression patterns are characteristic of the tumors and not the
+	patient; the expression programs seen in clonally independent tumor
+	nodules in the same patient were no more similar than those in tumors
+	from different patients. Moreover, clonally related tumor masses
+	that showed distinct expression profiles were also distinguished
+	by genotypic differences. Some features of the gene expression patterns
+	were associated with specific phenotypic and genotypic characteristics
+	of the tumors, including growth rate, vascular invasion, and p53
+	overexpression.},
+  doi = {10.1091/mbc.02-02-0023},
+  eprint = {http://www.molbiolcell.org/cgi/reprint/13/6/1929.pdf},
+  url = {http://www.molbiolcell.org/cgi/content/abstract/13/6/1929}
+}
+
+@ARTICLE{Chowdary2006,
+  author = {Dondapati Chowdary and Jessica Lathrop and Joanne Skelton and Kathleen
+	Curtin and Thomas Briggs and Yi Zhang and Jack Yu and Yixin Wang
+	and Abhijit Mazumder},
+  title = {Prognostic gene expression signatures can be measured in tissues
+	collected in RNAlater preservative.},
+  journal = {J Mol Diagn},
+  year = {2006},
+  volume = {8},
+  pages = {31--39},
+  number = {1},
+  month = {Feb},
+  abstract = {Gene expression signatures have the ability to serve in both prognostic
+	and predictive capacities in patient management. The use of RNA as
+	the starting material and the lability of this analyte, however,
+	dictate that tissues must be snap-frozen or stored in a solution
+	that can maintain the integrity of the RNA. We compared pairs of
+	snap-frozen and RNAlater preservative-suspended tissue from 30 such
+	paired lymph node-negative breast tumors and 21 such paired Dukes'
+	B colon tumors. We assessed the correlation of gene expression profiles
+	and prediction of recurrence based on two prognostic algorithms.
+	Tissues stored in RNAlater preservative generated expression profiles
+	with excellent correlation (average Pearson correlation coefficients
+	of 0.97 and 0.94 for the breast and colon tumor pairs, respectively)
+	compared to those produced by tissues that were snap-frozen. The
+	correlation in the prediction of recurrence was 97\% and 95\% for
+	the breast and colon tumor pairs, respectively, between these two
+	types of tissue handling protocols. This novel finding demonstrates
+	that prognostic signatures can be obtained from RNAlater preservative-suspended
+	tissues, an important step in bringing gene expression signatures
+	to the clinic.},
+  keywords = {Algorithms; Breast Neoplasms; Colonic Neoplasms; Cryopreservation;
+	Gene Expression Profiling; Humans; Oligonucleotide Array Sequence
+	Analysis; Prognosis; RNA Stability; RNA, Neoplasm; Reproducibility
+	of Results; Tissue Preservation},
+  owner = {Rodrigo Soares},
+  pii = {8/1/31},
+  pmid = {16436632},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Cutcliffe2005,
+  author = {Colleen Cutcliffe and Donna Kersey and Chiang-Ching Huang and Yong
+	Zeng and David Walterhouse and Elizabeth J Perlman and Renal Tumor
+	Committee of the Children's Oncology Group},
+  title = {Clear cell sarcoma of the kidney: up-regulation of neural markers
+	with activation of the sonic hedgehog and Akt pathways.},
+  journal = {Clin Cancer Res},
+  year = {2005},
+  volume = {11},
+  pages = {7986--7994},
+  number = {22},
+  month = {Nov},
+  abstract = {PURPOSE AND EXPERIMENTAL DESIGN: Clear cell sarcoma of the kidney
+	(CCSK), the second most common renal tumor in children, poses significant
+	diagnostic challenges. No positive diagnostic markers are available,
+	and the pathogenesis of CCSK remains an enigma. To address these
+	challenges, the gene expression patterns of 14 CCSKs were compared
+	with 15 Wilms tumors and 3 fetal kidney samples using oligonucleotide
+	arrays. RESULTS: Using unsupervised methods, the gene expression
+	profile of CCSK was distinctive: differentially expressed genes could
+	largely be grouped into four categories: (a) a wide variety of neural
+	markers, (b) members of the Sonic hedgehog pathway, (c) members of
+	the phosphoinositide-3-kinase/Akt cell proliferation pathway, and
+	(d) known therapeutic targets. Corresponding changes in critical
+	proteins using Western blot and/or immunohistochemistry confirmed
+	the up-regulation of these pathways and proteins. In particular,
+	CD117 and epidermal growth factor receptor are up-regulated at the
+	protein level in many CCSKs, providing potential therapeutic targets.
+	One of the neural markers, nerve growth factor receptor, represents
+	a promising diagnostic tool for CCSK. CONCLUSIONS: This study suggests
+	that CCSKs arise within a renal mesenchymal cell that shows a wide
+	variety of neural markers. As such, it seems to be susceptible to
+	genetic changes also seen in a variety of other neuroectodermal and
+	neuronal tumors, including activation of Sonic hedgehog and phosphoinositide-3-kinase/Akt
+	pathways. Involvement of these pathways in CCSKs implicates their
+	widening role in tumorigenesis.},
+  keywords = {Blotting, Western; Cluster Analysis; Gene Expression Profiling; Gene
+	Expression Regulation, Neoplastic; Hedgehog Proteins; Humans; Immunohistochemistry;
+	Kidney Neoplasms; Proto-Oncogene Proteins c-akt; Proto-Oncogene Proteins
+	c-kit; Receptor, Epidermal Growth Factor; Receptors, Nerve Growth
+	Factor; Reverse Transcriptase Polymerase Chain Reaction; Sarcoma,
+	Clear Cell; Signal Transduction; Trans-Activators; Tumor Markers,
+	Biological; Up-Regulation},
+  owner = {Rodrigo Soares},
+  pmid = {16299227},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Dyrskjoet2003,
+  author = {Lars Dyrskjot and Thomas Thykjaer and Mogens Kruh0ffer and Jens Ledet
+	Jensen and Niels Marcussen and Stephen Hamilton-Dutoit and Hans Wolf
+	and Torben F Orntoft},
+  title = {Identifying distinct classes of bladder carcinoma using microarrays.},
+  journal = {Nat Genet},
+  year = {2003},
+  volume = {33},
+  pages = {90--96},
+  number = {1},
+  month = {Jan},
+  abstract = {Bladder cancer is a common malignant disease characterized by frequent
+	recurrences. The stage of disease at diagnosis and the presence of
+	surrounding carcinoma in situ are important in determining the disease
+	course of an affected individual. Despite considerable effort, no
+	accepted immunohistological or molecular markers have been identified
+	to define clinically relevant subsets of bladder cancer. Here we
+	report the identification of clinically relevant subclasses of bladder
+	carcinoma using expression microarray analysis of 40 well characterized
+	bladder tumors. Hierarchical cluster analysis identified three major
+	stages, Ta, T1 and T2-4, with the Ta tumors further classified into
+	subgroups. We built a 32-gene molecular classifier using a cross-validation
+	approach that was able to classify benign and muscle-invasive tumors
+	with close correlation to pathological staging in an independent
+	test set of 68 tumors. The classifier provided new predictive information
+	on disease progression in Ta tumors compared with conventional staging
+	(P < 0.005). To delineate non-recurring Ta tumors from frequently
+	recurring Ta tumors, we analyzed expression patterns in 31 tumors
+	by applying a supervised learning classification methodology, which
+	classified 75\% of the samples correctly (P < 0.006). Furthermore,
+	gene expression profiles characterizing each stage and subtype identified
+	their biological properties, producing new potential targets for
+	therapy.},
+  doi = {10.1038/ng1061},
+  keywords = {Disease Progression; Gene Expression Profiling; Gene Expression Regulation,
+	Neoplastic; Genes, Neoplasm; Humans; Immunohistochemistry; Neoplasm
+	Staging; Oligonucleotide Array Sequence Analysis; Prognosis; RNA,
+	Messenger; RNA, Neoplasm; Reproducibility of Results; Urinary Bladder
+	Neoplasms},
+  owner = {Rodrigo Soares},
+  pii = {ng1061},
+  pmid = {12469123},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/ng1061}
+}
+
+@ARTICLE{Garber2001,
+  author = {M. E. Garber and O. G. Troyanskaya and K. Schluens and S. Petersen
+	and Z. Thaesler and M. Pacyna-Gengelbach and M. van de Rijn and G.
+	D. Rosen and C. M. Perou and R. I. Whyte and R. B. Altman and P.
+	O. Brown and D. Botstein and I. Petersen},
+  title = {Diversity of gene expression in adenocarcinoma of the lung.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2001},
+  volume = {98},
+  pages = {13784--13789},
+  number = {24},
+  month = {Nov},
+  abstract = {The global gene expression profiles for 67 human lung tumors representing
+	56 patients were examined by using 24,000-element cDNA microarrays.
+	Subdivision of the tumors based on gene expression patterns faithfully
+	recapitulated morphological classification of the tumors into squamous,
+	large cell, small cell, and adenocarcinoma. The gene expression patterns
+	made possible the subclassification of adenocarcinoma into subgroups
+	that correlated with the degree of tumor differentiation as well
+	as patient survival. Gene expression analysis thus promises to extend
+	and refine standard pathologic analysis.},
+  doi = {10.1073/pnas.241500798},
+  keywords = {Adenocarcinoma; Carcinoma, Large Cell; Carcinoma, Small Cell; Carcinoma,
+	Squamous Cell; Gene Expression; Gene Expression Profiling; Humans;
+	Lung Neoplasms; Survival Rate; Variation (Genetics)},
+  owner = {Rodrigo Soares},
+  pii = {241500798},
+  pmid = {11707590},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1073/pnas.241500798}
+}
+
+@ARTICLE{Golub1999,
+  author = {T. R. Golub and D. K. Slonim and P. Tamayo and C. Huard and M. Gaasenbeek
+	and J. P. Mesirov and H. Coller and M. L. Loh and J. R. Downing and
+	M. A. Caligiuri and C. D. Bloomfield and E. S. Lander},
+  title = {Molecular classification of cancer: class discovery and class prediction
+	by gene expression monitoring.},
+  journal = {Science},
+  year = {1999},
+  volume = {286},
+  pages = {531--537},
+  number = {5439},
+  month = {Oct},
+  abstract = {Although cancer classification has improved over the past 30 years,
+	there has been no general approach for identifying new cancer classes
+	(class discovery) or for assigning tumors to known classes (class
+	prediction). Here, a generic approach to cancer classification based
+	on gene expression monitoring by DNA microarrays is described and
+	applied to human acute leukemias as a test case. A class discovery
+	procedure automatically discovered the distinction between acute
+	myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) without
+	previous knowledge of these classes. An automatically derived class
+	predictor was able to determine the class of new leukemia cases.
+	The results demonstrate the feasibility of cancer classification
+	based solely on gene expression monitoring and suggest a general
+	strategy for discovering and predicting cancer classes for other
+	types of cancer, independent of previous biological knowledge.},
+  keywords = {Acute Disease; Antineoplastic Combined Chemotherapy Protocols; Cell
+	Adhesion; Cell Cycle; Gene Expression Profiling; Homeodomain Proteins;
+	Humans; Leukemia, Lymphocytic, Acute; Leukemia, Myeloid; Neoplasm
+	Proteins; Neoplasms; Oligonucleotide Array Sequence Analysis; Oncogenes;
+	Predictive Value of Tests; Reproducibility of Results; Treatment
+	Outcome},
+  owner = {Rodrigo Soares},
+  pii = {7911},
+  pmid = {10521349},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Gordon2002,
+  author = {Gavin J Gordon and Roderick V Jensen and Li-Li Hsiao and Steven R
+	Gullans and Joshua E Blumenstock and Sridhar Ramaswamy and William
+	G Richards and David J Sugarbaker and Raphael Bueno},
+  title = {Translation of microarray data into clinically relevant cancer diagnostic
+	tests using gene expression ratios in lung cancer and mesothelioma.},
+  journal = {Cancer Res},
+  year = {2002},
+  volume = {62},
+  pages = {4963--4967},
+  number = {17},
+  month = {Sep},
+  abstract = {The pathological distinction between malignant pleural mesothelioma
+	(MPM)and adenocarcinoma (ADCA) of the lung can be cumbersome using
+	established methods. We propose that a simple technique, based on
+	the expression levels of a small number of genes, can be useful in
+	the early and accurate diagnosis of MPM and lung cancer. This method
+	is designed to accurately distinguish between genetically disparate
+	tissues using gene expression ratios and rationally chosen thresholds.
+	Here we have tested the fidelity of ratio-based diagnosis in differentiating
+	between MPM and lung cancer in 181 tissue samples (31 MPM and 150
+	ADCA). A training set of 32 samples (16 MPM and 16 ADCA) was used
+	to identify pairs of genes with highly significant, inversely correlated
+	expression levels to form a total of 15 diagnostic ratios using expression
+	profiling data. Any single ratio of the 15 examined was at least
+	90\% accurate in predicting diagnosis for the remaining 149 samples
+	(e.g., test set). We then examined (in the test set) the accuracy
+	of multiple ratios combined to form a simple diagnostic tool. Using
+	two and three expression ratios, we found that the differential diagnoses
+	of MPM and lung ADCA were 95\% and 99\% accurate, respectively. We
+	propose that using gene expression ratios is an accurate and inexpensive
+	technique with direct clinical applicability for distinguishing between
+	MPM and lung cancer. Furthermore, we provide evidence suggesting
+	that this technique can be equally accurate in other clinical scenarios.},
+  keywords = {Adenocarcinoma; Diagnosis, Differential; Discriminant Analysis; Gene
+	Expression; Humans; Lung Neoplasms; Mesothelioma; Oligonucleotide
+	Array Sequence Analysis; Pleural Neoplasms; Reproducibility of Results;
+	Reverse Transcriptase Polymerase Chain Reac; tion},
+  owner = {Rodrigo Soares},
+  pmid = {12208747},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Hendrix2006,
+  author = {Neali D Hendrix and Rong Wu and Rork Kuick and Donald R Schwartz
+	and Eric R Fearon and Kathleen R Cho},
+  title = {Fibroblast growth factor 9 has oncogenic activity and is a downstream
+	target of Wnt signaling in ovarian endometrioid adenocarcinomas.},
+  journal = {Cancer Res},
+  year = {2006},
+  volume = {66},
+  pages = {1354--1362},
+  number = {3},
+  month = {Feb},
+  abstract = {Wnt signaling plays a key role in development and adult tissues via
+	effects on cell proliferation, motility, and differentiation. The
+	cellular response to Wnt ligands largely depends on their ability
+	to stabilize beta-catenin and the ability of beta-catenin to bind
+	and activate T-cell factor (TCF) transcription factors. Roughly 40\%
+	of ovarian endometrioid adenocarcinomas (OEA) have constitutive activation
+	of Wnt signaling as a result of oncogenic mutations in the beta-catenin
+	protein or inactivating mutations in key negative regulators of beta-catenin,
+	such as the adenomatous polyposis coli and Axin tumor suppressor
+	proteins. We used oligonucleotide microarrays to identify genes of
+	which expression was activated in OEAs with beta-catenin dysregulation
+	compared with OEAs lacking Wnt/beta-catenin pathway defects. Using
+	microarray and quantitative PCR-based approaches, we found that fibroblast
+	growth factor (FGF9) expression was increased >6-fold in primary
+	OEAs with Wnt/beta-catenin pathway defects compared with OEAs lacking
+	such defects. Evidence that beta-catenin and TCFs regulate FGF9 expression
+	in several epithelial cell lines was obtained. We found FGF9 was
+	mitogenic for epithelial cells and fibroblasts and FGF9 could stimulate
+	invasion of epithelial and endothelial cells through Matrigel in
+	transwell assays. Furthermore, FGF9 could promote neoplastic transformation
+	of the E1A-immortalized RK3E epithelial cell line, and short hairpin
+	RNA-mediated inhibition of endogenous FGF9 expression in the OEA
+	cell line TOV112D, which carries a beta-catenin mutation, inhibited
+	neoplastic growth properties of the cells. Our findings support the
+	notion that FGF9 is a key factor contributing to the cancer phenotype
+	of OEAs carrying Wnt/beta-catenin pathway defects.},
+  doi = {10.1158/0008-5472.CAN-05-3694},
+  keywords = {Carcinoma, Endometrioid; Cell Transformation, Neoplastic; Endothelial
+	Cells; Epithelial Cells; Female; Fibroblast Growth Factor 9; Humans;
+	Oligonucleotide Array Sequence Analysis; Oncogenes; Ovarian Neoplasms;
+	RNA, Messenger; Signal Transduction; Up-Regulation; Wnt1 Protein;
+	beta Catenin},
+  owner = {Rodrigo Soares},
+  pii = {66/3/1354},
+  pmid = {16452189},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1158/0008-5472.CAN-05-3694}
+}
+
+@ARTICLE{Khan2001,
+  author = {J. Khan and J. S. Wei and M. Ringner and L. H. Saal and M. Ladanyi
+	and F. Westermann and F. Berthold and M. Schwab and C. R. Antonescu
+	and C. Peterson and P. S. Meltzer},
+  title = {Classification and diagnostic prediction of cancers using gene expression
+	profiling and artificial neural networks.},
+  journal = {Nat Med},
+  year = {2001},
+  volume = {7},
+  pages = {673--679},
+  number = {6},
+  month = {Jun},
+  abstract = {The purpose of this study was to develop a method of classifying cancers
+	to specific diagnostic categories based on their gene expression
+	signatures using artificial neural networks (ANNs). We trained the
+	ANNs using the small, round blue-cell tumors (SRBCTs) as a model.
+	These cancers belong to four distinct diagnostic categories and often
+	present diagnostic dilemmas in clinical practice. The ANNs correctly
+	classified all samples and identified the genes most relevant to
+	the classification. Expression of several of these genes has been
+	reported in SRBCTs, but most have not been associated with these
+	cancers. To test the ability of the trained ANN models to recognize
+	SRBCTs, we analyzed additional blinded samples that were not previously
+	used for the training procedure, and correctly classified them in
+	all cases. This study demonstrates the potential applications of
+	these methods for tumor diagnosis and the identification of candidate
+	targets for therapy.},
+  doi = {10.1038/89044},
+  keywords = {Burkitt Lymphoma; Data Interpretation, Statistical; Gene Expression
+	Profiling; Humans; Models, Biological; Neoplasms; Neural Networks
+	(Computer); Neuroblastoma; Oligonucleotide Array Sequence Analysis;
+	Rhabdomyosarcoma; Sarcoma, Ewing's; Tumor Cells, Cultured},
+  owner = {Rodrigo Soares},
+  pii = {89044},
+  pmid = {11385503},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/89044}
+}
+
+@ARTICLE{Laiho2007c,
+  author = {P. Laiho and A. Kokko and S. Vanharanta and R. Salovaara and H. Sammalkorpi
+	and H. Jarvinen and J-P. Mecklin and T. J. Karttunen and K. Tuppurainen
+	and V. Davalos and S. Schwartz and D. Arango and M. J. Makinen and
+	L. A. Aaltonen},
+  title = {Serrated carcinomas form a subclass of colorectal cancer with distinct
+	molecular basis.},
+  journal = {Oncogene},
+  year = {2007},
+  volume = {26},
+  pages = {312--320},
+  number = {2},
+  month = {Jan},
+  abstract = {Serrated colorectal carcinomas (CRCs) are morphologically different
+	from conventional CRCs and have been proposed to follow a distinct
+	pathway of CRC formation. Despite studies of single molecular events
+	in this tumor type, the diagnosis of serrated CRC relies on morphology
+	and the putative unique biological character of these tumors has
+	not been established. Here we show that the gene expression profiling
+	of 37 CRCs separated serrated and conventional CRCs into two distinct
+	branches in unsupervised hierarchical clustering (P-value 7.8 x 10(-7)),
+	and revealed 201 differentially expressed genes representing potential
+	biomarkers for serrated CRC. Immunohistochemistry was utilized to
+	verify the key findings in the 37 CRCs examined by expression profiling,
+	and a separate validation set of 37 serrated and 86 conventional
+	CRCs was examined to evaluate the candidate biomarkers in an extended
+	sample material. Ephrin receptor B2, hypoxia-inducible factor 1-alpha
+	and patched appeared as proteins important for genesis of serrated
+	CRC. This study establishes serrated CRCs as a biologically distinct
+	subclass of CRC and represents a step forward in the molecular classification
+	of these cancers. The study also provides a platform to understand
+	the molecular basis of serrated CRC and in long term may contribute
+	to the development of specific treatment options for this tumor type.},
+  doi = {10.1038/sj.onc.1209778},
+  keywords = {Adenocarcinoma, Mucinous; Adenoma; Adult; Aged; Aged, 80 and over;
+	Colonic Polyps; Colorectal Neoplasms; DNA, Neoplasm; Female; Gene
+	Expression Profiling; Gene Expression Regulation, Neoplastic; Humans;
+	Male; Microsatellite Repeats; Middle Aged; Oligonucleotide Array
+	Sequence Analysis; Tumor Markers, Biological},
+  owner = {Rodrigo Soares},
+  pii = {1209778},
+  pmid = {16819509},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/sj.onc.1209778}
+}
+
+@ARTICLE{Lapointe2004,
+  author = {Jacques Lapointe and Chunde Li and John P Higgins and Matt van de
+	Rijn and Eric Bair and Kelli Montgomery and Michelle Ferrari and
+	Lars Egevad and Walter Rayford and Ulf Bergerheim and Peter Ekman
+	and Angelo M DeMarzo and Robert Tibshirani and David Botstein and
+	Patrick O Brown and James D Brooks and Jonathan R Pollack},
+  title = {Gene expression profiling identifies clinically relevant subtypes
+	of prostate cancer.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2004},
+  volume = {101},
+  pages = {811--816},
+  number = {3},
+  month = {Jan},
+  abstract = {Prostate cancer, a leading cause of cancer death, displays a broad
+	range of clinical behavior from relatively indolent to aggressive
+	metastatic disease. To explore potential molecular variation underlying
+	this clinical heterogeneity, we profiled gene expression in 62 primary
+	prostate tumors, as well as 41 normal prostate specimens and nine
+	lymph node metastases, using cDNA microarrays containing approximately
+	26,000 genes. Unsupervised hierarchical clustering readily distinguished
+	tumors from normal samples, and further identified three subclasses
+	of prostate tumors based on distinct patterns of gene expression.
+	High-grade and advanced stage tumors, as well as tumors associated
+	with recurrence, were disproportionately represented among two of
+	the three subtypes, one of which also included most lymph node metastases.
+	To further characterize the clinical relevance of tumor subtypes,
+	we evaluated as surrogate markers two genes differentially expressed
+	among tumor subgroups by using immunohistochemistry on tissue microarrays
+	representing an independent set of 225 prostate tumors. Positive
+	staining for MUC1, a gene highly expressed in the subgroups with
+	"aggressive" clinicopathological features, was associated with an
+	elevated risk of recurrence (P = 0.003), whereas strong staining
+	for AZGP1, a gene highly expressed in the other subgroup, was associated
+	with a decreased risk of recurrence (P = 0.0008). In multivariate
+	analysis, MUC1 and AZGP1 staining were strong predictors of tumor
+	recurrence independent of tumor grade, stage, and preoperative prostate-specific
+	antigen levels. Our results suggest that prostate tumors can be usefully
+	classified according to their gene expression patterns, and these
+	tumor subtypes may provide a basis for improved prognostication and
+	treatment stratification.},
+  doi = {10.1073/pnas.0304146101},
+  keywords = {CA-15-3 Antigen; Case-Control Studies; Gene Expression Profiling;
+	Humans; Lymphatic Metastasis; Male; Oligonucleotide Array Sequence
+	Analysis; Prognosis; Prostatic Neoplasms; Recurrence; Risk Factors;
+	Seminal Plasma Proteins; Tumor Markers, Biological},
+  owner = {Rodrigo Soares},
+  pii = {0304146101},
+  pmid = {14711987},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1073/pnas.0304146101}
+}
+
+@ARTICLE{Liang2005,
+  author = {Yu Liang and Maximilian Diehn and Nathan Watson and Andrew W Bollen
+	and Ken D Aldape and M. Kelly Nicholas and Kathleen R Lamborn and
+	Mitchel S Berger and David Botstein and Patrick O Brown and Mark
+	A Israel},
+  title = {Gene expression profiling reveals molecularly and clinically distinct
+	subtypes of glioblastoma multiforme.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2005},
+  volume = {102},
+  pages = {5814--5819},
+  number = {16},
+  month = {Apr},
+  abstract = {Glioblastoma multiforme (GBM) is the most common form of malignant
+	glioma, characterized by genetic instability, intratumoral histopathological
+	variability, and unpredictable clinical behavior. We investigated
+	global gene expression in surgical samples of brain tumors. Gene
+	expression profiling revealed large differences between normal brain
+	samples and tumor tissues and between GBMs and lower-grade oligodendroglial
+	tumors. Extensive differences in gene expression were found among
+	GBMs, particularly in genes involved in angiogenesis, immune cell
+	infiltration, and extracellular matrix remodeling. We found that
+	the gene expression patterns in paired specimens from the same GBM
+	invariably were more closely related to each other than to any other
+	tumor, even when the paired specimens had strikingly divergent histologies.
+	Survival analyses revealed a set of approximately 70 genes more highly
+	expressed in rapidly progressing tumors that stratified GBMs into
+	two groups that differed by >4-fold in median duration of survival.
+	We further investigated one gene from the group, FABP7, and confirmed
+	its association with survival in two unrelated cohorts totaling 105
+	patients. Expression of FABP7 enhanced the motility of glioma-derived
+	cells in vitro. Our analyses thus identify and validate a prognostic
+	marker of both biologic and clinical significance and provide a series
+	of putative markers for additional evaluation.},
+  doi = {10.1073/pnas.0402870102},
+  keywords = { Analysis; Anoxia; Brain Neoplasms; Carrier Proteins; Cell Line; Cell
+	Movement; Cell Proliferation; Computational Biology; Gene Expression
+	Profiling; Glioblastoma; Humans; Oligonucleotide Array Sequence;
+	Survival Rate; Tumor Suppressor Proteins},
+  owner = {Rodrigo Soares},
+  pii = {0402870102},
+  pmid = {15827123},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1073/pnas.0402870102}
+}
+
+@ARTICLE{Nutt2003,
+  author = {Catherine L Nutt and D. R. Mani and Rebecca A Betensky and Pablo
+	Tamayo and J. Gregory Cairncross and Christine Ladd and Ute Pohl
+	and Christian Hartmann and Margaret E McLaughlin and Tracy T Batchelor
+	and Peter M Black and Andreas von Deimling and Scott L Pomeroy and
+	Todd R Golub and David N Louis},
+  title = {Gene expression-based classification of malignant gliomas correlates
+	better with survival than histological classification.},
+  journal = {Cancer Res},
+  year = {2003},
+  volume = {63},
+  pages = {1602--1607},
+  number = {7},
+  month = {Apr},
+  abstract = {In modern clinical neuro-oncology, histopathological diagnosis affects
+	therapeutic decisions and prognostic estimation more than any other
+	variable. Among high-grade gliomas, histologically classic glioblastomas
+	and anaplastic oligodendrogliomas follow markedly different clinical
+	courses. Unfortunately, many malignant gliomas are diagnostically
+	challenging; these nonclassic lesions are difficult to classify by
+	histological features, generating considerable interobserver variability
+	and limited diagnostic reproducibility. The resulting tentative pathological
+	diagnoses create significant clinical confusion. We investigated
+	whether gene expression profiling, coupled with class prediction
+	methodology, could be used to classify high-grade gliomas in a manner
+	more objective, explicit, and consistent than standard pathology.
+	Microarray analysis was used to determine the expression of approximately
+	12000 genes in a set of 50 gliomas, 28 glioblastomas and 22 anaplastic
+	oligodendrogliomas. Supervised learning approaches were used to build
+	a two-class prediction model based on a subset of 14 glioblastomas
+	and 7 anaplastic oligodendrogliomas with classic histology. A 20-feature
+	k-nearest neighbor model correctly classified 18 of the 21 classic
+	cases in leave-one-out cross-validation when compared with pathological
+	diagnoses. This model was then used to predict the classification
+	of clinically common, histologically nonclassic samples. When tumors
+	were classified according to pathology, the survival of patients
+	with nonclassic glioblastoma and nonclassic anaplastic oligodendroglioma
+	was not significantly different (P = 0.19). However, class distinctions
+	according to the model were significantly associated with survival
+	outcome (P = 0.05). This class prediction model was capable of classifying
+	high-grade, nonclassic glial tumors objectively and reproducibly.
+	Moreover, the model provided a more accurate predictor of prognosis
+	in these nonclassic lesions than did pathological classification.
+	These data suggest that class prediction models, based on defined
+	molecular profiles, classify diagnostically challenging malignant
+	gliomas in a manner that better correlates with clinical outcome
+	than does standard pathology.},
+  keywords = {Brain Neoplasms; Gene Expression Profiling; Glioma; Humans; Models,
+	Genetic; Predictive Value of Tests; Prognosis; Reproducibility of
+	Results; Survival Rate},
+  owner = {Rodrigo Soares},
+  pmid = {12670911},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Pomeroy2002,
+  author = {Scott L Pomeroy and Pablo Tamayo and Michelle Gaasenbeek and Lisa
+	M Sturla and Michael Angelo and Margaret E McLaughlin and John Y
+	H Kim and Liliana C Goumnerova and Peter M Black and Ching Lau and
+	Jeffrey C Allen and David Zagzag and James M Olson and Tom Curran
+	and Cynthia Wetmore and Jaclyn A Biegel and Tomaso Poggio and Shayan
+	Mukherjee and Ryan Rifkin and Andrea Califano and Gustavo Stolovitzky
+	and David N Louis and Jill P Mesirov and Eric S Lander and Todd R
+	Golub},
+  title = {Prediction of central nervous system embryonal tumour outcome based
+	on gene expression.},
+  journal = {Nature},
+  year = {2002},
+  volume = {415},
+  pages = {436--442},
+  number = {6870},
+  month = {Jan},
+  abstract = {Embryonal tumours of the central nervous system (CNS) represent a
+	heterogeneous group of tumours about which little is known biologically,
+	and whose diagnosis, on the basis of morphologic appearance alone,
+	is controversial. Medulloblastomas, for example, are the most common
+	malignant brain tumour of childhood, but their pathogenesis is unknown,
+	their relationship to other embryonal CNS tumours is debated, and
+	patients' response to therapy is difficult to predict. We approached
+	these problems by developing a classification system based on DNA
+	microarray gene expression data derived from 99 patient samples.
+	Here we demonstrate that medulloblastomas are molecularly distinct
+	from other brain tumours including primitive neuroectodermal tumours
+	(PNETs), atypical teratoid/rhabdoid tumours (AT/RTs) and malignant
+	gliomas. Previously unrecognized evidence supporting the derivation
+	of medulloblastomas from cerebellar granule cells through activation
+	of the Sonic Hedgehog (SHH) pathway was also revealed. We show further
+	that the clinical outcome of children with medulloblastomas is highly
+	predictable on the basis of the gene expression profiles of their
+	tumours at diagnosis.},
+  doi = {10.1038/415436a},
+  keywords = {Adolescent; Cerebellar Neoplasms; Child; Diagnosis, Differential;
+	Gene Expression Profiling; Humans; Medulloblastoma; Oligonucleotide
+	Array Sequence Analysis; Outcome Assessment (Health Care); Prognosis},
+  owner = {Rodrigo Soares},
+  pii = {415436a},
+  pmid = {11807556},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/415436a}
+}
+
+@ARTICLE{Ramaswamy2001,
+  author = {S. Ramaswamy and P. Tamayo and R. Rifkin and S. Mukherjee and C.
+	H. Yeang and M. Angelo and C. Ladd and M. Reich and E. Latulippe
+	and J. P. Mesirov and T. Poggio and W. Gerald and M. Loda and E.
+	S. Lander and T. R. Golub},
+  title = {Multiclass cancer diagnosis using tumor gene expression signatures.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2001},
+  volume = {98},
+  pages = {15149--15154},
+  number = {26},
+  month = {Dec},
+  abstract = {The optimal treatment of patients with cancer depends on establishing
+	accurate diagnoses by using a complex combination of clinical and
+	histopathological data. In some instances, this task is difficult
+	or impossible because of atypical clinical presentation or histopathology.
+	To determine whether the diagnosis of multiple common adult malignancies
+	could be achieved purely by molecular classification, we subjected
+	218 tumor samples, spanning 14 common tumor types, and 90 normal
+	tissue samples to oligonucleotide microarray gene expression analysis.
+	The expression levels of 16,063 genes and expressed sequence tags
+	were used to evaluate the accuracy of a multiclass classifier based
+	on a support vector machine algorithm. Overall classification accuracy
+	was 78\%, far exceeding the accuracy of random classification (9\%).
+	Poorly differentiated cancers resulted in low-confidence predictions
+	and could not be accurately classified according to their tissue
+	of origin, indicating that they are molecularly distinct entities
+	with dramatically different gene expression patterns compared with
+	their well differentiated counterparts. Taken together, these results
+	demonstrate the feasibility of accurate, multiclass molecular cancer
+	classification and suggest a strategy for future clinical implementation
+	of molecular cancer diagnostics.},
+  doi = {10.1073/pnas.211566398},
+  keywords = {Cluster Analysis; Gene Expression Profiling; Humans; Multigene Family;
+	Neoplasms; Tumor Markers, Biological},
+  owner = {Rodrigo Soares},
+  pii = {211566398},
+  pmid = {11742071},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1073/pnas.211566398}
+}
+
+@ARTICLE{Risinger2003b,
+  author = {John I Risinger and G. Larry Maxwell and G. V R Chandramouli and
+	Amir Jazaeri and Olga Aprelikova and Tricia Patterson and Andrew
+	Berchuck and J. Carl Barrett},
+  title = {Microarray analysis reveals distinct gene expression profiles among
+	different histologic types of endometrial cancer.},
+  journal = {Cancer Res},
+  year = {2003},
+  volume = {63},
+  pages = {6--11},
+  number = {1},
+  month = {Jan},
+  abstract = {Previous studies of oncogene and tumor suppressor gene alterations
+	have suggested that differences exist in the molecular pathogenesis
+	of the various histological types of endometrial cancer. To elucidate
+	further the molecular events involved in endometrial carcinogenesis,
+	we examined global expression patterns of 16 nonendometrioid cancers
+	(13 serous papillary and 3 clear cell), 19 endometrioid cancers,
+	and 7 age-matched normal endometria using cDNA microarrays. Unsupervised
+	analysis of gene expression identified 191 genes that exhibited >2-fold
+	differences (P < 0.001) between the histological groups. Many genes
+	were similarly dysregulated in both nonendometrioid and endometrioid
+	cancers relative to normal endometria. Gene expression differences
+	in only 24 transcripts could distinguish serous from endometrioid
+	cancers, the two most common subgroups. These data provide the basis
+	for investigation of previously unrecognized novel pathways involved
+	in the development of endometrial cancers.},
+  keywords = {Endometrial Neoplasms; Endometrium; Female; Gene Expression Profiling;
+	Gene Expression Regulation, Neoplastic; Humans; Reference Values},
+  owner = {Rodrigo Soares},
+  pmid = {12517768},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Shipp2002,
+  author = {Margaret A Shipp and Ken N Ross and Pablo Tamayo and Andrew P Weng
+	and Jeffery L Kutok and Ricardo C T Aguiar and Michelle Gaasenbeek
+	and Michael Angelo and Michael Reich and Geraldine S Pinkus and Tane
+	S Ray and Margaret A Koval and Kim W Last and Andrew Norton and T.
+	Andrew Lister and Jill Mesirov and Donna S Neuberg and Eric S Lander
+	and Jon C Aster and Todd R Golub},
+  title = {Diffuse large B-cell lymphoma outcome prediction by gene-expression
+	profiling and supervised machine learning.},
+  journal = {Nat Med},
+  year = {2002},
+  volume = {8},
+  pages = {68--74},
+  number = {1},
+  month = {Jan},
+  abstract = {Diffuse large B-cell lymphoma (DLBCL), the most common lymphoid malignancy
+	in adults, is curable in less than 50\% of patients. Prognostic models
+	based on pre-treatment characteristics, such as the International
+	Prognostic Index (IPI), are currently used to predict outcome in
+	DLBCL. However, clinical outcome models identify neither the molecular
+	basis of clinical heterogeneity, nor specific therapeutic targets.
+	We analyzed the expression of 6,817 genes in diagnostic tumor specimens
+	from DLBCL patients who received cyclophosphamide, adriamycin, vincristine
+	and prednisone (CHOP)-based chemotherapy, and applied a supervised
+	learning prediction method to identify cured versus fatal or refractory
+	disease. The algorithm classified two categories of patients with
+	very different five-year overall survival rates (70\% versus 12\%).
+	The model also effectively delineated patients within specific IPI
+	risk categories who were likely to be cured or to die of their disease.
+	Genes implicated in DLBCL outcome included some that regulate responses
+	to B-cell-receptor signaling, critical serine/threonine phosphorylation
+	pathways and apoptosis. Our data indicate that supervised learning
+	classification techniques can predict outcome in DLBCL and identify
+	rational targets for intervention.},
+  doi = {10.1038/nm0102-68},
+  keywords = {Antineoplastic Combined Chemotherapy Protocols; Artificial Intelligence;
+	Cyclophosphamide; Doxorubicin; Gene Expression Profiling; Humans;
+	Lymphoma, B-Cell; Lymphoma, Large-Cell, Diffuse; Oligonucleotide
+	Array Sequence Analysis; Predictive Value of Tests; Prednisone; Treatment
+	Outcome; Vincristine},
+  owner = {Rodrigo Soares},
+  pii = {nm0102-68},
+  pmid = {11786909},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/nm0102-68}
+}
+
+@ARTICLE{Singh2002b,
+  author = {Dinesh Singh and Phillip G Febbo and Kenneth Ross and Donald G Jackson
+	and Judith Manola and Christine Ladd and Pablo Tamayo and Andrew
+	A Renshaw and Anthony V D'Amico and Jerome P Richie and Eric S Lander
+	and Massimo Loda and Philip W Kantoff and Todd R Golub and William
+	R Sellers},
+  title = {Gene expression correlates of clinical prostate cancer behavior.},
+  journal = {Cancer Cell},
+  year = {2002},
+  volume = {1},
+  pages = {203--209},
+  number = {2},
+  month = {Mar},
+  abstract = {Prostate tumors are among the most heterogeneous of cancers, both
+	histologically and clinically. Microarray expression analysis was
+	used to determine whether global biological differences underlie
+	common pathological features of prostate cancer and to identify genes
+	that might anticipate the clinical behavior of this disease. While
+	no expression correlates of age, serum prostate specific antigen
+	(PSA), and measures of local invasion were found, a set of genes
+	was identified that strongly correlated with the state of tumor differentiation
+	as measured by Gleason score. Moreover, a model using gene expression
+	data alone accurately predicted patient outcome following prostatectomy.
+	These results support the notion that the clinical behavior of prostate
+	cancer is linked to underlying gene expression differences that are
+	detectable at the time of diagnosis.},
+  keywords = {Adult; Aged; Disease-Free Survival; Gene Expression Profiling; Humans;
+	Male; Middle Aged; Predictive Value of Tests; Prognosis; Prostatic
+	Neoplasms; Reproducibility of Results; Risk Factors; Treatment Outcome},
+  owner = {Rodrigo Soares},
+  pii = {S1535610802000302},
+  pmid = {12086878},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Su2001,
+  author = {A. I. Su and J. B. Welsh and L. M. Sapinoso and S. G. Kern and P.
+	Dimitrov and H. Lapp and P. G. Schultz and S. M. Powell and C. A.
+	Moskaluk and H. F. Frierson and G. M. Hampton},
+  title = {Molecular classification of human carcinomas by use of gene expression
+	signatures.},
+  journal = {Cancer Res},
+  year = {2001},
+  volume = {61},
+  pages = {7388--7393},
+  number = {20},
+  month = {Oct},
+  abstract = {Classification of human tumors according to their primary anatomical
+	site of origin is fundamental for the optimal treatment of patients
+	with cancer. Here we describe the use of large-scale RNA profiling
+	and supervised machine learning algorithms to construct a first-generation
+	molecular classification scheme for carcinomas of the prostate, breast,
+	lung, ovary, colorectum, kidney, liver, pancreas, bladder/ureter,
+	and gastroesophagus, which collectively account for approximately
+	70\% of all cancer-related deaths in the United States. The classification
+	scheme was based on identifying gene subsets whose expression typifies
+	each cancer class, and we quantified the extent to which these genes
+	are characteristic of a specific tumor type by accurately and confidently
+	predicting the anatomical site of tumor origin for 90\% of 175 carcinomas,
+	including 9 of 12 metastatic lesions. The predictor gene subsets
+	include those whose expression is typical of specific types of normal
+	epithelial differentiation, as well as other genes whose expression
+	is elevated in cancer. This study demonstrates the feasibility of
+	predicting the tissue origin of a carcinoma in the context of multiple
+	cancer classes.},
+  keywords = {Carcinoma; Female; Gene Expression Profiling; Gene Expression Regulation,
+	Neoplastic; Humans; Male; Neoplasms; Oligonucleotide Array Sequence
+	Analysis; Predictive Value of Tests; RNA, Neoplasm},
+  owner = {Rodrigo Soares},
+  pmid = {11606367},
+  timestamp = {2007.09.21}
+}
+
+@ARTICLE{Tomlins2007,
+  author = {Scott A Tomlins and Rohit Mehra and Daniel R Rhodes and Xuhong Cao
+	and Lei Wang and Saravana M Dhanasekaran and Shanker Kalyana-Sundaram
+	and John T Wei and Mark A Rubin and Kenneth J Pienta and Rajal B
+	Shah and Arul M Chinnaiyan},
+  title = {Integrative molecular concept modeling of prostate cancer progression.},
+  journal = {Nat Genet},
+  year = {2007},
+  volume = {39},
+  pages = {41--51},
+  number = {1},
+  month = {Jan},
+  abstract = {Despite efforts to profile prostate cancer, the genetic alterations
+	and biological processes that correlate with the observed histological
+	progression are unclear. Using laser-capture microdissection to isolate
+	101 cell populations, we have profiled prostate cancer progression
+	from benign epithelium to metastatic disease. By analyzing expression
+	signatures in the context of over 14,000 'molecular concepts', or
+	sets of biologically connected genes, we generated an integrative
+	model of progression. Molecular concepts that demarcate critical
+	transitions in progression include protein biosynthesis, E26 transformation-specific
+	(ETS) family transcriptional targets, androgen signaling and cell
+	proliferation. Of note, relative to low-grade prostate cancer (Gleason
+	pattern 3), high-grade cancer (Gleason pattern 4) shows an attenuated
+	androgen signaling signature, similar to metastatic prostate cancer,
+	which may reflect dedifferentiation and explain the clinical association
+	of grade with prognosis. Taken together, these data show that analyzing
+	gene expression signatures in the context of a compendium of molecular
+	concepts is useful in understanding cancer biology.},
+  doi = {10.1038/ng1935},
+  keywords = {Androgens; Disease Progression; Gene Expression Profiling; Humans;
+	Male; Models, Theoretical; Neoplasm Metastasis; Prostatic Hyperplasia;
+	Prostatic Intraepithelial Neoplasia; Prostatic Neoplasms; Signal
+	Transduction; Systems Integration},
+  owner = {Rodrigo Soares},
+  pii = {ng1935},
+  pmid = {17173048},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/ng1935}
+}
+
+@ARTICLE{Veer2002,
+  author = {Laura J van 't Veer and Hongyue Dai and Marc J van de Vijver and
+	Yudong D He and Augustinus A M Hart and Mao Mao and Hans L Peterse
+	and Karin van der Kooy and Matthew J Marton and Anke T Witteveen
+	and George J Schreiber and Ron M Kerkhoven and Chris Roberts and
+	Peter S Linsley and René Bernards and Stephen H Friend},
+  title = {Gene expression profiling predicts clinical outcome of breast cancer.},
+  journal = {Nature},
+  year = {2002},
+  volume = {415},
+  pages = {530--536},
+  number = {6871},
+  month = {Jan},
+  abstract = {Breast cancer patients with the same stage of disease can have markedly
+	different treatment responses and overall outcome. The strongest
+	predictors for metastases (for example, lymph node status and histological
+	grade) fail to classify accurately breast tumours according to their
+	clinical behaviour. Chemotherapy or hormonal therapy reduces the
+	risk of distant metastases by approximately one-third; however, 70-80\%
+	of patients receiving this treatment would have survived without
+	it. None of the signatures of breast cancer gene expression reported
+	to date allow for patient-tailored therapy strategies. Here we used
+	DNA microarray analysis on primary breast tumours of 117 young patients,
+	and applied supervised classification to identify a gene expression
+	signature strongly predictive of a short interval to distant metastases
+	('poor prognosis' signature) in patients without tumour cells in
+	local lymph nodes at diagnosis (lymph node negative). In addition,
+	we established a signature that identifies tumours of BRCA1 carriers.
+	The poor prognosis signature consists of genes regulating cell cycle,
+	invasion, metastasis and angiogenesis. This gene expression profile
+	will outperform all currently used clinical parameters in predicting
+	disease outcome. Our findings provide a strategy to select patients
+	who would benefit from adjuvant therapy.},
+  doi = {10.1038/415530a},
+  keywords = {Adult; Breast Neoplasms; Chemotherapy, Adjuvant; Cluster Analysis;
+	DNA, Neoplasm; Female; Gene Expression Profiling; Genes, BRCA1; Genes,
+	BRCA2; Humans; Lymphatic Metastasis; Oligonucleotide Array Sequence
+	Analysis; Patient Selection; Predictive Value of Tests; Prognosis;
+	Treatment Outcome},
+  owner = {Rodrigo Soares},
+  pii = {415530a},
+  pmid = {11823860},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1038/415530a}
+}
+
+@ARTICLE{West2001,
+  author = {M. West and C. Blanchette and H. Dressman and E. Huang and S. Ishida
+	and R. Spang and H. Zuzan and J. A. Olson and J. R. Marks and J.
+	R. Nevins},
+  title = {Predicting the clinical status of human breast cancer by using gene
+	expression profiles.},
+  journal = {Proc Natl Acad Sci U S A},
+  year = {2001},
+  volume = {98},
+  pages = {11462--11467},
+  number = {20},
+  month = {Sep},
+  abstract = {Prognostic and predictive factors are indispensable tools in the treatment
+	of patients with neoplastic disease. For the most part, such factors
+	rely on a few specific cell surface, histological, or gross pathologic
+	features. Gene expression assays have the potential to supplement
+	what were previously a few distinct features with many thousands
+	of features. We have developed Bayesian regression models that provide
+	predictive capability based on gene expression data derived from
+	DNA microarray analysis of a series of primary breast cancer samples.
+	These patterns have the capacity to discriminate breast tumors on
+	the basis of estrogen receptor status and also on the categorized
+	lymph node status. Importantly, we assess the utility and validity
+	of such models in predicting the status of tumors in crossvalidation
+	determinations. The practical value of such approaches relies on
+	the ability not only to assess relative probabilities of clinical
+	outcomes for future samples but also to provide an honest assessment
+	of the uncertainties associated with such predictive classifications
+	on the basis of the selection of gene subsets for each validation
+	analysis. This latter point is of critical importance in the ability
+	to apply these methodologies to clinical assessment of tumor phenotype.},
+  doi = {10.1073/pnas.201162998},
+  keywords = {Bacillus anthracis; Breast Neoplasms; Enzymes; Female; Humans; Lymph
+	Node Excision; Lymph Nodes; Multigene Family; Oligonucleotide Array
+	Sequence Analysis; Phenotype; Predictive Value of Tests; Probability;
+	Receptors, Estrogen; Reproducibility of Results},
+  owner = {Rodrigo Soares},
+  pii = {201162998},
+  pmid = {11562467},
+  timestamp = {2007.09.21},
+  url = {http://dx.doi.org/10.1073/pnas.201162998}
+}
+
+@ARTICLE{Yeoh2002,
+  author = {Eng-Juh Yeoh and Mary E Ross and Sheila A Shurtleff and W. Kent Williams
+	and Divyen Patel and Rami Mahfouz and Fred G Behm and Susana C Raimondi
+	and Mary V Relling and Anami Patel and Cheng Cheng and Dario Campana
+	and Dawn Wilkins and Xiaodong Zhou and Jinyan Li and Huiqing Liu
+	and Ching-Hon Pui and William E Evans and Clayton Naeve and Limsoon
+	Wong and James R Downing},
+  title = {Classification, subtype discovery, and prediction of outcome in pediatric
+	acute lymphoblastic leukemia by gene expression profiling.},
+  journal = {Cancer Cell},
+  year = {2002},
+  volume = {1},
+  pages = {133--143},
+  number = {2},
+  month = {Mar},
+  abstract = {Treatment of pediatric acute lymphoblastic leukemia (ALL) is based
+	on the concept of tailoring the intensity of therapy to a patient's
+	risk of relapse. To determine whether gene expression profiling could
+	enhance risk assignment, we used oligonucleotide microarrays to analyze
+	the pattern of genes expressed in leukemic blasts from 360 pediatric
+	ALL patients. Distinct expression profiles identified each of the
+	prognostically important leukemia subtypes, including T-ALL, E2A-PBX1,
+	BCR-ABL, TEL-AML1, MLL rearrangement, and hyperdiploid >50 chromosomes.
+	In addition, another ALL subgroup was identified based on its unique
+	expression profile. Examination of the genes comprising the expression
+	signatures provided important insights into the biology of these
+	leukemia subgroups. Further, within some genetic subgroups, expression
+	profiles identified those patients that would eventually fail therapy.
+	Thus, the single platform of expression profiling should enhance
+	the accurate risk stratification of pediatric ALL patients.},
+  keywords = {Algorithms; Child; Computational Biology; Gene Expression Profiling;
+	Humans; Immunophenotyping; Leukemia, Lymphocytic, Acute; Leukemia,
+	Myelocytic, Acute; Oligonucleotide Array Sequence Analysis; Prognosis;
+	Recurrence; Risk Factors; Treatment Failure},
+  owner = {Rodrigo Soares},
+  pii = {S1535610802000326},
+  pmid = {12086872},
+  timestamp = {2007.09.21}
+}

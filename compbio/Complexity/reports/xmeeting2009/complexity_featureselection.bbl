@@ -1,0 +1,1336 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{[#1]}
+\providecommand{\urlprefix}{}
+
+\bibitem{Spang2003}
+Spang R: \textbf{Diagnostic signatures from microarrays: a bioinformatics
+  concept for personalized medicine}. \emph{BIOSILICO} 2003,
+  \textbf{1}(2):64--68,
+  \urlprefix\url{[http://www.sciencedirect.com/science/article/B75GS-4BRJ67W-J%
+/2/2fa50a82fa348085a698a1b42db4f6a0]}.
+
+\bibitem{Veer2008}
+van't Veer LJ, Bernards R: \textbf{Enabling personalized cancer medicine
+  through analysis of gene-expression patterns.} \emph{Nature} 2008,
+  \textbf{452}(7187):564--570,
+  \urlprefix\url{[http://dx.doi.org/10.1038/nature06915]}.
+
+\bibitem{Irizarry2005}
+Irizarry RA, Warren D, Spencer F, Kim IF, Biswal S, Frank BC, Gabrielson E,
+  Garcia JGN, Geoghegan J, Germino G, Griffin C, Hilmer SC, Hoffman E, Jedlicka
+  AE, Kawasaki E, Martinez-Murillo F, Morsberger L, Lee H, Petersen D,
+  Quackenbush J, Scott A, Wilson M, Yang Y, Ye SQ, Yu W:
+  \textbf{Multiple-laboratory comparison of microarray platforms.} \emph{Nat
+  Methods} 2005, \textbf{2}(5):345--350,
+  \urlprefix\url{[http://dx.doi.org/10.1038/nmeth756]}.
+
+\bibitem{Song2007}
+Song L, Bedo J, Borgwardt KM, Gretton A, Smola A: \textbf{Gene selection via
+  the BAHSIC family of algorithms.} \emph{Bioinformatics} 2007,
+  \textbf{23}(13):i490--i498,
+  \urlprefix\url{[http://dx.doi.org/10.1093/bioinformatics/btm216]}.
+
+\bibitem{Costa2009b}
+Costa IG, Lorena AC, y~Peres LRMP, de~Souto MCP: \textbf{Using Supervised
+  Complexity Measures in the Analysis of Cancer Gene Expression Data Sets.} In
+  \emph{BSB}, \emph{Volume 5676 of \emph{Lecture Notes in Computer Science}}.
+  Edited by Guimarães KS, Panchenko A, Przytycka TM, Springer 2009:48--59,
+  \urlprefix\url{[http://dblp.uni-trier.de/db/conf/wob/bsb2009.html#CostaLPS09%
+]}.
+
+\bibitem{Ho2002}
+Ho T, Basu M: \textbf{Complexity Measures of Supervised Classification
+  Problems}. \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} 2002, \textbf{24}(3):289--300.
+
+\bibitem{Dudoit2002}
+Dudoit S, Fridlyand J, Speed TP: \textbf{Comparison of Discrimination Methods
+  for the Classification of Tumors Using Gene Expression Data}. \emph{Journal
+  of the American Statistical Association} 2002, \textbf{97}(457):77--87,
+  \urlprefix\url{[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.2%
+275]}.
+
+\bibitem{Vapnik1995}
+Vapnik VN: \emph{The nature of Statistical learning theory}. New York, USA:
+  Springer-Verlag 1995.
+
+\bibitem{Hastie2001}
+Hastie T, Tibshirani R, Friedman J: \emph{The elements of statistical learning:
+  Data mining, inference and prediction}. Springer, New York 2001.
+
+\bibitem{Ripley1996}
+Ripley BD: \emph{Pattern recognition and neural networks}. Cambridge, UK:
+  University Press 1996.
+
+\bibitem{Tibshirani2002}
+Tibshirani R, Hastie T, Narasimhan B, Chu G: \textbf{Diagnosis of multiple
+  cancer types by shrunken centroids of gene expression}. \emph{PNAS} 2002,
+  \textbf{99}(10):6567--6572,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.082099299]}.
+
+\bibitem{Statnikov2005}
+Statnikov A, Aliferis CF, Tsamardinos I, Hardin D, Levy S: \textbf{A
+  comprehensive evaluation of multicategory classification methods for
+  microarray gene expression cancer diagnosis.} \emph{Bioinformatics} 2005,
+  \textbf{21}(5):631--643,
+  \urlprefix\url{[http://dx.doi.org/10.1093/bioinformatics/bti033]}.
+
+\bibitem{Lorena2008}
+Lorena AC, Costa IG, de~Souto MCP: \textbf{On the complexity of gene expression
+  classification data sets}. In \emph{Proc. of the 8th International Conference
+  on Hybrid Intelligent Systems}, IEEE Computer Society 2008:825--830.
+
+\bibitem{Barret2007}
+Barrett T, Troup DB, Wilhite SE, Ledoux P, Rudnev D, Evangelista C, Kim IF,
+  Soboleva A, Tomashevsky M, Edgar R: \textbf{NCBI GEO: mining tens of millions
+  of expression profiles--database and tools update.} \emph{Nucleic Acids Res}
+  2007, \textbf{35}(Database issue),
+  \urlprefix\url{[http://view.ncbi.nlm.nih.gov/pubmed/17099226]}.
+
+\bibitem{Souto2008}
+de~Souto MCP, Costa IG, de~Araujo DSA, Ludermir TB, Schliep A:
+  \textbf{Clustering cancer gene expression data: a comparative study.}
+  \emph{BMC Bioinformatics} 2008, \textbf{9},
+  \urlprefix\url{[http://dblp.uni-trier.de/db/journals/bmcbi/bmcbi9.html#Souto%
+CALS08]}.
+
+\bibitem{Peng2006}
+Yanxiong~Peng WL, Liu Y: \textbf{A Hybrid Approach for Biomarker Discovery from
+  Microarray Gene Expression Data for Cancer Classification}. \emph{Cancer
+  Inform} 2002, \textbf{2}:301--311.
+
+\bibitem{WIT05}
+Witten IH, Frank E: \emph{Data Mining: Practical machine learning tools and
+  techniques}. Morgan Kaufmann, 2 edition 2005.
+
+\bibitem{Smith1968}
+Smith F: \textbf{Pattern Classifier Design by Linear Programming}. \emph{IEEE
+  Transactions on Computers} 1968, \textbf{17}(4):367--372.
+
+\bibitem{Friedman1979}
+Friedman H, Rafsky LC: \textbf{Multivariate generalization of the
+  Wald-Wolfowitz and Smirnov two-sample tests}. \emph{Ann. Statist.} 1979,
+  \textbf{7}:697--717.
+
+\bibitem{Armstrong2002}
+Armstrong SA, Staunton JE, Silverman LB, Pieters R, den Boer ML, Minden MD,
+  Sallan SE, Lander ES, Golub TR, Korsmeyer SJ: \textbf{MLL translocations
+  specify a distinct gene expression profile that distinguishes a unique
+  leukemia.} \emph{Nat Genet} 2002, \textbf{30}:41--47,
+  \urlprefix\url{[http://dx.doi.org/10.1038/ng765]}.
+
+\bibitem{Bhattacharjee2001}
+Bhattacharjee A, Richards WG, Staunton J, Li C, Monti S, Vasa P, Ladd C,
+  Beheshti J, Bueno R, Gillette M, Loda M, Weber G, Mark EJ, Lander ES, Wong W,
+  Johnson BE, Golub TR, Sugarbaker DJ, Meyerson M: \textbf{Classification of
+  human lung carcinomas by mRNA expression profiling reveals distinct
+  adenocarcinoma subclasses.} \emph{Proc Natl Acad Sci U S A} 2001,
+  \textbf{98}(24):13790--13795,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.191502998]}.
+
+\bibitem{Chowdary2006}
+Chowdary D, Lathrop J, Skelton J, Curtin K, Briggs T, Zhang Y, Yu J, Wang Y,
+  Mazumder A: \textbf{Prognostic gene expression signatures can be measured in
+  tissues collected in RNAlater preservative.} \emph{J Mol Diagn} 2006,
+  \textbf{8}:31--39.
+
+\bibitem{Dyrskjoet2003}
+Dyrskjot L, Thykjaer T, Kruh0ffer M, Jensen JL, Marcussen N, Hamilton-Dutoit S,
+  Wolf H, Orntoft TF: \textbf{Identifying distinct classes of bladder carcinoma
+  using microarrays.} \emph{Nat Genet} 2003, \textbf{33}:90--96,
+  \urlprefix\url{[http://dx.doi.org/10.1038/ng1061]}.
+
+\bibitem{Golub1999}
+Golub TR, Slonim DK, Tamayo P, Huard C, Gaasenbeek M, Mesirov JP, Coller H, Loh
+  ML, Downing JR, Caligiuri MA, Bloomfield CD, Lander ES: \textbf{Molecular
+  classification of cancer: class discovery and class prediction by gene
+  expression monitoring.} \emph{Science} 1999, \textbf{286}(5439):531--537.
+
+\bibitem{Gordon2002}
+Gordon GJ, Jensen RV, Hsiao LL, Gullans SR, Blumenstock JE, Ramaswamy S,
+  Richards WG, Sugarbaker DJ, Bueno R: \textbf{Translation of microarray data
+  into clinically relevant cancer diagnostic tests using gene expression ratios
+  in lung cancer and mesothelioma.} \emph{Cancer Res} 2002,
+  \textbf{62}(17):4963--4967.
+
+\bibitem{Laiho2007c}
+Laiho P, Kokko A, Vanharanta S, Salovaara R, Sammalkorpi H, Jarvinen H, Mecklin
+  JP, Karttunen TJ, Tuppurainen K, Davalos V, Schwartz S, Arango D, Makinen MJ,
+  Aaltonen LA: \textbf{Serrated carcinomas form a subclass of colorectal cancer
+  with distinct molecular basis.} \emph{Oncogene} 2007,
+  \textbf{26}(2):312--320,
+  \urlprefix\url{[http://dx.doi.org/10.1038/sj.onc.1209778]}.
+
+\bibitem{Nutt2003}
+Nutt CL, Mani DR, Betensky RA, Tamayo P, Cairncross JG, Ladd C, Pohl U,
+  Hartmann C, McLaughlin ME, Batchelor TT, Black PM, von Deimling A, Pomeroy
+  SL, Golub TR, Louis DN: \textbf{Gene expression-based classification of
+  malignant gliomas correlates better with survival than histological
+  classification.} \emph{Cancer Res} 2003, \textbf{63}(7):1602--1607.
+
+\bibitem{Pomeroy2002}
+Pomeroy SL, Tamayo P, Gaasenbeek M, Sturla LM, Angelo M, McLaughlin ME, Kim
+  JYH, Goumnerova LC, Black PM, Lau C, Allen JC, Zagzag D, Olson JM, Curran T,
+  Wetmore C, Biegel JA, Poggio T, Mukherjee S, Rifkin R, Califano A,
+  Stolovitzky G, Louis DN, Mesirov JP, Lander ES, Golub TR: \textbf{Prediction
+  of central nervous system embryonal tumour outcome based on gene expression.}
+  \emph{Nature} 2002, \textbf{415}(6870):436--442,
+  \urlprefix\url{[http://dx.doi.org/10.1038/415436a]}.
+
+\bibitem{Ramaswamy2001}
+Ramaswamy S, Tamayo P, Rifkin R, Mukherjee S, Yeang CH, Angelo M, Ladd C, Reich
+  M, Latulippe E, Mesirov JP, Poggio T, Gerald W, Loda M, Lander ES, Golub TR:
+  \textbf{Multiclass cancer diagnosis using tumor gene expression signatures.}
+  \emph{Proc Natl Acad Sci U S A} 2001, \textbf{98}(26):15149--15154,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.211566398]}.
+
+\bibitem{Shipp2002}
+Shipp MA, Ross KN, Tamayo P, Weng AP, Kutok JL, Aguiar RCT, Gaasenbeek M,
+  Angelo M, Reich M, Pinkus GS, Ray TS, Koval MA, Last KW, Norton A, Lister TA,
+  Mesirov J, Neuberg DS, Lander ES, Aster JC, Golub TR: \textbf{Diffuse large
+  B-cell lymphoma outcome prediction by gene-expression profiling and
+  supervised machine learning.} \emph{Nat Med} 2002, \textbf{8}:68--74,
+  \urlprefix\url{[http://dx.doi.org/10.1038/nm0102-68]}.
+
+\bibitem{Singh2002b}
+Singh D, Febbo PG, Ross K, Jackson DG, Manola J, Ladd C, Tamayo P, Renshaw AA,
+  D'Amico AV, Richie JP, Lander ES, Loda M, Kantoff PW, Golub TR, Sellers WR:
+  \textbf{Gene expression correlates of clinical prostate cancer behavior.}
+  \emph{Cancer Cell} 2002, \textbf{1}(2):203--209.
+
+\bibitem{Su2001}
+Su AI, Welsh JB, Sapinoso LM, Kern SG, Dimitrov P, Lapp H, Schultz PG, Powell
+  SM, Moskaluk CA, Frierson HF, Hampton GM: \textbf{Molecular classification of
+  human carcinomas by use of gene expression signatures.} \emph{Cancer Res}
+  2001, \textbf{61}(20):7388--7393.
+
+\bibitem{West2001}
+West M, Blanchette C, Dressman H, Huang E, Ishida S, Spang R, Zuzan H, Olson
+  JA, Marks JR, Nevins JR: \textbf{Predicting the clinical status of human
+  breast cancer by using gene expression profiles.} \emph{Proc Natl Acad Sci U
+  S A} 2001, \textbf{98}(20):11462--11467,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.201162998]}.
+
+\bibitem{Yeoh2002}
+Yeoh EJ, Ross ME, Shurtleff SA, Williams WK, Patel D, Mahfouz R, Behm FG,
+  Raimondi SC, Relling MV, Patel A, Cheng C, Campana D, Wilkins D, Zhou X, Li
+  J, Liu H, Pui CH, Evans WE, Naeve C, Wong L, Downing JR:
+  \textbf{Classification, subtype discovery, and prediction of outcome in
+  pediatric acute lymphoblastic leukemia by gene expression profiling.}
+  \emph{Cancer Cell} 2002, \textbf{1}(2):133--143.
+
+\bibitem{Alizadeh2000}
+Alizadeh AA, Eisen MB, Davis RE, Ma C, Lossos IS, Rosenwald A, Boldrick JC,
+  Sabet H, Tran T, Yu X, Powell JI, Yang L, Marti GE, Moore T, Hudson J, Lu L,
+  Lewis DB, Tibshirani R, Sherlock G, Chan WC, Greiner TC, Weisenburger DD,
+  Armitage JO, Warnke R, Levy R, Wilson W, Grever MR, Byrd JC, Botstein D,
+  Brown PO, Staudt LM: \textbf{Distinct types of diffuse large B-cell lymphoma
+  identified by gene expression profiling.} \emph{Nature} 2000,
+  \textbf{403}(6769):503--511,
+  \urlprefix\url{[http://dx.doi.org/10.1038/35000501]}.
+
+\bibitem{Bittner2000}
+Bittner M, Meltzer P, Chen Y, Jiang Y, Seftor E, Hendrix M, Radmacher M, Simon
+  R, Yakhini Z, Ben-Dor A, Sampas N, Dougherty E, Wang E, Marincola F, Gooden
+  C, Lueders J, Glatfelter A, Pollock P, Carpten J, Gillanders E, Leja D,
+  Dietrich K, Beaudry C, Berens M, Alberts D, Sondak V: \textbf{Molecular
+  classification of cutaneous malignant melanoma by gene expression profiling.}
+  \emph{Nature} 2000, \textbf{406}(6795):536--540,
+  \urlprefix\url{[http://dx.doi.org/10.1038/35020115]}.
+
+\bibitem{Bredel2005}
+Bredel M, Bredel C, Juric D, Harsh GR, Vogel H, Recht LD, Sikic BI:
+  \textbf{Functional network analysis reveals extended gliomagenesis pathway
+  maps and three novel MYC-interacting genes in human gliomas.} \emph{Cancer
+  Res} 2005, \textbf{65}(19):8679--8689,
+  \urlprefix\url{[http://dx.doi.org/10.1158/0008-5472.CAN-05-1204]}.
+
+\bibitem{XinChen06012002}
+Chen X, Cheung ST, So S, Fan ST, Barry C, Higgins J, Lai KM, Ji J, Dudoit S, Ng
+  IO, van~de Rijn M, Botstein D, Brown PO: \textbf{Gene Expression Patterns in
+  Human Liver Cancers}. \emph{Mol. Biol. Cell} 2002, \textbf{13}(6):1929--1939,
+  \urlprefix\url{[http://www.molbiolcell.org/cgi/content/abstract/13/6/1929]}.
+
+\bibitem{Garber2001}
+Garber ME, Troyanskaya OG, Schluens K, Petersen S, Thaesler Z,
+  Pacyna-Gengelbach M, van~de Rijn M, Rosen GD, Perou CM, Whyte RI, Altman RB,
+  Brown PO, Botstein D, Petersen I: \textbf{Diversity of gene expression in
+  adenocarcinoma of the lung.} \emph{Proc Natl Acad Sci U S A} 2001,
+  \textbf{98}(24):13784--13789,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.241500798]}.
+
+\bibitem{Khan2001}
+Khan J, Wei JS, Ringner M, Saal LH, Ladanyi M, Westermann F, Berthold F, Schwab
+  M, Antonescu CR, Peterson C, Meltzer PS: \textbf{Classification and
+  diagnostic prediction of cancers using gene expression profiling and
+  artificial neural networks.} \emph{Nat Med} 2001, \textbf{7}(6):673--679,
+  \urlprefix\url{[http://dx.doi.org/10.1038/89044]}.
+
+\bibitem{Lapointe2004}
+Lapointe J, Li C, Higgins JP, van~de Rijn M, Bair E, Montgomery K, Ferrari M,
+  Egevad L, Rayford W, Bergerheim U, Ekman P, DeMarzo AM, Tibshirani R,
+  Botstein D, Brown PO, Brooks JD, Pollack JR: \textbf{Gene expression
+  profiling identifies clinically relevant subtypes of prostate cancer.}
+  \emph{Proc Natl Acad Sci U S A} 2004, \textbf{101}(3):811--816,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.0304146101]}.
+
+\bibitem{Liang2005}
+Liang Y, Diehn M, Watson N, Bollen AW, Aldape KD, Nicholas MK, Lamborn KR,
+  Berger MS, Botstein D, Brown PO, Israel MA: \textbf{Gene expression profiling
+  reveals molecularly and clinically distinct subtypes of glioblastoma
+  multiforme.} \emph{Proc Natl Acad Sci U S A} 2005,
+  \textbf{102}(16):5814--5819,
+  \urlprefix\url{[http://dx.doi.org/10.1073/pnas.0402870102]}.
+
+\bibitem{Risinger2003b}
+Risinger JI, Maxwell GL, Chandramouli GVR, Jazaeri A, Aprelikova O, Patterson
+  T, Berchuck A, Barrett JC: \textbf{Microarray analysis reveals distinct gene
+  expression profiles among different histologic types of endometrial cancer.}
+  \emph{Cancer Res} 2003, \textbf{63}:6--11.
+
+\bibitem{Tomlins2007}
+Tomlins SA, Mehra R, Rhodes DR, Cao X, Wang L, Dhanasekaran SM,
+  Kalyana-Sundaram S, Wei JT, Rubin MA, Pienta KJ, Shah RB, Chinnaiyan AM:
+  \textbf{Integrative molecular concept modeling of prostate cancer
+  progression.} \emph{Nat Genet} 2007, \textbf{39}:41--51,
+  \urlprefix\url{[http://dx.doi.org/10.1038/ng1935]}.
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>Diagnostic signatures from microarrays: a bioinformatics concept
+  for personalized medicine</p></title>
+  <aug>
+    <au><snm>Spang</snm><fnm>R</fnm></au>
+  </aug>
+  <source>BIOSILICO</source>
+  <pubdate>2003</pubdate>
+  <volume>1</volume>
+  <issue>2</issue>
+  <fpage>64</fpage>
+  <lpage>-68</lpage>
+  <url>http://www.sciencedirect.com/science/article/B75GS-4BRJ67W-J/2/2fa50a82%
+fa348085a698a1b42db4f6a0</url>
+</bibl>
+
+<bibl id="B2">
+  <title><p>Enabling personalized cancer medicine through analysis of
+  gene-expression patterns.</p></title>
+  <aug>
+    <au><snm>Veer</snm><fnm>LJ</fnm></au>
+    <au><snm>Bernards</snm><fnm>R</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <pubdate>2008</pubdate>
+  <volume>452</volume>
+  <issue>7187</issue>
+  <fpage>564</fpage>
+  <lpage>-570</lpage>
+  <url>http://dx.doi.org/10.1038/nature06915</url>
+</bibl>
+
+<bibl id="B3">
+  <title><p>Multiple-laboratory comparison of microarray platforms.</p></title>
+  <aug>
+    <au><snm>Irizarry</snm><fnm>RA</fnm></au>
+    <au><snm>Warren</snm><fnm>D</fnm></au>
+    <au><snm>Spencer</snm><fnm>F</fnm></au>
+    <au><snm>Kim</snm><fnm>IF</fnm></au>
+    <au><snm>Biswal</snm><fnm>S</fnm></au>
+    <au><snm>Frank</snm><fnm>BC</fnm></au>
+    <au><snm>Gabrielson</snm><fnm>E</fnm></au>
+    <au><snm>Garcia</snm><fnm>JGN</fnm></au>
+    <au><snm>Geoghegan</snm><fnm>J</fnm></au>
+    <au><snm>Germino</snm><fnm>G</fnm></au>
+    <au><snm>Griffin</snm><fnm>C</fnm></au>
+    <au><snm>Hilmer</snm><fnm>SC</fnm></au>
+    <au><snm>Hoffman</snm><fnm>E</fnm></au>
+    <au><snm>Jedlicka</snm><fnm>AE</fnm></au>
+    <au><snm>Kawasaki</snm><fnm>E</fnm></au>
+    <au><snm>Martinez Murillo</snm><fnm>F</fnm></au>
+    <au><snm>Morsberger</snm><fnm>L</fnm></au>
+    <au><snm>Lee</snm><fnm>H</fnm></au>
+    <au><snm>Petersen</snm><fnm>D</fnm></au>
+    <au><snm>Quackenbush</snm><fnm>J</fnm></au>
+    <au><snm>Scott</snm><fnm>A</fnm></au>
+    <au><snm>Wilson</snm><fnm>M</fnm></au>
+    <au><snm>Yang</snm><fnm>Y</fnm></au>
+    <au><snm>Ye</snm><fnm>SQ</fnm></au>
+    <au><snm>Yu</snm><fnm>W</fnm></au>
+  </aug>
+  <source>Nat Methods</source>
+  <pubdate>2005</pubdate>
+  <volume>2</volume>
+  <issue>5</issue>
+  <fpage>345</fpage>
+  <lpage>-350</lpage>
+  <url>http://dx.doi.org/10.1038/nmeth756</url>
+</bibl>
+
+<bibl id="B4">
+  <title><p>Gene selection via the BAHSIC family of algorithms.</p></title>
+  <aug>
+    <au><snm>Song</snm><fnm>L</fnm></au>
+    <au><snm>Bedo</snm><fnm>J</fnm></au>
+    <au><snm>Borgwardt</snm><fnm>KM</fnm></au>
+    <au><snm>Gretton</snm><fnm>A</fnm></au>
+    <au><snm>Smola</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Bioinformatics</source>
+  <pubdate>2007</pubdate>
+  <volume>23</volume>
+  <issue>13</issue>
+  <fpage>i490</fpage>
+  <lpage>-i498</lpage>
+  <url>http://dx.doi.org/10.1093/bioinformatics/btm216</url>
+</bibl>
+
+<bibl id="B5">
+  <title><p>Using Supervised Complexity Measures in the Analysis of Cancer Gene
+  Expression Data Sets.</p></title>
+  <aug>
+    <au><snm>Costa</snm><fnm>IG</fnm></au>
+    <au><snm>Lorena</snm><fnm>AC</fnm></au>
+    <au><snm>Peres</snm><fnm>LRMP</fnm></au>
+    <au><snm>Souto</snm><fnm>MCP</fnm></au>
+  </aug>
+  <source>BSB</source>
+  <publisher>Springer</publisher>
+  <editor>Katia S. Guimarães and Anna Panchenko and Teresa M.
+  Przytycka</editor>
+  <series><title><p>Lecture Notes in Computer Science</p></title></series>
+  <pubdate>2009</pubdate>
+  <volume>5676</volume>
+  <fpage>48</fpage>
+  <lpage>59</lpage>
+  <url>http://dblp.uni-trier.de/db/conf/wob/bsb2009.html#CostaLPS09</url>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Complexity Measures of Supervised Classification
+  Problems</p></title>
+  <aug>
+    <au><snm>Ho</snm><fnm>T.K.</fnm></au>
+    <au><snm>Basu</snm><fnm>M.</fnm></au>
+  </aug>
+  <source>IEEE Transactions on Pattern Analysis and Machine
+  Intelligence</source>
+  <publisher>Los Alamitos, CA, USA: IEEE Computer Society</publisher>
+  <pubdate>2002</pubdate>
+  <volume>24</volume>
+  <issue>3</issue>
+  <fpage>289</fpage>
+  <lpage>300</lpage>
+</bibl>
+
+<bibl id="B7">
+  <title><p>Comparison of Discrimination Methods for the Classification of
+  Tumors Using Gene Expression Data</p></title>
+  <aug>
+    <au><snm>Dudoit</snm><fnm>S</fnm></au>
+    <au><snm>Fridlyand</snm><fnm>J</fnm></au>
+    <au><snm>Speed</snm><fnm>TP</fnm></au>
+  </aug>
+  <source>Journal of the American Statistical Association</source>
+  <pubdate>2002</pubdate>
+  <volume>97</volume>
+  <issue>457</issue>
+  <fpage>77</fpage>
+  <lpage>-87</lpage>
+  <url>http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.2275</url>
+</bibl>
+
+<bibl id="B8">
+  <title><p>The nature of Statistical learning theory</p></title>
+  <aug>
+    <au><snm>Vapnik</snm><fnm>V. N.</fnm></au>
+  </aug>
+  <publisher>New York, USA: Springer-Verlag</publisher>
+  <pubdate>1995</pubdate>
+</bibl>
+
+<bibl id="B9">
+  <title><p>The elements of statistical learning: Data mining, inference and
+  prediction</p></title>
+  <aug>
+    <au><snm>Hastie</snm><fnm>T</fnm></au>
+    <au><snm>Tibshirani</snm><fnm>R</fnm></au>
+    <au><snm>Friedman</snm><fnm>JH</fnm></au>
+  </aug>
+  <publisher>Springer, New York</publisher>
+  <pubdate>2001</pubdate>
+</bibl>
+
+<bibl id="B10">
+  <title><p>Pattern recognition and neural networks</p></title>
+  <aug>
+    <au><snm>Ripley</snm><fnm>B. D.</fnm></au>
+  </aug>
+  <publisher>Cambridge, UK: University Press</publisher>
+  <pubdate>1996</pubdate>
+</bibl>
+
+<bibl id="B11">
+  <title><p>Diagnosis of multiple cancer types by shrunken centroids of gene
+  expression</p></title>
+  <aug>
+    <au><snm>Tibshirani</snm><fnm>R</fnm></au>
+    <au><snm>Hastie</snm><fnm>T</fnm></au>
+    <au><snm>Narasimhan</snm><fnm>B</fnm></au>
+    <au><snm>Chu</snm><fnm>G</fnm></au>
+  </aug>
+  <source>PNAS</source>
+  <pubdate>2002</pubdate>
+  <volume>99</volume>
+  <issue>10</issue>
+  <fpage>6567</fpage>
+  <lpage>-6572</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.082099299</url>
+</bibl>
+
+<bibl id="B12">
+  <title><p>A comprehensive evaluation of multicategory classification methods
+  for microarray gene expression cancer diagnosis.</p></title>
+  <aug>
+    <au><snm>Statnikov</snm><fnm>A</fnm></au>
+    <au><snm>Aliferis</snm><fnm>CF</fnm></au>
+    <au><snm>Tsamardinos</snm><fnm>I</fnm></au>
+    <au><snm>Hardin</snm><fnm>D</fnm></au>
+    <au><snm>Levy</snm><fnm>S</fnm></au>
+  </aug>
+  <source>Bioinformatics</source>
+  <pubdate>2005</pubdate>
+  <volume>21</volume>
+  <issue>5</issue>
+  <fpage>631</fpage>
+  <lpage>-643</lpage>
+  <url>http://dx.doi.org/10.1093/bioinformatics/bti033</url>
+</bibl>
+
+<bibl id="B13">
+  <title><p>On the complexity of gene expression classification data
+  sets</p></title>
+  <aug>
+    <au><snm>Lorena</snm><fnm>A. C.</fnm></au>
+    <au><snm>Costa</snm><fnm>I. G.</fnm></au>
+    <au><snm>Souto</snm><fnm>M. C. P.</fnm></au>
+  </aug>
+  <source>Proc. of the 8th International Conference on Hybrid Intelligent
+  Systems</source>
+  <publisher>IEEE Computer Society</publisher>
+  <pubdate>2008</pubdate>
+  <fpage>825</fpage>
+  <lpage>830</lpage>
+</bibl>
+
+<bibl id="B14">
+  <title><p>NCBI GEO: mining tens of millions of expression profiles--database
+  and tools update.</p></title>
+  <aug>
+    <au><snm>Barrett</snm><fnm>T.</fnm></au>
+    <au><snm>Troup</snm><fnm>D. B.</fnm></au>
+    <au><snm>Wilhite</snm><fnm>S. E.</fnm></au>
+    <au><snm>Ledoux</snm><fnm>P.</fnm></au>
+    <au><snm>Rudnev</snm><fnm>D.</fnm></au>
+    <au><snm>Evangelista</snm><fnm>C.</fnm></au>
+    <au><snm>Kim</snm><fnm>I. F.</fnm></au>
+    <au><snm>Soboleva</snm><fnm>A.</fnm></au>
+    <au><snm>Tomashevsky</snm><fnm>M.</fnm></au>
+    <au><snm>Edgar</snm><fnm>R.</fnm></au>
+  </aug>
+  <source>Nucleic Acids Res</source>
+  <publisher>National Center for Biotechnology Information, National Library of
+  Medicine, National Institutes of Health 45 Center Drive, Bethesda, MD 20892,
+  USA.</publisher>
+  <pubdate>2007</pubdate>
+  <volume>35</volume>
+  <issue>Database issue</issue>
+  <url>http://view.ncbi.nlm.nih.gov/pubmed/17099226</url>
+</bibl>
+
+<bibl id="B15">
+  <title><p>Clustering cancer gene expression data: a comparative
+  study.</p></title>
+  <aug>
+    <au><snm>Souto</snm><fnm>MCP</fnm></au>
+    <au><snm>Costa</snm><fnm>IG</fnm></au>
+    <au><snm>Araujo</snm><fnm>DSA</fnm></au>
+    <au><snm>Ludermir</snm><fnm>TB</fnm></au>
+    <au><snm>Schliep</snm><fnm>A</fnm></au>
+  </aug>
+  <source>BMC Bioinformatics</source>
+  <pubdate>2008</pubdate>
+  <volume>9</volume>
+  <url>http://dblp.uni-trier.de/db/journals/bmcbi/bmcbi9.html#SoutoCALS08</url>
+</bibl>
+
+<bibl id="B16">
+  <title><p>A Hybrid Approach for Biomarker Discovery from Microarray Gene
+  Expression Data for Cancer Classification</p></title>
+  <aug>
+    <au><snm>Yanxiong Peng</snm><fnm>WL</fnm></au>
+    <au><snm>Liu</snm><fnm>Y</fnm></au>
+  </aug>
+  <source>Cancer Inform</source>
+  <pubdate>2002</pubdate>
+  <volume>2</volume>
+  <fpage>301</fpage>
+  <lpage>-311</lpage>
+</bibl>
+
+<bibl id="B17">
+  <title><p>Data Mining: Practical machine learning tools and
+  techniques</p></title>
+  <aug>
+    <au><snm>Witten</snm><fnm>I. H.</fnm></au>
+    <au><snm>Frank</snm><fnm>E.</fnm></au>
+  </aug>
+  <publisher>Morgan Kaufmann</publisher>
+  <edition>2</edition>
+  <pubdate>2005</pubdate>
+</bibl>
+
+<bibl id="B18">
+  <title><p>Pattern Classifier Design by Linear Programming</p></title>
+  <aug>
+    <au><snm>Smith</snm><fnm>F.W.</fnm></au>
+  </aug>
+  <source>IEEE Transactions on Computers</source>
+  <publisher>Los Alamitos, CA, USA: IEEE Computer Society</publisher>
+  <pubdate>1968</pubdate>
+  <volume>17</volume>
+  <issue>4</issue>
+  <fpage>367</fpage>
+  <lpage>372</lpage>
+</bibl>
+
+<bibl id="B19">
+  <title><p>Multivariate generalization of the Wald-Wolfowitz and Smirnov
+  two-sample tests</p></title>
+  <aug>
+    <au><snm>Friedman</snm><fnm>H.</fnm></au>
+    <au><snm>Rafsky</snm><fnm>L. C.</fnm></au>
+  </aug>
+  <source>Ann. Statist.</source>
+  <pubdate>1979</pubdate>
+  <volume>7</volume>
+  <fpage>697</fpage>
+  <lpage>717</lpage>
+</bibl>
+
+<bibl id="B20">
+  <title><p>MLL translocations specify a distinct gene expression profile that
+  distinguishes a unique leukemia.</p></title>
+  <aug>
+    <au><snm>Armstrong</snm><fnm>SA</fnm></au>
+    <au><snm>Staunton</snm><fnm>JE</fnm></au>
+    <au><snm>Silverman</snm><fnm>LB</fnm></au>
+    <au><snm>Pieters</snm><fnm>R</fnm></au>
+    <au><snm>Boer</snm><fnm>ML</fnm></au>
+    <au><snm>Minden</snm><fnm>MD</fnm></au>
+    <au><snm>Sallan</snm><fnm>SE</fnm></au>
+    <au><snm>Lander</snm><fnm>ES</fnm></au>
+    <au><snm>Golub</snm><fnm>TR</fnm></au>
+    <au><snm>Korsmeyer</snm><fnm>SJ</fnm></au>
+  </aug>
+  <source>Nat Genet</source>
+  <pubdate>2002</pubdate>
+  <volume>30</volume>
+  <issue>1</issue>
+  <fpage>41</fpage>
+  <lpage>-47</lpage>
+  <url>http://dx.doi.org/10.1038/ng765</url>
+</bibl>
+
+<bibl id="B21">
+  <title><p>Classification of human lung carcinomas by mRNA expression
+  profiling reveals distinct adenocarcinoma subclasses.</p></title>
+  <aug>
+    <au><snm>Bhattacharjee</snm><fnm>A.</fnm></au>
+    <au><snm>Richards</snm><fnm>W. G.</fnm></au>
+    <au><snm>Staunton</snm><fnm>J.</fnm></au>
+    <au><snm>Li</snm><fnm>C.</fnm></au>
+    <au><snm>Monti</snm><fnm>S.</fnm></au>
+    <au><snm>Vasa</snm><fnm>P.</fnm></au>
+    <au><snm>Ladd</snm><fnm>C.</fnm></au>
+    <au><snm>Beheshti</snm><fnm>J.</fnm></au>
+    <au><snm>Bueno</snm><fnm>R.</fnm></au>
+    <au><snm>Gillette</snm><fnm>M.</fnm></au>
+    <au><snm>Loda</snm><fnm>M.</fnm></au>
+    <au><snm>Weber</snm><fnm>G.</fnm></au>
+    <au><snm>Mark</snm><fnm>E. J.</fnm></au>
+    <au><snm>Lander</snm><fnm>E. S.</fnm></au>
+    <au><snm>Wong</snm><fnm>W.</fnm></au>
+    <au><snm>Johnson</snm><fnm>B. E.</fnm></au>
+    <au><snm>Golub</snm><fnm>T. R.</fnm></au>
+    <au><snm>Sugarbaker</snm><fnm>D. J.</fnm></au>
+    <au><snm>Meyerson</snm><fnm>M.</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci U S A</source>
+  <pubdate>2001</pubdate>
+  <volume>98</volume>
+  <issue>24</issue>
+  <fpage>13790</fpage>
+  <lpage>-13795</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.191502998</url>
+</bibl>
+
+<bibl id="B22">
+  <title><p>Prognostic gene expression signatures can be measured in tissues
+  collected in RNAlater preservative.</p></title>
+  <aug>
+    <au><snm>Chowdary</snm><fnm>D</fnm></au>
+    <au><snm>Lathrop</snm><fnm>J</fnm></au>
+    <au><snm>Skelton</snm><fnm>J</fnm></au>
+    <au><snm>Curtin</snm><fnm>K</fnm></au>
+    <au><snm>Briggs</snm><fnm>T</fnm></au>
+    <au><snm>Zhang</snm><fnm>Y</fnm></au>
+    <au><snm>Yu</snm><fnm>J</fnm></au>
+    <au><snm>Wang</snm><fnm>Y</fnm></au>
+    <au><snm>Mazumder</snm><fnm>A</fnm></au>
+  </aug>
+  <source>J Mol Diagn</source>
+  <pubdate>2006</pubdate>
+  <volume>8</volume>
+  <issue>1</issue>
+  <fpage>31</fpage>
+  <lpage>-39</lpage>
+</bibl>
+
+<bibl id="B23">
+  <title><p>Identifying distinct classes of bladder carcinoma using
+  microarrays.</p></title>
+  <aug>
+    <au><snm>Dyrskjot</snm><fnm>L</fnm></au>
+    <au><snm>Thykjaer</snm><fnm>T</fnm></au>
+    <au><snm>Kruh0ffer</snm><fnm>M</fnm></au>
+    <au><snm>Jensen</snm><fnm>JL</fnm></au>
+    <au><snm>Marcussen</snm><fnm>N</fnm></au>
+    <au><snm>Hamilton Dutoit</snm><fnm>S</fnm></au>
+    <au><snm>Wolf</snm><fnm>H</fnm></au>
+    <au><snm>Orntoft</snm><fnm>TF</fnm></au>
+  </aug>
+  <source>Nat Genet</source>
+  <pubdate>2003</pubdate>
+  <volume>33</volume>
+  <issue>1</issue>
+  <fpage>90</fpage>
+  <lpage>-96</lpage>
+  <url>http://dx.doi.org/10.1038/ng1061</url>
+</bibl>
+
+<bibl id="B24">
+  <title><p>Molecular classification of cancer: class discovery and class
+  prediction by gene expression monitoring.</p></title>
+  <aug>
+    <au><snm>Golub</snm><fnm>T. R.</fnm></au>
+    <au><snm>Slonim</snm><fnm>D. K.</fnm></au>
+    <au><snm>Tamayo</snm><fnm>P.</fnm></au>
+    <au><snm>Huard</snm><fnm>C.</fnm></au>
+    <au><snm>Gaasenbeek</snm><fnm>M.</fnm></au>
+    <au><snm>Mesirov</snm><fnm>J. P.</fnm></au>
+    <au><snm>Coller</snm><fnm>H.</fnm></au>
+    <au><snm>Loh</snm><fnm>M. L.</fnm></au>
+    <au><snm>Downing</snm><fnm>J. R.</fnm></au>
+    <au><snm>Caligiuri</snm><fnm>M. A.</fnm></au>
+    <au><snm>Bloomfield</snm><fnm>C. D.</fnm></au>
+    <au><snm>Lander</snm><fnm>E. S.</fnm></au>
+  </aug>
+  <source>Science</source>
+  <pubdate>1999</pubdate>
+  <volume>286</volume>
+  <issue>5439</issue>
+  <fpage>531</fpage>
+  <lpage>-537</lpage>
+</bibl>
+
+<bibl id="B25">
+  <title><p>Translation of microarray data into clinically relevant cancer
+  diagnostic tests using gene expression ratios in lung cancer and
+  mesothelioma.</p></title>
+  <aug>
+    <au><snm>Gordon</snm><fnm>GJ</fnm></au>
+    <au><snm>Jensen</snm><fnm>RV</fnm></au>
+    <au><snm>Hsiao</snm><fnm>LL</fnm></au>
+    <au><snm>Gullans</snm><fnm>SR</fnm></au>
+    <au><snm>Blumenstock</snm><fnm>JE</fnm></au>
+    <au><snm>Ramaswamy</snm><fnm>S</fnm></au>
+    <au><snm>Richards</snm><fnm>WG</fnm></au>
+    <au><snm>Sugarbaker</snm><fnm>DJ</fnm></au>
+    <au><snm>Bueno</snm><fnm>R</fnm></au>
+  </aug>
+  <source>Cancer Res</source>
+  <pubdate>2002</pubdate>
+  <volume>62</volume>
+  <issue>17</issue>
+  <fpage>4963</fpage>
+  <lpage>-4967</lpage>
+</bibl>
+
+<bibl id="B26">
+  <title><p>Serrated carcinomas form a subclass of colorectal cancer with
+  distinct molecular basis.</p></title>
+  <aug>
+    <au><snm>Laiho</snm><fnm>P.</fnm></au>
+    <au><snm>Kokko</snm><fnm>A.</fnm></au>
+    <au><snm>Vanharanta</snm><fnm>S.</fnm></au>
+    <au><snm>Salovaara</snm><fnm>R.</fnm></au>
+    <au><snm>Sammalkorpi</snm><fnm>H.</fnm></au>
+    <au><snm>Jarvinen</snm><fnm>H.</fnm></au>
+    <au><snm>Mecklin</snm><fnm>J P.</fnm></au>
+    <au><snm>Karttunen</snm><fnm>T. J.</fnm></au>
+    <au><snm>Tuppurainen</snm><fnm>K.</fnm></au>
+    <au><snm>Davalos</snm><fnm>V.</fnm></au>
+    <au><snm>Schwartz</snm><fnm>S.</fnm></au>
+    <au><snm>Arango</snm><fnm>D.</fnm></au>
+    <au><snm>Makinen</snm><fnm>M. J.</fnm></au>
+    <au><snm>Aaltonen</snm><fnm>L. A.</fnm></au>
+  </aug>
+  <source>Oncogene</source>
+  <pubdate>2007</pubdate>
+  <volume>26</volume>
+  <issue>2</issue>
+  <fpage>312</fpage>
+  <lpage>-320</lpage>
+  <url>http://dx.doi.org/10.1038/sj.onc.1209778</url>
+</bibl>
+
+<bibl id="B27">
+  <title><p>Gene expression-based classification of malignant gliomas
+  correlates better with survival than histological classification.</p></title>
+  <aug>
+    <au><snm>Nutt</snm><fnm>CL</fnm></au>
+    <au><snm>Mani</snm><fnm>D. R.</fnm></au>
+    <au><snm>Betensky</snm><fnm>RA</fnm></au>
+    <au><snm>Tamayo</snm><fnm>P</fnm></au>
+    <au><snm>Cairncross</snm><fnm>JG</fnm></au>
+    <au><snm>Ladd</snm><fnm>C</fnm></au>
+    <au><snm>Pohl</snm><fnm>U</fnm></au>
+    <au><snm>Hartmann</snm><fnm>C</fnm></au>
+    <au><snm>McLaughlin</snm><fnm>ME</fnm></au>
+    <au><snm>Batchelor</snm><fnm>TT</fnm></au>
+    <au><snm>Black</snm><fnm>PM</fnm></au>
+    <au><snm>Deimling</snm><fnm>A</fnm></au>
+    <au><snm>Pomeroy</snm><fnm>SL</fnm></au>
+    <au><snm>Golub</snm><fnm>TR</fnm></au>
+    <au><snm>Louis</snm><fnm>DN</fnm></au>
+  </aug>
+  <source>Cancer Res</source>
+  <pubdate>2003</pubdate>
+  <volume>63</volume>
+  <issue>7</issue>
+  <fpage>1602</fpage>
+  <lpage>-1607</lpage>
+</bibl>
+
+<bibl id="B28">
+  <title><p>Prediction of central nervous system embryonal tumour outcome based
+  on gene expression.</p></title>
+  <aug>
+    <au><snm>Pomeroy</snm><fnm>SL</fnm></au>
+    <au><snm>Tamayo</snm><fnm>P</fnm></au>
+    <au><snm>Gaasenbeek</snm><fnm>M</fnm></au>
+    <au><snm>Sturla</snm><fnm>LM</fnm></au>
+    <au><snm>Angelo</snm><fnm>M</fnm></au>
+    <au><snm>McLaughlin</snm><fnm>ME</fnm></au>
+    <au><snm>Kim</snm><fnm>JYH</fnm></au>
+    <au><snm>Goumnerova</snm><fnm>LC</fnm></au>
+    <au><snm>Black</snm><fnm>PM</fnm></au>
+    <au><snm>Lau</snm><fnm>C</fnm></au>
+    <au><snm>Allen</snm><fnm>JC</fnm></au>
+    <au><snm>Zagzag</snm><fnm>D</fnm></au>
+    <au><snm>Olson</snm><fnm>JM</fnm></au>
+    <au><snm>Curran</snm><fnm>T</fnm></au>
+    <au><snm>Wetmore</snm><fnm>C</fnm></au>
+    <au><snm>Biegel</snm><fnm>JA</fnm></au>
+    <au><snm>Poggio</snm><fnm>T</fnm></au>
+    <au><snm>Mukherjee</snm><fnm>S</fnm></au>
+    <au><snm>Rifkin</snm><fnm>R</fnm></au>
+    <au><snm>Califano</snm><fnm>A</fnm></au>
+    <au><snm>Stolovitzky</snm><fnm>G</fnm></au>
+    <au><snm>Louis</snm><fnm>DN</fnm></au>
+    <au><snm>Mesirov</snm><fnm>JP</fnm></au>
+    <au><snm>Lander</snm><fnm>ES</fnm></au>
+    <au><snm>Golub</snm><fnm>TR</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <pubdate>2002</pubdate>
+  <volume>415</volume>
+  <issue>6870</issue>
+  <fpage>436</fpage>
+  <lpage>-442</lpage>
+  <url>http://dx.doi.org/10.1038/415436a</url>
+</bibl>
+
+<bibl id="B29">
+  <title><p>Multiclass cancer diagnosis using tumor gene expression
+  signatures.</p></title>
+  <aug>
+    <au><snm>Ramaswamy</snm><fnm>S.</fnm></au>
+    <au><snm>Tamayo</snm><fnm>P.</fnm></au>
+    <au><snm>Rifkin</snm><fnm>R.</fnm></au>
+    <au><snm>Mukherjee</snm><fnm>S.</fnm></au>
+    <au><snm>Yeang</snm><fnm>C. H.</fnm></au>
+    <au><snm>Angelo</snm><fnm>M.</fnm></au>
+    <au><snm>Ladd</snm><fnm>C.</fnm></au>
+    <au><snm>Reich</snm><fnm>M.</fnm></au>
+    <au><snm>Latulippe</snm><fnm>E.</fnm></au>
+    <au><snm>Mesirov</snm><fnm>J. P.</fnm></au>
+    <au><snm>Poggio</snm><fnm>T.</fnm></au>
+    <au><snm>Gerald</snm><fnm>W.</fnm></au>
+    <au><snm>Loda</snm><fnm>M.</fnm></au>
+    <au><snm>Lander</snm><fnm>E. S.</fnm></au>
+    <au><snm>Golub</snm><fnm>T. R.</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci U S A</source>
+  <pubdate>2001</pubdate>
+  <volume>98</volume>
+  <issue>26</issue>
+  <fpage>15149</fpage>
+  <lpage>-15154</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.211566398</url>
+</bibl>
+
+<bibl id="B30">
+  <title><p>Diffuse large B-cell lymphoma outcome prediction by gene-expression
+  profiling and supervised machine learning.</p></title>
+  <aug>
+    <au><snm>Shipp</snm><fnm>MA</fnm></au>
+    <au><snm>Ross</snm><fnm>KN</fnm></au>
+    <au><snm>Tamayo</snm><fnm>P</fnm></au>
+    <au><snm>Weng</snm><fnm>AP</fnm></au>
+    <au><snm>Kutok</snm><fnm>JL</fnm></au>
+    <au><snm>Aguiar</snm><fnm>RCT</fnm></au>
+    <au><snm>Gaasenbeek</snm><fnm>M</fnm></au>
+    <au><snm>Angelo</snm><fnm>M</fnm></au>
+    <au><snm>Reich</snm><fnm>M</fnm></au>
+    <au><snm>Pinkus</snm><fnm>GS</fnm></au>
+    <au><snm>Ray</snm><fnm>TS</fnm></au>
+    <au><snm>Koval</snm><fnm>MA</fnm></au>
+    <au><snm>Last</snm><fnm>KW</fnm></au>
+    <au><snm>Norton</snm><fnm>A</fnm></au>
+    <au><snm>Lister</snm><fnm>TA</fnm></au>
+    <au><snm>Mesirov</snm><fnm>J</fnm></au>
+    <au><snm>Neuberg</snm><fnm>DS</fnm></au>
+    <au><snm>Lander</snm><fnm>ES</fnm></au>
+    <au><snm>Aster</snm><fnm>JC</fnm></au>
+    <au><snm>Golub</snm><fnm>TR</fnm></au>
+  </aug>
+  <source>Nat Med</source>
+  <pubdate>2002</pubdate>
+  <volume>8</volume>
+  <issue>1</issue>
+  <fpage>68</fpage>
+  <lpage>-74</lpage>
+  <url>http://dx.doi.org/10.1038/nm0102-68</url>
+</bibl>
+
+<bibl id="B31">
+  <title><p>Gene expression correlates of clinical prostate cancer
+  behavior.</p></title>
+  <aug>
+    <au><snm>Singh</snm><fnm>D</fnm></au>
+    <au><snm>Febbo</snm><fnm>PG</fnm></au>
+    <au><snm>Ross</snm><fnm>K</fnm></au>
+    <au><snm>Jackson</snm><fnm>DG</fnm></au>
+    <au><snm>Manola</snm><fnm>J</fnm></au>
+    <au><snm>Ladd</snm><fnm>C</fnm></au>
+    <au><snm>Tamayo</snm><fnm>P</fnm></au>
+    <au><snm>Renshaw</snm><fnm>AA</fnm></au>
+    <au><snm>D'Amico</snm><fnm>AV</fnm></au>
+    <au><snm>Richie</snm><fnm>JP</fnm></au>
+    <au><snm>Lander</snm><fnm>ES</fnm></au>
+    <au><snm>Loda</snm><fnm>M</fnm></au>
+    <au><snm>Kantoff</snm><fnm>PW</fnm></au>
+    <au><snm>Golub</snm><fnm>TR</fnm></au>
+    <au><snm>Sellers</snm><fnm>WR</fnm></au>
+  </aug>
+  <source>Cancer Cell</source>
+  <pubdate>2002</pubdate>
+  <volume>1</volume>
+  <issue>2</issue>
+  <fpage>203</fpage>
+  <lpage>-209</lpage>
+</bibl>
+
+<bibl id="B32">
+  <title><p>Molecular classification of human carcinomas by use of gene
+  expression signatures.</p></title>
+  <aug>
+    <au><snm>Su</snm><fnm>A. I.</fnm></au>
+    <au><snm>Welsh</snm><fnm>J. B.</fnm></au>
+    <au><snm>Sapinoso</snm><fnm>L. M.</fnm></au>
+    <au><snm>Kern</snm><fnm>S. G.</fnm></au>
+    <au><snm>Dimitrov</snm><fnm>P.</fnm></au>
+    <au><snm>Lapp</snm><fnm>H.</fnm></au>
+    <au><snm>Schultz</snm><fnm>P. G.</fnm></au>
+    <au><snm>Powell</snm><fnm>S. M.</fnm></au>
+    <au><snm>Moskaluk</snm><fnm>C. A.</fnm></au>
+    <au><snm>Frierson</snm><fnm>H. F.</fnm></au>
+    <au><snm>Hampton</snm><fnm>G. M.</fnm></au>
+  </aug>
+  <source>Cancer Res</source>
+  <pubdate>2001</pubdate>
+  <volume>61</volume>
+  <issue>20</issue>
+  <fpage>7388</fpage>
+  <lpage>-7393</lpage>
+</bibl>
+
+<bibl id="B33">
+  <title><p>Predicting the clinical status of human breast cancer by using gene
+  expression profiles.</p></title>
+  <aug>
+    <au><snm>West</snm><fnm>M.</fnm></au>
+    <au><snm>Blanchette</snm><fnm>C.</fnm></au>
+    <au><snm>Dressman</snm><fnm>H.</fnm></au>
+    <au><snm>Huang</snm><fnm>E.</fnm></au>
+    <au><snm>Ishida</snm><fnm>S.</fnm></au>
+    <au><snm>Spang</snm><fnm>R.</fnm></au>
+    <au><snm>Zuzan</snm><fnm>H.</fnm></au>
+    <au><snm>Olson</snm><fnm>J. A.</fnm></au>
+    <au><snm>Marks</snm><fnm>J. R.</fnm></au>
+    <au><snm>Nevins</snm><fnm>J. R.</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci U S A</source>
+  <pubdate>2001</pubdate>
+  <volume>98</volume>
+  <issue>20</issue>
+  <fpage>11462</fpage>
+  <lpage>-11467</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.201162998</url>
+</bibl>
+
+<bibl id="B34">
+  <title><p>Classification, subtype discovery, and prediction of outcome in
+  pediatric acute lymphoblastic leukemia by gene expression
+  profiling.</p></title>
+  <aug>
+    <au><snm>Yeoh</snm><fnm>EJ</fnm></au>
+    <au><snm>Ross</snm><fnm>ME</fnm></au>
+    <au><snm>Shurtleff</snm><fnm>SA</fnm></au>
+    <au><snm>Williams</snm><fnm>WK</fnm></au>
+    <au><snm>Patel</snm><fnm>D</fnm></au>
+    <au><snm>Mahfouz</snm><fnm>R</fnm></au>
+    <au><snm>Behm</snm><fnm>FG</fnm></au>
+    <au><snm>Raimondi</snm><fnm>SC</fnm></au>
+    <au><snm>Relling</snm><fnm>MV</fnm></au>
+    <au><snm>Patel</snm><fnm>A</fnm></au>
+    <au><snm>Cheng</snm><fnm>C</fnm></au>
+    <au><snm>Campana</snm><fnm>D</fnm></au>
+    <au><snm>Wilkins</snm><fnm>D</fnm></au>
+    <au><snm>Zhou</snm><fnm>X</fnm></au>
+    <au><snm>Li</snm><fnm>J</fnm></au>
+    <au><snm>Liu</snm><fnm>H</fnm></au>
+    <au><snm>Pui</snm><fnm>CH</fnm></au>
+    <au><snm>Evans</snm><fnm>WE</fnm></au>
+    <au><snm>Naeve</snm><fnm>C</fnm></au>
+    <au><snm>Wong</snm><fnm>L</fnm></au>
+    <au><snm>Downing</snm><fnm>JR</fnm></au>
+  </aug>
+  <source>Cancer Cell</source>
+  <pubdate>2002</pubdate>
+  <volume>1</volume>
+  <issue>2</issue>
+  <fpage>133</fpage>
+  <lpage>-143</lpage>
+</bibl>
+
+<bibl id="B35">
+  <title><p>Distinct types of diffuse large B-cell lymphoma identified by gene
+  expression profiling.</p></title>
+  <aug>
+    <au><snm>Alizadeh</snm><fnm>A. A.</fnm></au>
+    <au><snm>Eisen</snm><fnm>M. B.</fnm></au>
+    <au><snm>Davis</snm><fnm>R. E.</fnm></au>
+    <au><snm>Ma</snm><fnm>C.</fnm></au>
+    <au><snm>Lossos</snm><fnm>I. S.</fnm></au>
+    <au><snm>Rosenwald</snm><fnm>A.</fnm></au>
+    <au><snm>Boldrick</snm><fnm>J. C.</fnm></au>
+    <au><snm>Sabet</snm><fnm>H.</fnm></au>
+    <au><snm>Tran</snm><fnm>T.</fnm></au>
+    <au><snm>Yu</snm><fnm>X.</fnm></au>
+    <au><snm>Powell</snm><fnm>J. I.</fnm></au>
+    <au><snm>Yang</snm><fnm>L.</fnm></au>
+    <au><snm>Marti</snm><fnm>G. E.</fnm></au>
+    <au><snm>Moore</snm><fnm>T.</fnm></au>
+    <au><snm>Hudson</snm><fnm>J.</fnm></au>
+    <au><snm>Lu</snm><fnm>L.</fnm></au>
+    <au><snm>Lewis</snm><fnm>D. B.</fnm></au>
+    <au><snm>Tibshirani</snm><fnm>R.</fnm></au>
+    <au><snm>Sherlock</snm><fnm>G.</fnm></au>
+    <au><snm>Chan</snm><fnm>W. C.</fnm></au>
+    <au><snm>Greiner</snm><fnm>T. C.</fnm></au>
+    <au><snm>Weisenburger</snm><fnm>D. D.</fnm></au>
+    <au><snm>Armitage</snm><fnm>J. O.</fnm></au>
+    <au><snm>Warnke</snm><fnm>R.</fnm></au>
+    <au><snm>Levy</snm><fnm>R.</fnm></au>
+    <au><snm>Wilson</snm><fnm>W.</fnm></au>
+    <au><snm>Grever</snm><fnm>M. R.</fnm></au>
+    <au><snm>Byrd</snm><fnm>J. C.</fnm></au>
+    <au><snm>Botstein</snm><fnm>D.</fnm></au>
+    <au><snm>Brown</snm><fnm>P. O.</fnm></au>
+    <au><snm>Staudt</snm><fnm>L. M.</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <pubdate>2000</pubdate>
+  <volume>403</volume>
+  <issue>6769</issue>
+  <fpage>503</fpage>
+  <lpage>-511</lpage>
+  <url>http://dx.doi.org/10.1038/35000501</url>
+</bibl>
+
+<bibl id="B36">
+  <title><p>Molecular classification of cutaneous malignant melanoma by gene
+  expression profiling.</p></title>
+  <aug>
+    <au><snm>Bittner</snm><fnm>M.</fnm></au>
+    <au><snm>Meltzer</snm><fnm>P.</fnm></au>
+    <au><snm>Chen</snm><fnm>Y.</fnm></au>
+    <au><snm>Jiang</snm><fnm>Y.</fnm></au>
+    <au><snm>Seftor</snm><fnm>E.</fnm></au>
+    <au><snm>Hendrix</snm><fnm>M.</fnm></au>
+    <au><snm>Radmacher</snm><fnm>M.</fnm></au>
+    <au><snm>Simon</snm><fnm>R.</fnm></au>
+    <au><snm>Yakhini</snm><fnm>Z.</fnm></au>
+    <au><snm>Ben Dor</snm><fnm>A.</fnm></au>
+    <au><snm>Sampas</snm><fnm>N.</fnm></au>
+    <au><snm>Dougherty</snm><fnm>E.</fnm></au>
+    <au><snm>Wang</snm><fnm>E.</fnm></au>
+    <au><snm>Marincola</snm><fnm>F.</fnm></au>
+    <au><snm>Gooden</snm><fnm>C.</fnm></au>
+    <au><snm>Lueders</snm><fnm>J.</fnm></au>
+    <au><snm>Glatfelter</snm><fnm>A.</fnm></au>
+    <au><snm>Pollock</snm><fnm>P.</fnm></au>
+    <au><snm>Carpten</snm><fnm>J.</fnm></au>
+    <au><snm>Gillanders</snm><fnm>E.</fnm></au>
+    <au><snm>Leja</snm><fnm>D.</fnm></au>
+    <au><snm>Dietrich</snm><fnm>K.</fnm></au>
+    <au><snm>Beaudry</snm><fnm>C.</fnm></au>
+    <au><snm>Berens</snm><fnm>M.</fnm></au>
+    <au><snm>Alberts</snm><fnm>D.</fnm></au>
+    <au><snm>Sondak</snm><fnm>V.</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <pubdate>2000</pubdate>
+  <volume>406</volume>
+  <issue>6795</issue>
+  <fpage>536</fpage>
+  <lpage>-540</lpage>
+  <url>http://dx.doi.org/10.1038/35020115</url>
+</bibl>
+
+<bibl id="B37">
+  <title><p>Functional network analysis reveals extended gliomagenesis pathway
+  maps and three novel MYC-interacting genes in human gliomas.</p></title>
+  <aug>
+    <au><snm>Bredel</snm><fnm>M</fnm></au>
+    <au><snm>Bredel</snm><fnm>C</fnm></au>
+    <au><snm>Juric</snm><fnm>D</fnm></au>
+    <au><snm>Harsh</snm><fnm>GR</fnm></au>
+    <au><snm>Vogel</snm><fnm>H</fnm></au>
+    <au><snm>Recht</snm><fnm>LD</fnm></au>
+    <au><snm>Sikic</snm><fnm>BI</fnm></au>
+  </aug>
+  <source>Cancer Res</source>
+  <pubdate>2005</pubdate>
+  <volume>65</volume>
+  <issue>19</issue>
+  <fpage>8679</fpage>
+  <lpage>-8689</lpage>
+  <url>http://dx.doi.org/10.1158/0008-5472.CAN-05-1204</url>
+</bibl>
+
+<bibl id="B38">
+  <title><p>Gene Expression Patterns in Human Liver Cancers</p></title>
+  <aug>
+    <au><snm>Chen</snm><fnm>X</fnm></au>
+    <au><snm>Cheung</snm><fnm>ST</fnm></au>
+    <au><snm>So</snm><fnm>S</fnm></au>
+    <au><snm>Fan</snm><fnm>ST</fnm></au>
+    <au><snm>Barry</snm><fnm>C</fnm></au>
+    <au><snm>Higgins</snm><fnm>J</fnm></au>
+    <au><snm>Lai</snm><fnm>KM</fnm></au>
+    <au><snm>Ji</snm><fnm>J</fnm></au>
+    <au><snm>Dudoit</snm><fnm>S</fnm></au>
+    <au><snm>Ng</snm><fnm>IO</fnm></au>
+    <au><snm>Rijn</snm><fnm>M</fnm></au>
+    <au><snm>Botstein</snm><fnm>D</fnm></au>
+    <au><snm>Brown</snm><fnm>PO</fnm></au>
+  </aug>
+  <source>Mol. Biol. Cell</source>
+  <pubdate>2002</pubdate>
+  <volume>13</volume>
+  <issue>6</issue>
+  <fpage>1929</fpage>
+  <lpage>1939</lpage>
+  <url>http://www.molbiolcell.org/cgi/content/abstract/13/6/1929</url>
+</bibl>
+
+<bibl id="B39">
+  <title><p>Diversity of gene expression in adenocarcinoma of the
+  lung.</p></title>
+  <aug>
+    <au><snm>Garber</snm><fnm>M. E.</fnm></au>
+    <au><snm>Troyanskaya</snm><fnm>O. G.</fnm></au>
+    <au><snm>Schluens</snm><fnm>K.</fnm></au>
+    <au><snm>Petersen</snm><fnm>S.</fnm></au>
+    <au><snm>Thaesler</snm><fnm>Z.</fnm></au>
+    <au><snm>Pacyna Gengelbach</snm><fnm>M.</fnm></au>
+    <au><snm>Rijn</snm><fnm>M.</fnm></au>
+    <au><snm>Rosen</snm><fnm>G. D.</fnm></au>
+    <au><snm>Perou</snm><fnm>C. M.</fnm></au>
+    <au><snm>Whyte</snm><fnm>R. I.</fnm></au>
+    <au><snm>Altman</snm><fnm>R. B.</fnm></au>
+    <au><snm>Brown</snm><fnm>P. O.</fnm></au>
+    <au><snm>Botstein</snm><fnm>D.</fnm></au>
+    <au><snm>Petersen</snm><fnm>I.</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci U S A</source>
+  <pubdate>2001</pubdate>
+  <volume>98</volume>
+  <issue>24</issue>
+  <fpage>13784</fpage>
+  <lpage>-13789</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.241500798</url>
+</bibl>
+
+<bibl id="B40">
+  <title><p>Classification and diagnostic prediction of cancers using gene
+  expression profiling and artificial neural networks.</p></title>
+  <aug>
+    <au><snm>Khan</snm><fnm>J.</fnm></au>
+    <au><snm>Wei</snm><fnm>J. S.</fnm></au>
+    <au><snm>Ringner</snm><fnm>M.</fnm></au>
+    <au><snm>Saal</snm><fnm>L. H.</fnm></au>
+    <au><snm>Ladanyi</snm><fnm>M.</fnm></au>
+    <au><snm>Westermann</snm><fnm>F.</fnm></au>
+    <au><snm>Berthold</snm><fnm>F.</fnm></au>
+    <au><snm>Schwab</snm><fnm>M.</fnm></au>
+    <au><snm>Antonescu</snm><fnm>C. R.</fnm></au>
+    <au><snm>Peterson</snm><fnm>C.</fnm></au>
+    <au><snm>Meltzer</snm><fnm>P. S.</fnm></au>
+  </aug>
+  <source>Nat Med</source>
+  <pubdate>2001</pubdate>
+  <volume>7</volume>
+  <issue>6</issue>
+  <fpage>673</fpage>
+  <lpage>-679</lpage>
+  <url>http://dx.doi.org/10.1038/89044</url>
+</bibl>
+
+<bibl id="B41">
+  <title><p>Gene expression profiling identifies clinically relevant subtypes
+  of prostate cancer.</p></title>
+  <aug>
+    <au><snm>Lapointe</snm><fnm>J</fnm></au>
+    <au><snm>Li</snm><fnm>C</fnm></au>
+    <au><snm>Higgins</snm><fnm>JP</fnm></au>
+    <au><snm>Rijn</snm><fnm>M</fnm></au>
+    <au><snm>Bair</snm><fnm>E</fnm></au>
+    <au><snm>Montgomery</snm><fnm>K</fnm></au>
+    <au><snm>Ferrari</snm><fnm>M</fnm></au>
+    <au><snm>Egevad</snm><fnm>L</fnm></au>
+    <au><snm>Rayford</snm><fnm>W</fnm></au>
+    <au><snm>Bergerheim</snm><fnm>U</fnm></au>
+    <au><snm>Ekman</snm><fnm>P</fnm></au>
+    <au><snm>DeMarzo</snm><fnm>AM</fnm></au>
+    <au><snm>Tibshirani</snm><fnm>R</fnm></au>
+    <au><snm>Botstein</snm><fnm>D</fnm></au>
+    <au><snm>Brown</snm><fnm>PO</fnm></au>
+    <au><snm>Brooks</snm><fnm>JD</fnm></au>
+    <au><snm>Pollack</snm><fnm>JR</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci U S A</source>
+  <pubdate>2004</pubdate>
+  <volume>101</volume>
+  <issue>3</issue>
+  <fpage>811</fpage>
+  <lpage>-816</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.0304146101</url>
+</bibl>
+
+<bibl id="B42">
+  <title><p>Gene expression profiling reveals molecularly and clinically
+  distinct subtypes of glioblastoma multiforme.</p></title>
+  <aug>
+    <au><snm>Liang</snm><fnm>Y</fnm></au>
+    <au><snm>Diehn</snm><fnm>M</fnm></au>
+    <au><snm>Watson</snm><fnm>N</fnm></au>
+    <au><snm>Bollen</snm><fnm>AW</fnm></au>
+    <au><snm>Aldape</snm><fnm>KD</fnm></au>
+    <au><snm>Nicholas</snm><fnm>MK</fnm></au>
+    <au><snm>Lamborn</snm><fnm>KR</fnm></au>
+    <au><snm>Berger</snm><fnm>MS</fnm></au>
+    <au><snm>Botstein</snm><fnm>D</fnm></au>
+    <au><snm>Brown</snm><fnm>PO</fnm></au>
+    <au><snm>Israel</snm><fnm>MA</fnm></au>
+  </aug>
+  <source>Proc Natl Acad Sci U S A</source>
+  <pubdate>2005</pubdate>
+  <volume>102</volume>
+  <issue>16</issue>
+  <fpage>5814</fpage>
+  <lpage>-5819</lpage>
+  <url>http://dx.doi.org/10.1073/pnas.0402870102</url>
+</bibl>
+
+<bibl id="B43">
+  <title><p>Microarray analysis reveals distinct gene expression profiles among
+  different histologic types of endometrial cancer.</p></title>
+  <aug>
+    <au><snm>Risinger</snm><fnm>JI</fnm></au>
+    <au><snm>Maxwell</snm><fnm>GL</fnm></au>
+    <au><snm>Chandramouli</snm><fnm>G. V R</fnm></au>
+    <au><snm>Jazaeri</snm><fnm>A</fnm></au>
+    <au><snm>Aprelikova</snm><fnm>O</fnm></au>
+    <au><snm>Patterson</snm><fnm>T</fnm></au>
+    <au><snm>Berchuck</snm><fnm>A</fnm></au>
+    <au><snm>Barrett</snm><fnm>JC</fnm></au>
+  </aug>
+  <source>Cancer Res</source>
+  <pubdate>2003</pubdate>
+  <volume>63</volume>
+  <issue>1</issue>
+  <fpage>6</fpage>
+  <lpage>-11</lpage>
+</bibl>
+
+<bibl id="B44">
+  <title><p>Integrative molecular concept modeling of prostate cancer
+  progression.</p></title>
+  <aug>
+    <au><snm>Tomlins</snm><fnm>SA</fnm></au>
+    <au><snm>Mehra</snm><fnm>R</fnm></au>
+    <au><snm>Rhodes</snm><fnm>DR</fnm></au>
+    <au><snm>Cao</snm><fnm>X</fnm></au>
+    <au><snm>Wang</snm><fnm>L</fnm></au>
+    <au><snm>Dhanasekaran</snm><fnm>SM</fnm></au>
+    <au><snm>Kalyana Sundaram</snm><fnm>S</fnm></au>
+    <au><snm>Wei</snm><fnm>JT</fnm></au>
+    <au><snm>Rubin</snm><fnm>MA</fnm></au>
+    <au><snm>Pienta</snm><fnm>KJ</fnm></au>
+    <au><snm>Shah</snm><fnm>RB</fnm></au>
+    <au><snm>Chinnaiyan</snm><fnm>AM</fnm></au>
+  </aug>
+  <source>Nat Genet</source>
+  <pubdate>2007</pubdate>
+  <volume>39</volume>
+  <issue>1</issue>
+  <fpage>41</fpage>
+  <lpage>-51</lpage>
+  <url>http://dx.doi.org/10.1038/ng1935</url>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment

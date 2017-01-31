@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svnroot/pymix/!svn/ver/2
+END
+test_dim2.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/pymix/!svn/ver/1/test_dim2.py
+END
+plotMixture.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/pymix/!svn/ver/1/plotMixture.py
+END
+test_dim4.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/pymix/!svn/ver/1/test_dim4.py
+END
+test_mixture.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/pymix/!svn/ver/1/test_mixture.py
+END
+mixture.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/pymix/!svn/ver/1/mixture.py
+END
+mixtureHMM.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/pymix/!svn/ver/1/mixtureHMM.py
+END
+plotmix.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/pymix/!svn/ver/1/plotmix.m
+END
+mix.m
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svnroot/pymix/!svn/ver/1/mix.m
+END
+test_dtree.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/pymix/!svn/ver/1/test_dtree.py
+END
+setPartitions.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/pymix/!svn/ver/1/setPartitions.py
+END
+mixtureBinomial.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/pymix/!svn/ver/1/mixtureBinomial.py
+END
+test_tilt.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/pymix/!svn/ver/1/test_tilt.py
+END
+TabDataSet.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/pymix/!svn/ver/2/TabDataSet.py
+END
+mixtureTools.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/pymix/!svn/ver/2/mixtureTools.py
+END
+test_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/pymix/!svn/ver/1/test_file.py
+END
+fullEnumerationExhaustive.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/pymix/!svn/ver/1/fullEnumerationExhaustive.py
+END
+alphabet.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/pymix/!svn/ver/1/alphabet.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/pymix/!svn/ver/1/MANIFEST.in
+END
+test.R
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svnroot/pymix/!svn/ver/1/test.R
+END
+test_datareader.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/pymix/!svn/ver/1/test_datareader.py
+END
+struct_eval.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/pymix/!svn/ver/1/struct_eval.py
+END
+test_dim3.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/pymix/!svn/ver/1/test_dim3.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/pymix/!svn/ver/1/setup.py
+END
+C_mixextend.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/pymix/!svn/ver/1/C_mixextend.c
+END
+AminoAcidPropertyPrior.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/pymix/!svn/ver/1/AminoAcidPropertyPrior.py
+END
+unittestlineargaussian.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/pymix/!svn/ver/2/unittestlineargaussian.py
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svnroot/pymix/!svn/ver/1/test.txt
+END
+C_mixextend.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/pymix/!svn/ver/1/C_mixextend.h
+END
+test_dim.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/pymix/!svn/ver/1/test_dim.py
+END
+test_iq.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/pymix/!svn/ver/1/test_iq.py
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/pymix/!svn/ver/1/GPL.txt
+END
+test_traceback.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/pymix/!svn/ver/1/test_traceback.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/pymix/!svn/ver/1/test.py
+END
+mixtureunittests.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/pymix/!svn/ver/1/mixtureunittests.py
+END
+test_hmm.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/pymix/!svn/ver/1/test_hmm.py
+END
+randomMixtures.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/pymix/!svn/ver/1/randomMixtures.py
+END
+mixtureHMMunittests.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/pymix/!svn/ver/1/mixtureHMMunittests.py
+END
+mixtureLinearGaussian.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/pymix/!svn/ver/2/mixtureLinearGaussian.py
+END
+test_struct.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/pymix/!svn/ver/1/test_struct.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/pymix/!svn/ver/1/README.txt
+END
+crp.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svnroot/pymix/!svn/ver/1/crp.py
+END
+mult.m
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svnroot/pymix/!svn/ver/1/mult.m
+END
+bioMixture.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/pymix/!svn/ver/1/bioMixture.py
+END
+entropy_hist.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/pymix/!svn/ver/1/entropy_hist.py
+END

@@ -1,0 +1,496 @@
+
+\documentclass[10pt, conference, compsocconf]{IEEEtran}
+% If the IEEEtran.cls has not been installed into the LaTeX system files,
+% manually specify the path to it: e.g.,
+% \documentclass[conference]{../sty/IEEEtran}
+
+\usepackage{graphicx,times,amsmath} % Add all your packages here
+\usepackage[latin1]{inputenc}
+\usepackage[latin1]{inputenc}
+%\usepackage[brazil]{babel}
+\usepackage{multirow}
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor IEEEtran}
+
+\newcommand{\Prob}{\mbox{\bf P}}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\IEEEoverridecommandlockouts    % to create the author's affliation portion
+                % using \thanks
+
+\textwidth 178mm    % <------ These are the adjustments we made 10/18/2005
+\textheight 239mm   % You may or may not need to adjust these numbes again
+\oddsidemargin -7mm
+\evensidemargin -7mm
+\topmargin -6mm
+\columnsep 5mm
+
+
+
+
+\begin{document}
+%
+% paper title
+% can use linebreaks \\ within to get better formatting as desired
+
+\title{Semi-supervised Approach for Finding Cancer Sub-Classes on Gene Expression Data}
+
+% author names and affiliations
+% use a multiple column layout for up to two different
+% affiliations
+
+\author{{Clerton Ribeiro, Francisco de Assis T. de Carvalho, Ivan G. Costa}\\
+Center of Informatics\\ 
+Federal University of Pernambuco\\ 
+Recife, Brazil\\
+Email: \{craf,fatc,igcf\}@cin.ufpe.br
+}
+
+% make the title area
+\maketitle
+
+
+\begin{abstract}
+The analysis of cancer gene expression is intrinsically a
+semi-supervised problem, as one is interested in building classified
+for diagnosis, but also on finding new sub-classes of cancer. We
+propose here a method for Mixture Discriminant Analysis (MDA), which
+can simultaneously classify and detect sub-classes of cancer. We
+evaluate the method on 10 gene expression data sets. Results show that
+the MDA can improve the classification and detect the sub-classes,
+whenever they are present in the data.
+\end{abstract}
+
+\begin{Keywords}
+Keywords: cancer gene expression, mixture discriminant analysis, semi-supervised learning, constraint based mixture estimation
+
+\end{Keywords}
+
+
+\section{Introduction}
+
+The measurement of the expression of all genes of cancer patients has
+made possible the development of personalized
+diagnostics~\cite{Veer2008}. In this context, a standard approach is the
+use of machine learning methods to build a classifier for a data sets
+with several healthy and cancer patients or with distinct types of
+cancer types~\cite{Spang2003}. Moreover, analysis on such data sets
+have shown the presence of unknown sub-types of cancer by the
+application of clustering methods~\cite{Golub1999,Alizadeh2000}. Such
+findings have made the study of gene expression of cancer to be
+extremely popular, and lead to great advances in method for cancer
+diagnosis~\cite{Veer2008}.
+
+These facts indicates that cancer based diagnosis is intrinsically a
+semi-supervised problem~\cite{Chapelle2006}. While, the studies
+generating the gene expression data sets give class labelling of all
+samples in the data, the frequent discovery of new sub-classes has
+made the application of both supervised and unsupervised methods
+routine. Therefore, a method that perform classification of classes
+of cancer simultaneously to finding new sub-classes is extremely
+desirable. By using the detected sub-classes in the classification
+task, the method can better delineate class boundaries/data
+distribution, therefore enhancing the overall classification
+accuracy. Moreover, the detected sub-classes, whenever they are
+present in the data, are interesting candidates for further analysis
+by the biological experts.
+
+We propose here a semi-supervised for estimating Mixture Discriminant
+Analysis (MDA) with Gausians distributions. MDA, which has been
+initially proposed in~\cite{Hastie1996}, works by fitting a mixture of
+Gaussian distribution to each class in the data set. One major
+drawback of this approach is the fact that one needs to estimate the
+optimal number of components in the mixtures (or sub-classes) each
+class independently. This makes the method not only computationally
+costly, as it requires the application of model selection
+procedure. We propose here the use of a constraint-based-mixture
+estimation~\cite{Lange2005} for estimating the MDA. The method has as
+input the list of all negative pairwise constraints, i.e. all pairs of
+samples that should not be in the same class. The algorithm, which is
+based on an extension of the EM algorithm, searches for solutions with
+a pre-determined number of groups $K$ were all negative constraints
+are satisfied, i.e we do not have samples of distinct classes in a
+single group, but we allow samples from the same class to belong to
+several groups. Therefore, if we have $K$ to be higher than the number
+of classes (cancer types) in the data $C$, the method will return a
+classifier with $K-C$ new sub-classes.
+
+A similar approach has been previously shown to work on the
+classification of time-series of Multiple Sclerosis
+patients~\cite{Costa2009a}. In this work, we evaluate the MDA method
+with several cancer gene expression data sets
+from~\cite{Souto2008}. Furthermore, we also apply a Quadratic
+Discriminant Analysis (QDA), which is equivalent to MDA when $K=C$, to
+serve as a baseline case.  To select the optimal number of sub-classes
+$K'-C$, we use a cross-validation procedure. Finally, apply a
+consensus method proposed in~\cite{Monti2003} to evaluate if the
+sub-classes are stable over distinct classifiers estimated in the
+cross-validation procedure.
+
+%This paper is organized as follows ...
+
+\section{Material and Methods}
+
+\subsection{Data Sets}
+
+
+We use in this study 10 public micro-array data sets with cancer gene
+expression, which were obtained
+in the site~\footnote{http://algorithmics.molgen.mpg.de/Supplements/CompCancer}. An
+overview of these 10 datasets is presented in Table~\ref{dataset}.  
+
+
+\begin{table*}[htp]
+\caption{Data set description \label{dataset}}
+\begin{center}
+\begin{footnotesize}
+\begin{tabular}{|l|l|l|l|l|}
+ \hline \bf{Dataset} & \bf{Classes} & \bf{$n$} &\bf{$C$} & \bf{$d$} \\
+ \hline 
+{\tt Alizadeh-v2} & DLBCL(42), FL(9), CLL(11) & 62 &3 & 4022
+ \\
+\multirow{2}{*}{\tt Alizadeh-v3}  & DLBCL1(21), DLBCL2(21),      	& \multirow{2}{*}{62}		    &\multirow{2}{*}{4}            	& \multirow{2}{*}{4022}  		\\ 
+&FL(9), CLL(11) & & &\\
+{\tt Armstrong-v1} 			& ALL(24),MLL(48)				& 72        	&2       		& 12582    \\
+{\tt Armstrong-v2} 			& ALL(24), MLL(20), AML(28)		& 72    		&3       		& 12582    \\
+{\tt Chen}         			& HCC(104), liver(75)			& 179         	&2       		& 22699         \\
+{\tt Golub-v1}     			& ALL(47), AML(25)				& 72         	&2       		& 7129  \\
+{\tt Golub-v2}     			& ALL-B(38), ALL-T(9), AML(25)	& 72         	&3       		& 7129         	\\
+{\tt Nutt-v2}      			& CG(14), NG(14)   	 			& 28         	&2       		& 12625 \\
+{\tt Nutt-v3}      			& CO(7), NO(15)      			& 22          	&2       		& 12625         \\
+{\tt Yeoh-v1}      			& T-ALL(43), B-ALL(205)			& 248         	&2       		& 12625        	\\
+\hline
+\end{tabular}
+\end{footnotesize}
+\end{center}
+\end{table*}
+
+In Table~\ref{dataset}, the second column describes the names of the
+classes (cancer types), as defined in the original publication, and
+the number of samples (patients) in each class. For further
+description of classes see~\cite{Souto2008}. The third column presents
+the number of samples ($n$), the fourth column the number of classes
+and the last column the number of genes ($D$). It is quite noticeable
+from the table that all data sets are sparse with a few samples on a
+high dimensional space.
+
+The data were pre-processed as described in~\cite{Souto2008}. For
+data measured with the affymetrix micro-arrays (Alizadeh, Golub, Nutt
+and Yeoh), which give counts as estimated of expression, we applied a
+log transformation. This was motivated by the fact that the
+distribution of counts do not follow a Gaussian distribution.
+
+\subsection{Classification Algorithms}
+
+Let $X$ be a $d$ by $n$ matrix representing a gene expression data
+set, where $x_{ij}$ denotes the expression value of sample (patient)
+$j$ and feature (gene) $i$, $x_i$ is a $d$-dimensional vector with the
+expression values of sample (patient) $i$. We also have associated to
+each data set a vector $Y$ with dimension $n$, where $y_i=\{1,...,C\}$
+denotes the class sample $i$ belongs to.
+
+\subsection{Discriminant Analysis}
+
+Discriminant analysis (DA) methods perform classification by inference
+over the posterior distribution $\Prob[y|x]$~\cite{Hastie2001}. Let
+$\Prob[x_i|y_i=c]$ be the class-conditional density modeling the
+distribution of samples in class $c$ and $\pi_c$ be the prior
+distribution of class $c$, such that $\sum_{c=1}^C \pi_c =1$ and
+$\pi_c \geq 0$, we can use Bayes Theorem to derive the posterior
+probability
+\begin{equation}
+\label{eq:classcond}
+\Prob[y_i=c|x_i] = \frac{\pi_c \Prob[x_i|y_i=c]}{\sum_{c'=1}^C \pi_{c'} \Prob[x_i|y_i=c']}.
+\end{equation}
+Therefore, classification of a sample $x_i$ can be performed with the
+rule
+\begin{equation}
+\hat{y_i} = \argmax_{c=\{1,...,C\}} \Prob[y_i=c|x_i].
+\label{eq:class}
+\end{equation}
+where $\hat{y_i}$ is the predicted class for sample $i$.
+
+The definition of $\Prob[x_i|y_i=c]$ is application dependent.  In
+gene expression analysis, a usual choice is a multivariate Gaussian
+density functions~\cite{Dudoit2002}, which is defined as
+\begin{equation}
+\label{eq:gaussian}
+\Prob[x_i|y_i=c,\theta_c] = \frac{1}{\sqrt{(2\pi)^d |\Sigma_c|}} \exp^{\frac{1}{2}(x_i - \mu_c)^\mathbf{T}\Sigma_c^{-1}(x_i - \mu_c)}
+\end{equation}
+where $\theta_c$ are the parameters $(\mu_c,\Sigma_c)$. $\mu_c$ and
+$\Sigma_c$ can be estimated with the mean and covariance matrices of
+samples of class $c$ and $\pi_c=n_c/n$, where $n_c$ is the number of samples
+in class $c$~\cite{Hastie2001}.
+
+Given sparsity of the data (few samples and high dimension), it is
+usual in gene expression analysis to estimate a diagonal
+parameterization of the covariance matrix $\Sigma_c$, i.e.  only the
+diagonal entries are estimated and all other values are set to
+zero~\cite{Dudoit2002}. This variant of DA is known as Diagonal
+Quadratic Discriminant Analysis (DQDA) and will be used in this study
+as a baseline method.
+
+\subsection{Mixture Discriminant Analysis}
+
+With mixture of discriminant analysis (MDA), we assume that class
+condition densities can be defined as a mixture model, that is
+\begin{equation}
+\label{eq:mixture}
+\Prob[x_i|y_i=c] = \sum_{k=1}^K \alpha_k \Prob[x_i|z_i=k],
+\end{equation}
+where $\alpha_k,i=1,...,K$ are the mixing coefficients.
+In~\cite{Hastie1996}, the estimation of these mixture were performed
+with the application of the EM algorithm for each class to be
+classified. 
+
+
+\subsection{Mixture Model Estimation with Constraints\label{sc:mmec}}
+
+A standard mixture model can be defined as 
+\begin{equation}
+\Prob[x_i|\Theta] = \sum_{k=1}^K \alpha_k \Prob[x_i|y_i=k,\theta_k]
+\end{equation}
+where $\Theta = (\alpha_1, ..., \alpha_k, \theta_1, ..., \theta_K)$
+are the model parameters and $\alpha_k$ are the mixing coefficients.
+By including a set of hidden labels represented by the $n$-dimensional
+vector $Z$, where $z_i
+\in \{1,..,K\}$ defines the component generating the $x_i$, we obtain
+the complete data likelihood
+\begin{equation}
+\Prob[X,Y|\Theta] = \Prob[X|Z,\Theta] \Prob[Z|\Theta].
+\end{equation}
+We can use then the {\tt EM} method to estimate the parameters
+$\Theta$ and component assignments $Z$ maximizing the complete
+likelihood (see~\cite{MacLachlan2000} for details).
+
+In constrained-based-mixture estimation (and its similar constrained
+based clustering), the user can define a $n \times n$ matrix $W$ with
+negative pairwise constraints, where $w^-_{ij}=1$ if samples $i$ and
+$j$ should not belong to the same mixture component and $w^-_{ij}=1$
+otherwise. The constraints are incorporated in the estimation by
+extending the prior probability of the hidden variable to
+$\Prob[Z|\Theta,W]=\Prob[Z|\Theta]\Prob[W|Z]$. Assuming $\Prob[W|Z]$
+follows a Gibbs distribution, there is a variation of the EM algorithm
+for estimating $Z$ and $\Theta$~\cite{Lange2005,Lu2005}. It method
+required the redefinition of the posterior assignment distribution
+\begin{equation}
+\mbox{\small{$\Prob[z_i=k|x_i,W] = \frac{\pi_c \Prob[x_i|z_i=k]}{\mathcal{Z}} \exp^{\sum_{j \neq i} -\lambda^- w^-_{ij} \Prob[z_j=k|x_j,W]}$}}
+\end{equation}
+where $\mathcal{Z}=\sum_{k=1}^K\Prob[z_i=k|x_i,W]$ and $\lambda^-$ is
+the Lagrange parameter defining the penalty weight of constraints
+violations.
+
+\subsection{Constraint-based Mixture Discriminant Analysis}
+
+We propose here the use of the constraint-based mixture estimation
+method described above for obtaining a MDA classifier. By setting the
+penalty parameter $\lambda^-$ with a high value and the constraint
+matrix $W$, such that $w^-_{ij}=1$ if $y_i \neq y_j$ and $w^-_{ij}=0$
+otherwise, we will obtain solutions where samples with distinct
+classes are not in the same mixture component. Furthermore, by
+choosing a number of components $K>C$, some of the classes will be
+related to more than one mixture component. In other words, the
+mixture will divide some of the classes in sub-classes.
+
+Therefore, we need a procedure to related the mixture components with
+the classes.  This can be achieved by relating the assignment vector
+$Z$ of the mixture with the class vector $Y$. We can estimate the
+probability of obtaining class $c$ given component $k$ by
+\begin{equation}
+\Prob[y=c|z=k]=\frac{\sum_{i=1}^N \mathbf{1}(y_i=c) \mathbf{1}(z_i=k)}{\sum_{i=1}^N \mathbf{1}(z_i=k)}
+\end{equation}
+where $\mathbf{1}$ is the identity function. From this, we can define
+the mapping
+\begin{equation}  
+\mbox{ClassOf}(k) =\argmax_{c=\{1,...,C\}} \Prob[y=c|z=k]
+\end{equation}
+which defines the class $c$ related to component $k$. 
+
+We can use this mapping and parameters $\Theta$, which has been
+estimated with the method described in Section~\ref{sc:mmec}, to define
+the class conditionals as defined in Eq.~\ref{eq:mixture} and obtain a
+MDA classifier with the use of Eq.~\ref{eq:classcond}.
+
+
+\subsection{Experimental Design and Consensus Analysis}
+
+For each data set, we performed a leave-one-out cross-validation. All
+accuracies described in the following are based on the test set alone.
+Then we use the Friedman test followed by a multiple comparison
+correction procedure to access the significance of the ranking of the
+methods~\cite{Dem2006}. For the final interpretation of the
+sub-classes, we need a method for combining the results of the
+classifiers (training and test sets) for all leave one out runs.  For
+this task, we use a procedure proposed in~\cite{Brunet2004,Monti2003}.  First, we
+build a co-occurrence matrix by counting for each pair of samples the
+number of times they appear in the same component across the different
+solutions $Z$. The consensus method works by reshuffling the matrix
+and clustering samples that share similar groups over
+solutions~\cite{Monti2003}.
+
+\section{Experiments and Results \label{sec:expres}}
+
+We investigate here if the use of the Mixture Discriminant Analysis
+method improves classification accuracy in relation to the baseline
+method DQDA, which is the equivalent to MDA when $K=C$. We are
+interested in cases, where the MDA improves or sustain the
+classification accuracy, which indicate the possibility of sub-classes
+in the data set. 
+
+\begin{table}[htp]
+\caption{Accuracy percentage and standard deviation from classification methods for each data set \label{results}}
+\begin{center}
+\begin{footnotesize}
+\begin{tabular}{|l|l|l|l|}
+  \hline
+  \bf{Dataset}     & QDA    & MDA $c+1$  & MDA $c+2$  \\
+  \hline
+  \multirow{2}{*}{\tt Alizadeh-v1}  
+  & \bf{95.24} & 80.95   & 80.95 \\  
+  &(21.55)      &(39.74)   &(26.07)     \\
+  \hline
+  \multirow{2}{*}{\tt Alizadeh-v2}  
+  & 96.77   & \textbf{100} & \textbf{100} \\  
+  &(17.81)   &(0)             &(0)    \\
+  \hline
+  \multirow{2}{*}{\tt Armstrong-v1} 
+  & 98.61 & 97.22   & 98.61         \\           
+  &(11.79) &(16.55)   &(0)      \\
+  \hline
+  \multirow{2}{*}{\tt Armstrong-v2} 
+  & \bf{94.44} &\bf{94.44} & 88.89         \\    
+  &(23.07) &(23.07)       &(11.79)       \\
+  \hline
+  \multirow{2}{*}{\tt Chen}         
+  & 91.62 & 91.06 & 94.41         \\
+  &(27.79) &(28.61) &(20.72)       \\
+  \hline
+  \multirow{2}{*}{\tt Golub-v1}     
+  & \bf{98.61} & 97.22 & 93.05         \\
+  &(11.79) &(16.55)      &(16.55)        \\
+  \hline
+ \multirow{2}{*}{\tt Golub-v2}     
+ & 90.28 & 90.27   & 90.27         \\           
+ &(29.83) &(29.83)   &(20.12)        \\
+ \hline
+ \multirow{2}{*}{\tt Nutt-v2}      
+ & 78.57 & 71.42  & 82.14         \\      
+ &(41.79) &(46.00)  &(31.50)         \\
+ \hline
+ \multirow{2}{*}{\tt Nutt-v3}      
+ & 86.36 & 90.9  & 81.81         \\             
+ &(35.13) &(29.42) &(0)         \\
+ \hline
+ \multirow{2}{*}{\tt Yeoh-v1}      
+ & \bf{96.16} & 92.74  & 91.93         \\ 
+ &(21.50) &(26.00)       &(16.60)         \\
+ \hline
+\end{tabular}
+\end{footnotesize}
+\end{center}
+\end{table}
+
+We depict the accuracies and standard deviation in Table~1. Values in
+bold face represent the method, which obtained a statistically
+significant improvement as indicated by the Friedman
+test~\cite{Dem2006}. For three datasets (Alizadeh-v1, Golub-v1 and
+Yeoh-v1), QDA obtained best results. In Alizadeth-v2 MDA with c+1 and
+c+2 obtained better results and in Armstrong-v2 both QDA and MDA c+1
+were best. In all other cases, there was no statistically relevant
+difference. Note that we used a leave-one-out cross-validation,
+because of the small number of samples in the data sets. In such
+setting, usually lead to low accuracy bias but high deviation,
+lowering the statistical power of comparisons~\cite{Braga-Neto2004}.
+
+\begin{figure*}
+\centerline{\includegraphics[width=1.9\columnwidth]{figs/DQDA_MDA}}
+\caption{Consensus Analysis on the Armstrong-v2 data for DQDA (left) and MDA $C+1$. 
+\label{fig:consensus}} 
+\end{figure*}
+
+
+This results indicates that MDA do not improve QDA in all data
+sets. This is expected, as we do not expect all data sets to contain
+sub-classes and the limited number of samples leads to over-fitting with
+too complex models.  However, in some scenarios MDA was better or
+equivalent to QDA.  As the existence of sub-classes is interesting
+from the application problem, we prefer the solution of MDA with more
+components, whenever accuracy is equivalent to QDA.
+
+Interestingly, some of the data sets above, Alizadeh-v1, Armstrong-v2
+and Gollub-v2, represent the original classification performed by the
+specialists, which were latter found to contain sub-classes with the
+use of unsupervised
+methods~\cite{Alizadeh2000,Armstrong2002,Golub1999}. In these
+scenarios, MDA had superior or equivalent accuracies in relation the
+QDA.
+
+To access if MDA is successful in detecting the sub-classes, we
+perform the consensus analysis~\cite{Brunet2004,Monti2003} on the Armstrong-v2
+data set. In Figure~\ref{fig:consensus}, we depict the co-occurrence
+matrix, where a particular entry indicates the number of times the
+pair of patients were classified in the same class/sub-class. As seen
+in Figure~\ref{fig:consensus} left, DQDA obtained a good
+classification and separated patients from the original classes:
+lymphoblastic leukemias with MLL translocations (MLL) and Acute
+lymphoblastic leukemias (ALL)~\cite{Armstrong2002}. This is indicated in the figure by the
+two block of dark values. However, the study found with clustering
+algorithms that 28 patients, which were originally classified as
+patients with MLL, had a distinct expression signatures. These had
+their diagnostics changed to akute myelogenous leukemias (AML). As
+indicated in Figure~~\ref{fig:consensus} right, MDA with $c+1$
+components, detected the subclasses AML and MLL as indicated by the
+two blocks of dark values in the left-bottom part of the matrix. Note
+that in this data set, only the two original classes (MLL and ALL)
+were give as input for the constraints. This exemplifies a case when
+MDA successfully finds sub-classes on data sets.
+
+
+%One particular data set, which has no known sub-classes, but that
+%shows a slight increase with MDA c+2 in Chen.  XXX.
+% XXX look at nutt-v3, singh,  - they all contaim possible sub-classes.
+
+Another data set of interest is Nutt-v3, where the co-occurrence
+analysis indicated a small subgroup of patients related to brain
+glioblastomas. This has has not been previously reported in the
+original study~\cite{Nutt2003}. We could find not correlation between
+this potential sub-class and patient survival time or
+outcome~\cite{Nutt2003}. The use of further clinical or patient follow
+up data would be helpfull in indicate if this potential sub-classes
+has potential for improving the diagnosis of glioblastomas.
+
+\section{Final Remarks}
+
+We have proposed here a new method for estimation of mixture
+discriminant analysis. This methods improves the original proposal of
+MDA~\cite{Hastie1996} by requiring only one pass of the EM algorithm to
+obtain solutions. From the application problem, we have shown that MDA
+can improve classification and successfully indicate the existence of
+sub-classes of cancer of gene expression data sets. This was
+exemplified on the classical study from Armstrong et
+al.~\cite{Armstrong2002}.
+
+As future work, we would like to either include new data sets in the
+study and perform a more detailed biological analysis of new
+sub-classes found. From a methodological point of view, the MDA can be
+improved by the use of feature selection methods to cope with the
+high-dimensionality problem, for example using a approach similar to
+Shrunken centroids~\cite{Tibshirani2002}.
+
+
+
+% use section* for acknowledgment
+\section*{Acknowledgment}
+
+This work has been partially supported by Brazilian research agencies:
+FACEPE, CNPq and CAPES.
+
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{bases,cc}
+
+
+\end{document}

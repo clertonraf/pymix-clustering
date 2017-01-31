@@ -1,0 +1,77 @@
+10
+
+dir
+435
+https://svn.cin.ufpe.br/svn/compbio/trunk/ConstrainedCancer/exp
+https://svn.cin.ufpe.br/svn/compbio
+
+
+
+2010-05-17T12:34:53.956480Z
+326
+igcf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33fb385c-782b-de11-b6d2-0019d1013b4f
+
+output
+dir
+
+plots
+dir
+
+analysis
+dir
+
+results.xls
+file
+
+
+
+
+2010-05-24T12:50:23.163385Z
+e1d65c822e465f19efdaeb3e05efb7c4
+2010-04-14T19:47:17.085043Z
+294
+craf
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14848
+
+scripts
+dir
+
+occurrenceMatrix
+dir
+
